@@ -180,7 +180,7 @@
             "resources": {
               "food": 1902856,
               "stone": 2378570,
-              "timber": 3.805712,
+              "timber": 3805712,
               "ore": 1427142,
               "gold": 10574231
             }
@@ -2684,7 +2684,7 @@
             "time": "1d 10:16:00",
             "seconds": 123360,
             "resources": {
-              "food": 107.225,
+              "food": 107225,
               "stone": 107225,
               "timber": 107225,
               "ore": 107225,
@@ -6508,7 +6508,7 @@
             "time": "8d 08:38:00",
             "seconds": 722280,
             "resources": {
-              "food": 614.104,
+              "food": 614104,
               "stone": 1023506,
               "timber": 1023506,
               "ore": 750571,
@@ -13170,11 +13170,11 @@
             "time": "235d 01:01:00",
             "seconds": 20307660,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null
+              "food": 6130448,
+              "stone": 8359701,
+              "timber": 8359701,
+              "ore": 5015821,
+              "gold": 39490288
             }
           }
         ]
@@ -13479,7 +13479,7 @@
               "stone": 17556,
               "timber": 17556,
               "ore": 12874,
-              "gold": 12.286
+              "gold": 12286
             }
           },
           {
@@ -15115,11 +15115,11 @@
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 18.057,
-              "stone": 30.095,
-              "timber": 30.095,
-              "ore": 22.07,
-              "gold": 21.062
+              "food": 18057,
+              "stone": 30095,
+              "timber": 30095,
+              "ore": 22070,
+              "gold": 21062
             }
           },
           {
@@ -15139,11 +15139,11 @@
             "time": "1d 04:04:00",
             "seconds": 101040,
             "resources": {
-              "food": 48.152,
-              "stone": 80.254,
-              "timber": 80.254,
-              "ore": 58.853,
-              "gold": 63.185
+              "food": 48152,
+              "stone": 80254,
+              "timber": 80254,
+              "ore": 58853,
+              "gold": 63185
             }
           },
           {
@@ -15163,11 +15163,11 @@
             "time": "1d 17:17:00",
             "seconds": 148620,
             "resources": {
-              "food": 90.285,
-              "stone": 150.475,
-              "timber": 150.475,
-              "ore": 110.349,
-              "gold": 421.23
+              "food": 90285,
+              "stone": 150475,
+              "timber": 150475,
+              "ore": 110349,
+              "gold": 421230
             }
           },
           {
@@ -22947,11 +22947,11 @@
             "time": "13d 13:58:00",
             "seconds": 1173480,
             "resources": {
-              "food": null,
-              "stone": 629.481,
-              "timber": 472.111,
-              "ore": null,
-              "gold": null
+              "food": 2360552,
+              "stone": 629481,
+              "timber": 472111,
+              "ore": 1258961,
+              "gold": 1298718
             }
           },
           {
@@ -24292,11 +24292,11 @@
             "time": "289d 17:42:00",
             "seconds": 25033320,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null
+              "food": 32842456,
+              "stone": 13136983,
+              "timber": 10947486,
+              "ore": 8757989,
+              "gold": 18069113
             }
           },
           {
@@ -26104,8 +26104,8 @@
             "time": "09:14:00",
             "seconds": 33240,
             "resources": {
-              "food": 52.492,
-              "stone": 8.749,
+              "food": 52492,
+              "stone": 8749,
               "timber": 26246,
               "ore": 26246,
               "gold": 47611
@@ -26611,7 +26611,7 @@
             "seconds": 66480,
             "resources": {
               "food": 89236,
-              "stone": 44.618,
+              "stone": 44618,
               "timber": 44618,
               "ore": 14873,
               "gold": 80938
@@ -28101,11 +28101,11 @@
             "time": "22d 23:19:00",
             "seconds": 1984740,
             "resources": {
-              "food": null,
-              "stone": 699.887,
-              "timber": 419.932,
-              "ore": null,
-              "gold": null
+              "food": 1119819,
+              "stone": 699887,
+              "timber": 419932,
+              "ore": 1119819,
+              "gold": 1421970
             }
           },
           {
@@ -28278,11 +28278,11 @@
             "time": "15d 09:11:00",
             "seconds": 1329060,
             "resources": {
-              "food": null,
-              "stone": 839.864,
-              "timber": 699.887,
-              "ore": 559.91,
-              "gold": null
+              "food": 1399773,
+              "stone": 839864,
+              "timber": 699887,
+              "ore": 559910,
+              "gold": 1523539
             }
           },
           {
@@ -30464,7 +30464,7 @@
             "time": "156d 12:15:00",
             "seconds": 13522500,
             "resources": {
-              "food": 7448.326,
+              "food": 7448326,
               "stone": 4655204,
               "timber": 2793122,
               "ore": 7448326,
@@ -33605,12 +33605,12 @@
             "time": "20 min",
             "seconds": 0,
             "resources": {
-              "food": null,
-              "stone": 322.758,
-              "timber": 968.273,
-              "ore": 968.273,
-              "gold": null,
-              "anima": 266.36
+              "food": 1936545,
+              "stone": 322758,
+              "timber": 968273,
+              "ore": 968273,
+              "gold": 1331799,
+              "anima": 266360
             }
           },
           {
@@ -33626,12 +33626,12 @@
             "time": "30 min",
             "seconds": 0,
             "resources": {
-              "food": null,
-              "stone": 387.309,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": 319.632
+              "food": 2323853,
+              "stone": 387309,
+              "timber": 1161927,
+              "ore": 1161927,
+              "gold": 1598159,
+              "anima": 319632
             }
           },
           {
@@ -33668,12 +33668,12 @@
             "time": "50 min",
             "seconds": 0,
             "resources": {
-              "food": null,
-              "stone": 677.791,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": 559.356
+              "food": 4066743,
+              "stone": 677791,
+              "timber": 2033372,
+              "ore": 2033372,
+              "gold": 2796778,
+              "anima": 559356
             }
           },
           {
@@ -33743,12 +33743,12 @@
             "time": "120 min",
             "seconds": 0,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": null
+              "food": 10650993,
+              "stone": 1775166,
+              "timber": 5325497,
+              "ore": 5325497,
+              "gold": 7324893,
+              "anima": 1464979
             }
           }
         ]
@@ -34125,12 +34125,12 @@
             "time": "53d 10:56:00",
             "seconds": 4618560,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": 581.149
+              "food": 3520990,
+              "stone": 1760495,
+              "timber": 1408396,
+              "ore": 2112594,
+              "gold": 2905743,
+              "anima": 581149
             }
           },
           {
@@ -34150,12 +34150,12 @@
             "time": "70d 03:51:00",
             "seconds": 6061860,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": 762.758
+              "food": 4621299,
+              "stone": 2310650,
+              "timber": 1848520,
+              "ore": 2772779,
+              "gold": 3813788,
+              "anima": 762758
             }
           },
           {
@@ -34233,12 +34233,12 @@
             "time": "183d 18:04:00",
             "seconds": 15876240,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": null
+              "food": 12103401,
+              "stone": 6051701,
+              "timber": 4841361,
+              "ore": 7262041,
+              "gold": 9988491,
+              "anima": 1997699
             }
           }
         ]
@@ -34475,12 +34475,12 @@
             "time": "159d 00:43:00",
             "seconds": 13740180,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
+              "food": 10474943,
+              "stone": 6284966,
+              "timber": 5237472,
+              "ore": 4189978,
               "gold": 8544585,
-              "anima": null
+              "anima": 1728917
             }
           },
           {
@@ -34647,12 +34647,12 @@
             "time": "60d 14:00:00",
             "seconds": 5234400,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": 658.635
+              "food": 3990455,
+              "stone": 2394273,
+              "timber": 1995228,
+              "ore": 1596182,
+              "gold": 3293175,
+              "anima": 658635
             }
           },
           {
@@ -34701,12 +34701,12 @@
             "time": "113d 14:14:00",
             "seconds": 9814440,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": null
+              "food": 7482102,
+              "stone": 4489262,
+              "timber": 3741051,
+              "ore": 2992841,
+              "gold": 6174704,
+              "anima": 1234941
             }
           },
           {
@@ -34734,12 +34734,12 @@
             "time": "159d 00:43:00",
             "seconds": 13740180,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": null
+              "food": 10474943,
+              "stone": 6284966,
+              "timber": 5237472,
+              "ore": 4189978,
+              "gold": 8644585,
+              "anima": 1728917
             }
           },
           {
@@ -34767,12 +34767,12 @@
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": null
+              "food": 13717187,
+              "stone": 8230313,
+              "timber": 6858594,
+              "ore": 5486875,
+              "gold": 11320289,
+              "anima": 2264058
             }
           }
         ]
@@ -34960,12 +34960,12 @@
             "time": "280d 15:22:00",
             "seconds": 24247320,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": null
+              "food": 22182232,
+              "stone": 3697039,
+              "timber": 11091116,
+              "ore": 11091116,
+              "gold": 15255149,
+              "anima": 3051030
             }
           },
           {
@@ -35398,12 +35398,12 @@
             "time": "327d 09:56:00",
             "seconds": 28288560,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "anima": null
+              "food": 8626424,
+              "stone": 12939636,
+              "timber": 12939636,
+              "ore": 12939636,
+              "gold": 17797674,
+              "anima": 3559535
             }
           },
           {
@@ -35461,7 +35461,7 @@
             "time": "857d 12:18:00",
             "seconds": 74089080,
             "resources": {
-              "food": 22.593014,
+              "food": 22593014,
               "stone": 33889521,
               "timber": 33889521,
               "ore": 33889521,
@@ -39102,7 +39102,7 @@
               "stone": 260371,
               "timber": 260371,
               "ore": 260371,
-              "gold": 749.561,
+              "gold": 749561,
               "tomes": 20
             }
           },
