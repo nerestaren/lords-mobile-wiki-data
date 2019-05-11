@@ -14617,11 +14617,11 @@
             "time": "423d 01:49:00",
             "seconds": 36553740,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0
+              "food": 9028477,
+              "stone": 15047462,
+              "timber": 15047462,
+              "ore": 11034806,
+              "gold": 71082518
             }
           }
         ]
@@ -15054,11 +15054,11 @@
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0
+              "food": 10031642,
+              "stone": 16719402,
+              "timber": 16719402,
+              "ore": 12260895,
+              "gold": 78980576
             }
           }
         ]
