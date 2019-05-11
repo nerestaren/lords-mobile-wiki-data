@@ -46247,49 +46247,68 @@
           {
             "level": 7,
             "value": "2%",
-            "might": 0,
-            "requires": [],
-            "time": "Xd XX:XX:XX",
-            "seconds": 0,
+            "might": 551039,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "59d 00:48:00",
+            "seconds": 5100480,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 10700832,
+              "stone": 3344010,
+              "timber": 2006406,
+              "ore": 2675208,
+              "gold": 3850720,
+              "tomes": 159
             }
           },
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
-            "requires": [],
-            "time": "Xd XX:XX:XX",
-            "seconds": 0,
+            "might": 77604,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Infantry Defense (Wonder) ll ",
+                "l": 8
+              }
+            ],
+            "time": "84d 08:00:00",
+            "seconds": 7286400,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 15286903,
+              "stone": 4777157,
+              "timber": 2866295,
+              "ore": 3821726,
+              "gold": 5501040,
+              "tomes": 206
             }
           },
           {
             "level": 9,
             "value": "5%",
-            "might": 0,
-            "requires": [],
-            "time": "Xd XX:XX:XX",
-            "seconds": 0,
+            "might": 1066689,
+            "requires": [
+              {
+                "r": "Lv.X\nInfantry Defense (Wonder) ll ",
+                "l": 9
+              }
+            ],
+            "time": "118d 01:36:00",
+            "seconds": 10200960,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 21401664,
+              "stone": 6688020,
+              "timber": 4012812,
+              "ore": 5350416,
+              "gold": 7701456,
+              "tomes": 256
             }
           },
           {
