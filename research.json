@@ -43064,17 +43064,22 @@
           {
             "level": 6,
             "value": "1.5%",
-            "might": 0,
-            "requires": [],
-            "time": "Xd XX:XX:XX",
-            "seconds": 0,
+            "might": 143437,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "15d 11:15:00",
+            "seconds": 1336500,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": 29
+              "food": 1752467,
+              "stone": 876234,
+              "timber": 876234,
+              "ore": 876234,
+              "gold": 1009010,
+              "tomes": 35
             }
           },
           {
@@ -43273,17 +43278,17 @@
           {
             "level": 7,
             "value": "2%",
-            "might": 0,
+            "might": 189511,
             "requires": [],
-            "time": "Xd XX:XX:XX",
-            "seconds": 0,
+            "time": "20d 07:16:00",
+            "seconds": 1754160,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 2300113,
+              "stone": 1150057,
+              "timber": 1150057,
+              "ore": 1150057,
+              "gold": 132325,
+              "tomes": 47
             }
           },
           {
@@ -43461,17 +43466,22 @@
           {
             "level": 7,
             "value": "2%",
-            "might": 0,
-            "requires": [],
-            "time": "Xd XX:XX:XX",
-            "seconds": 0,
+            "might": 189511,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "20d 07:16:00",
+            "seconds": 1754160,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 2300113,
+              "stone": 1150057,
+              "timber": 1150057,
+              "ore": 1150057,
+              "gold": 1324325,
+              "tomes": 47
             }
           },
           {
