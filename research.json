@@ -46324,17 +46324,26 @@
           {
             "level": 10,
             "value": "10%",
-            "might": 0,
-            "requires": [],
-            "time": "Xd XX:XX:XX",
-            "seconds": 0,
+            "might": 1390235,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Infantry Defense (Wonder) ll ",
+                "l": 10
+              }
+            ],
+            "time": "154d 14:39:00",
+            "seconds": 13358340,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 28025988,
+              "stone": 8758122,
+              "timber": 5254873,
+              "ore": 7006497,
+              "gold": 10085240,
+              "tomes": 324
             }
           }
         ]
@@ -46720,49 +46729,76 @@
           {
             "level": 2,
             "value": "0.4%",
-            "might": 0,
-            "requires": [],
-            "time": "xd xx:xx:xx",
-            "seconds": 0,
+            "might": 200148,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Infantry Durability (Wonder) II",
+                "l": 2
+              }
+            ],
+            "time": "23d 06:08:00",
+            "seconds": 2009280,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 2634675,
+              "stone": 1317338,
+              "timber": 1317338,
+              "ore": 1317388,
+              "gold": 1516954,
+              "tomes": 32
             }
           },
           {
             "level": 3,
             "value": "0.6%",
-            "might": 0,
-            "requires": [],
-            "time": "Xd XX:XX:XX",
-            "seconds": 0,
+            "might": 250932,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Infantry Durability (Wonder) II",
+                "l": 3
+              }
+            ],
+            "time": "4d 05:44:00",
+            "seconds": 366240,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 3199248,
+              "stone": 1599624,
+              "timber": 1599624,
+              "ore": 1599624,
+              "gold": 1842015,
+              "tomes": 53
             }
           },
           {
             "level": 4,
             "value": "0.8%",
-            "might": 0,
-            "requires": [],
-            "time": "Xd XX:XX:XX",
-            "seconds": 0,
+            "might": 301715,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Infantry Durability (Wonder) II",
+                "l": 4
+              }
+            ],
+            "time": "33d 05:20:00",
+            "seconds": 2870400,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 3763821,
+              "stone": 1881911,
+              "timber": 1881911,
+              "ore": 1881911,
+              "gold": 2167911,
+              "tomes": 76
             }
           },
           {
