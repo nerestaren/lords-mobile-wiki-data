@@ -46839,7 +46839,7 @@
               "timber": null,
               "ore": null,
               "gold": null,
-              "tomes": null
+              "tomes": 99
             }
           },
           {
@@ -46855,7 +46855,7 @@
               "timber": null,
               "ore": null,
               "gold": null,
-              "tomes": null
+              "tomes": 136
             }
           },
           {
@@ -46871,7 +46871,7 @@
               "timber": null,
               "ore": null,
               "gold": null,
-              "tomes": null
+              "tomes": 186
             }
           },
           {
@@ -46887,7 +46887,7 @@
               "timber": null,
               "ore": null,
               "gold": null,
-              "tomes": null
+              "tomes": 241
             }
           },
           {
@@ -46903,7 +46903,7 @@
               "timber": null,
               "ore": null,
               "gold": null,
-              "tomes": null
+              "tomes": 299
             }
           },
           {
@@ -46919,7 +46919,7 @@
               "timber": null,
               "ore": null,
               "gold": null,
-              "tomes": null
+              "tomes": 378
             }
           }
         ]
@@ -47306,7 +47306,7 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "tomes": 0
+              "tomes": 40
             }
           },
           {
@@ -47327,7 +47327,7 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "tomes": 0
+              "tomes": 65
             }
           },
           {
@@ -47348,7 +47348,7 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "tomes": 0
+              "tomes": 92
             }
           },
           {
@@ -47369,7 +47369,7 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "tomes": 0
+              "tomes": 120
             }
           },
           {
@@ -47390,7 +47390,7 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "tomes": 0
+              "tomes": 166
             }
           },
           {
@@ -47411,7 +47411,7 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "tomes": 0
+              "tomes": 226
             }
           },
           {
@@ -47432,7 +47432,7 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "tomes": 0
+              "tomes": 292
             }
           },
           {
@@ -47453,7 +47453,7 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "tomes": 0
+              "tomes": 363
             }
           },
           {
@@ -47474,7 +47474,7 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "tomes": 0
+              "tomes": 459
             }
           }
         ]
