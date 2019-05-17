@@ -36482,7 +36482,7 @@
                 "l": 24
               },
               {
-                "r": "Resource Harvesting 3 ",
+                "r": "Resource Harvesting 3",
                 "l": 9
               }
             ],
@@ -36507,7 +36507,7 @@
                 "l": 25
               },
               {
-                "r": "Resource Harvesting 3 ",
+                "r": "Resource Harvesting 3",
                 "l": 10
               }
             ],
@@ -46405,6 +46405,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Ranged Defense (Wonder) II",
+                "l": 1
               }
             ],
             "time": "5d 14:56:00",
@@ -46426,6 +46430,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Ranged Defense (Wonder) II",
+                "l": 2
               }
             ],
             "time": "19d 16:16:00",
@@ -46447,6 +46455,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Ranged Defense (Wonder) II",
+                "l": 3
               }
             ],
             "time": "23d 21:28:00",
@@ -46468,6 +46480,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Ranged Defense (Wonder) II",
+                "l": 4
               }
             ],
             "time": "28d 02:40:00",
@@ -46537,6 +46553,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Ranged Defense (Wonder) II",
+                "l": 8
               }
             ],
             "time": "84d 08:00:00",
@@ -46558,6 +46578,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Ranged Defense (Wonder) II",
+                "l": 9
               }
             ],
             "time": "118d 01:36:00",
@@ -46579,6 +46603,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Ranged Defense (Wonder) II",
+                "l": 10
               }
             ],
             "time": "154d 14:39:00",
@@ -46605,6 +46633,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Cavalry Defense (Wonder) II",
+                "l": 1
               }
             ],
             "time": "5d 14:56:00",
@@ -46626,6 +46658,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Cavalry Defense (Wonder) II",
+                "l": 2
               }
             ],
             "time": "19d 16:16:00",
@@ -46981,6 +47017,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Ranged Durability (Wonder) II",
+                "l": 1
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -47151,6 +47191,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Cavalry Durability (Wonder) II",
+                "l": 1
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -47321,6 +47365,18 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Infantry Offense (Wonder) II",
+                "l": 7
+              },
+              {
+                "r": "Ranged Offense (Wonder) II",
+                "l": 7
+              },
+              {
+                "r": "Cavalry Offense (Wonder) II",
+                "l": 7
               }
             ],
             "time": "xxdxx:xx:xx",
