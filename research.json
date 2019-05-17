@@ -4041,7 +4041,7 @@
                 "l": 1
               },
               {
-                "r": "Training Speed I ",
+                "r": "Training Speed I",
                 "l": 1
               }
             ],
@@ -5278,7 +5278,7 @@
             "might": 6596,
             "requires": [
               {
-                "r": "Academy ",
+                "r": "Academy",
                 "l": 12
               }
             ],
@@ -9365,7 +9365,7 @@
             "might": 19259,
             "requires": [
               {
-                "r": "Academy ",
+                "r": "Academy",
                 "l": 15
               }
             ],
@@ -14829,7 +14829,7 @@
                 "l": 24
               },
               {
-                "r": "Wall Durability I ",
+                "r": "Wall Durability I",
                 "l": 8
               }
             ],
@@ -14853,7 +14853,7 @@
                 "l": 25
               },
               {
-                "r": "Wall Durability I ",
+                "r": "Wall Durability I",
                 "l": 9
               }
             ],
@@ -14877,7 +14877,7 @@
                 "l": 25
               },
               {
-                "r": "Wall Durability I ",
+                "r": "Wall Durability I",
                 "l": 10
               }
             ],
@@ -19666,7 +19666,7 @@
             "might": 596599,
             "requires": [
               {
-                "r": "Academy ",
+                "r": "Academy",
                 "l": 25
               },
               {
@@ -19698,7 +19698,7 @@
             "might": 954557,
             "requires": [
               {
-                "r": "Academy ",
+                "r": "Academy",
                 "l": 25
               },
               {
@@ -19722,7 +19722,7 @@
             "might": 1073877,
             "requires": [
               {
-                "r": "Academy ",
+                "r": "Academy",
                 "l": 25
               },
               {
@@ -19746,7 +19746,7 @@
             "might": 1193197,
             "requires": [
               {
-                "r": "Academy ",
+                "r": "Academy",
                 "l": 25
               },
               {
@@ -19770,7 +19770,7 @@
             "might": 1312517,
             "requires": [
               {
-                "r": "Academy ",
+                "r": "Academy",
                 "l": 25
               },
               {
@@ -19794,7 +19794,7 @@
             "might": 1431836,
             "requires": [
               {
-                "r": "Academy ",
+                "r": "Academy",
                 "l": 25
               },
               {
@@ -19818,7 +19818,7 @@
             "might": 1551156,
             "requires": [
               {
-                "r": "Academy ",
+                "r": "Academy",
                 "l": 25
               },
               {
@@ -31280,7 +31280,7 @@
             "might": 46718,
             "requires": [
               {
-                "r": "Academy ",
+                "r": "Academy",
                 "l": 20
               },
               {
@@ -43063,7 +43063,12 @@
             "level": 3,
             "value": "0.6%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43079,7 +43084,12 @@
             "level": 4,
             "value": "0.8%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43095,7 +43105,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43132,7 +43147,12 @@
             "level": 7,
             "value": "2%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43148,7 +43168,12 @@
             "level": 8,
             "value": "3%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43164,7 +43189,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43180,7 +43210,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43293,7 +43328,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43309,7 +43349,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43325,7 +43370,12 @@
             "level": 7,
             "value": "2%",
             "might": 189511,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "20d 07:16:00",
             "seconds": 1754160,
             "resources": {
@@ -43341,7 +43391,12 @@
             "level": 8,
             "value": "3%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43357,7 +43412,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43373,7 +43433,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43465,7 +43530,12 @@
             "level": 4,
             "value": "0.8%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43481,7 +43551,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 106926,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "11d 14:26:00",
             "seconds": 1002360,
             "resources": {
@@ -43497,7 +43572,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43563,7 +43643,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43579,7 +43664,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43646,7 +43736,12 @@
             "level": 3,
             "value": "0.6%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43662,7 +43757,12 @@
             "level": 4,
             "value": "0.8%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43678,7 +43778,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43694,7 +43799,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43710,7 +43820,12 @@
             "level": 7,
             "value": "2%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43726,7 +43841,12 @@
             "level": 8,
             "value": "3%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43742,7 +43862,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43758,7 +43883,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43825,7 +43955,12 @@
             "level": 3,
             "value": "0.6%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43841,7 +43976,12 @@
             "level": 4,
             "value": "0.8%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43857,7 +43997,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43873,7 +44018,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43889,7 +44039,12 @@
             "level": 7,
             "value": "2%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43905,7 +44060,12 @@
             "level": 8,
             "value": "3%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43921,7 +44081,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -43937,7 +44102,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44046,7 +44216,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44062,7 +44237,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44078,7 +44258,12 @@
             "level": 7,
             "value": "2%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44094,7 +44279,12 @@
             "level": 8,
             "value": "3%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44110,7 +44300,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44126,7 +44321,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44323,7 +44523,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44339,7 +44544,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44406,7 +44616,12 @@
             "level": 3,
             "value": "0.6%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44422,7 +44637,12 @@
             "level": 4,
             "value": "0.8%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44438,7 +44658,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44454,7 +44679,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44470,7 +44700,12 @@
             "level": 7,
             "value": "2%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44486,7 +44721,12 @@
             "level": 8,
             "value": "3%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44502,7 +44742,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44518,7 +44763,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44585,7 +44835,12 @@
             "level": 3,
             "value": "0.6%",
             "might": 132768,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "14d 22:36:00",
             "seconds": 1290960,
             "resources": {
@@ -44601,7 +44856,12 @@
             "level": 4,
             "value": "0.8%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44617,7 +44877,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44633,7 +44898,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44649,7 +44919,12 @@
             "level": 7,
             "value": "2%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -44690,7 +44965,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46168,7 +46448,7 @@
                 "l": 25
               },
               {
-                "r": "Infantry Offense (Wonder) ll ",
+                "r": "Infantry Offense (Wonder) ll",
                 "l": 1
               }
             ],
@@ -46193,7 +46473,7 @@
                 "l": 25
               },
               {
-                "r": "Infantry Offense (Wonder) ll ",
+                "r": "Infantry Offense (Wonder) ll",
                 "l": 2
               }
             ],
@@ -46218,7 +46498,7 @@
                 "l": 25
               },
               {
-                "r": "Infantry Offense (Wonder) ll ",
+                "r": "Infantry Offense (Wonder) ll",
                 "l": 3
               }
             ],
@@ -46243,7 +46523,7 @@
                 "l": 25
               },
               {
-                "r": "Infantry Offense (Wonder) ll ",
+                "r": "Infantry Offense (Wonder) ll",
                 "l": 4
               }
             ],
@@ -46331,7 +46611,7 @@
                 "l": 25
               },
               {
-                "r": "Infantry Defense (Wonder) ll ",
+                "r": "Infantry Defense (Wonder) ll",
                 "l": 8
               }
             ],
@@ -46352,7 +46632,11 @@
             "might": 1066689,
             "requires": [
               {
-                "r": "Lv.X\nInfantry Defense (Wonder) ll ",
+                "r": "Academy",
+                "l": null
+              },
+              {
+                "r": "Infantry Defense (Wonder) ll",
                 "l": 9
               }
             ],
@@ -46377,7 +46661,7 @@
                 "l": 25
               },
               {
-                "r": "Infantry Defense (Wonder) ll ",
+                "r": "Infantry Defense (Wonder) ll",
                 "l": 10
               }
             ],
@@ -46501,7 +46785,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 310907,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "33d 17:36:00",
             "seconds": 2914560,
             "resources": {
@@ -46517,7 +46806,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 417071,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "44d 23:28:00",
             "seconds": 3886080,
             "resources": {
@@ -46533,7 +46827,12 @@
             "level": 7,
             "value": "2%",
             "might": 551039,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "59d 00:48:00",
             "seconds": 5100480,
             "resources": {
@@ -46679,7 +46978,12 @@
             "level": 3,
             "value": "0.6%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "XXd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46695,7 +46999,12 @@
             "level": 4,
             "value": "0.8%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "XXd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46711,7 +47020,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46727,7 +47041,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46743,7 +47062,12 @@
             "level": 7,
             "value": "2%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46759,7 +47083,12 @@
             "level": 8,
             "value": "3%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46775,7 +47104,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46791,7 +47125,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46912,7 +47251,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46928,7 +47272,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46944,7 +47293,12 @@
             "level": 7,
             "value": "2%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46960,7 +47314,12 @@
             "level": 8,
             "value": "3%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46976,7 +47335,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -46992,7 +47356,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47038,7 +47407,12 @@
             "level": 2,
             "value": "0.4%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47054,7 +47428,12 @@
             "level": 3,
             "value": "0.6%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47070,7 +47449,12 @@
             "level": 4,
             "value": "0.8%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47086,7 +47470,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47102,7 +47491,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47118,7 +47512,12 @@
             "level": 7,
             "value": "2%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47134,7 +47533,12 @@
             "level": 8,
             "value": "3%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47150,7 +47554,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47166,7 +47575,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47212,7 +47626,12 @@
             "level": 2,
             "value": "0.4%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "xd xx:xx:xx",
             "seconds": 0,
             "resources": {
@@ -47228,7 +47647,12 @@
             "level": 3,
             "value": "0.6%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47244,7 +47668,12 @@
             "level": 4,
             "value": "0.8%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47260,7 +47689,12 @@
             "level": 5,
             "value": "1.1%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47276,7 +47710,12 @@
             "level": 6,
             "value": "1.5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47292,7 +47731,12 @@
             "level": 7,
             "value": "2%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47308,7 +47752,12 @@
             "level": 8,
             "value": "3%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47324,7 +47773,12 @@
             "level": 9,
             "value": "5%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
@@ -47340,7 +47794,12 @@
             "level": 10,
             "value": "10%",
             "might": 0,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": null
+              }
+            ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
