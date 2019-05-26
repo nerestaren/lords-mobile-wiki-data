@@ -36371,17 +36371,22 @@
           {
             "level": 4,
             "value": "0.8%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 34046,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "3d 15:59:00",
+            "seconds": 316740,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 424718,
+              "stone": 212359,
+              "timber": 212359,
+              "ore": 212359,
+              "gold": 244538,
+              "tomes": 7
             }
           },
           {
