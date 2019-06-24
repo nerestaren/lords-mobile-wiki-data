@@ -37140,17 +37140,34 @@
           {
             "level": 10,
             "value": "15%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 413119,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Forging Speed",
+                "l": 10
+              },
+              {
+                "r": "Leadership (infa def)",
+                "l": 9
+              },
+              {
+                "r": "Leadership (infa hp)",
+                "l": 9
+              }
+            ],
+            "time": "45d 22:39:00",
+            "seconds": 3969540,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 5205095,
+              "stone": 2082038,
+              "timber": 1561529,
+              "ore": 4164076,
+              "gold": 2996912,
+              "tomes": 72
             }
           }
         ]
@@ -38013,17 +38030,26 @@
           {
             "level": 10,
             "value": "15%",
-            "might": 0,
-            "requires": [],
+            "might": 465515,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Leadership (Infantry ATK)",
+                "l": 10
+              }
+            ],
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 5865253,
+              "stone": 2932627,
+              "timber": 2346102,
+              "ore": 3519152,
+              "gold": 3377008,
+              "tomes": 81
             }
           }
         ]
@@ -38838,17 +38864,26 @@
           {
             "level": 10,
             "value": "15%",
-            "might": 0,
-            "requires": [],
+            "might": 568292,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Leadership (Infantry HP)",
+                "l": 10
+              }
+            ],
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 11456286,
+              "stone": 5728143,
+              "timber": 1432036,
+              "ore": 1432036,
+              "gold": 4122581,
+              "tomes": 99
             }
           }
         ]
