@@ -39544,7 +39544,7 @@
           {
             "level": 1,
             "value": "Unlock Helmet Sigil",
-            "might": 15023,
+            "might": 544024,
             "requires": [
               {
                 "r": "Academy",
@@ -39611,49 +39611,64 @@
           {
             "level": 2,
             "value": "0.4%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 70702,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "8d 05:10:00",
+            "seconds": 709800,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 1489096,
+              "stone": 744548,
+              "timber": 186137,
+              "ore": 186137,
+              "gold": 535856,
+              "tomes": 18
             }
           },
           {
             "level": 3,
             "value": "0.6%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 88640,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "9d 23:25:00",
+            "seconds": 861900,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 1808188,
+              "stone": 904094,
+              "timber": 226024,
+              "ore": 266024,
+              "gold": 650682,
+              "tomes": 29
             }
           },
           {
             "level": 4,
             "value": "08%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 106579,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "11d 17:40:00",
+            "seconds": 1014000,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 2127280,
+              "stone": 1063640,
+              "timber": 265910,
+              "ore": 265910,
+              "gold": 765509,
+              "tomes": 42
             }
           },
           {
