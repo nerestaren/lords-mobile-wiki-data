@@ -43439,11 +43439,11 @@
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
+              "food": 3285876,
+              "stone": 1642938,
+              "timber": 1642938,
+              "ore": 1642938,
+              "gold": 1891892,
               "tomes": 61
             }
           },
