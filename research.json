@@ -37522,11 +37522,11 @@
             "time": "17d 13:01:00",
             "seconds": 1515660,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
+              "food": 1987400,
+              "stone": 794960,
+              "timber": 596220,
+              "ore": 1589920,
+              "gold": 1144276,
               "tomes": 36
             }
           },
