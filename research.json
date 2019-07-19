@@ -18682,6 +18682,1589 @@
         ]
       },
       {
+        "title": "Barracks Expansion",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.5%",
+            "might": 19138,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              },
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Stealth Sniper Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Royal Cavalry Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Fire Trebuchet Subsidy",
+                "l": 3
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 25988,
+              "stone": 25988,
+              "timber": 20791,
+              "ore": 31186,
+              "gold": 111993
+            }
+          },
+          {
+            "level": 2,
+            "value": "1%",
+            "might": 28706,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              }
+            ],
+            "time": "4d 02:33:00",
+            "seconds": 354780,
+            "resources": {
+              "food": 38982,
+              "stone": 38982,
+              "timber": 31186,
+              "ore": 46778,
+              "gold": 167990
+            }
+          },
+          {
+            "level": 3,
+            "value": "1.5%",
+            "might": 38276,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              }
+            ],
+            "time": "5d 11:24:00",
+            "seconds": 473040,
+            "resources": {
+              "food": 70167,
+              "stone": 70167,
+              "timber": 56134,
+              "ore": 84200,
+              "gold": 302381
+            }
+          },
+          {
+            "level": 4,
+            "value": "2%",
+            "might": 57412,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "8d 05:05:00",
+            "seconds": 709500,
+            "resources": {
+              "food": 116945,
+              "stone": 116945,
+              "timber": 93556,
+              "ore": 140333,
+              "gold": 503969
+            }
+          },
+          {
+            "level": 5,
+            "value": "2.5%",
+            "might": 95688,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "13d 16:29:00",
+            "seconds": 1182540,
+            "resources": {
+              "food": 259876,
+              "stone": 259876,
+              "timber": 207901,
+              "ore": 311851,
+              "gold": 1119930
+            }
+          },
+          {
+            "level": 6,
+            "value": "3.5%",
+            "might": 287064,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "41d 1:25:00",
+            "seconds": 3547500,
+            "resources": {
+              "food": 519752,
+              "stone": 519752,
+              "timber": 415802,
+              "ore": 623702,
+              "gold": 2239859
+            }
+          },
+          {
+            "level": 7,
+            "value": "5%",
+            "might": 478440,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "68d 10:21:00",
+            "seconds": 5912460,
+            "resources": {
+              "food": 1039503,
+              "stone": 1039503,
+              "timber": 831603,
+              "ore": 1247404,
+              "gold": 4479718
+            }
+          },
+          {
+            "level": 8,
+            "value": "7.5%",
+            "might": 1148254,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Quick Maneuvers II",
+                "l": 8
+              },
+              {
+                "r": "Field Triage",
+                "l": 8
+              }
+            ],
+            "time": "164d 05:37:00",
+            "seconds": 14189820,
+            "resources": {
+              "food": 1559255,
+              "stone": 1559255,
+              "timber": 1247404,
+              "ore": 1871106,
+              "gold": 6719576
+            }
+          },
+          {
+            "level": 9,
+            "value": "10%",
+            "might": 1531007,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Quick Maneuvers II",
+                "l": 9
+              },
+              {
+                "r": "Field Triage",
+                "l": 9
+              }
+            ],
+            "time": "218d 23:29:00",
+            "seconds": 18919740,
+            "resources": {
+              "food": 2079006,
+              "stone": 2079006,
+              "timber": 1663205,
+              "ore": 2494807,
+              "gold": 8959435
+            }
+          },
+          {
+            "level": 10,
+            "value": "20%",
+            "might": 2870637,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Quick Maneuvers II",
+                "l": 10
+              },
+              {
+                "r": "Field Triage",
+                "l": 10
+              }
+            ],
+            "time": "410d 14:01:00",
+            "seconds": 35474460,
+            "resources": {
+              "food": 3898136,
+              "stone": 3898136,
+              "timber": 3118509,
+              "ore": 4677763,
+              "gold": 16798940
+            }
+          }
+        ]
+      },
+      {
+        "title": "Innate Talent",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1",
+            "might": 35796,
+            "requires": [
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Stealth Sniper Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Royal Cavalry Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Fire Trebuchet Subsidy",
+                "l": 3
+              }
+            ],
+            "time": "5d 02:53:00",
+            "seconds": 442380,
+            "resources": {
+              "food": 130770,
+              "stone": 49039,
+              "timber": 81732,
+              "ore": 65395,
+              "gold": 240892
+            }
+          },
+          {
+            "level": 2,
+            "value": "2",
+            "might": 71592,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              },
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 4
+              },
+              {
+                "r": "Stealth Sniper Subsidy",
+                "l": 4
+              },
+              {
+                "r": "Royal Cavalry Subsidy",
+                "l": 4
+              },
+              {
+                "r": "Fire Trebuchet Subsidy",
+                "l": 4
+              }
+            ],
+            "time": "10d 05:46:00",
+            "seconds": 884760,
+            "resources": {
+              "food": 261540,
+              "stone": 98078,
+              "timber": 163463,
+              "ore": 130770,
+              "gold": 481784
+            }
+          },
+          {
+            "level": 3,
+            "value": "3",
+            "might": 167048,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 5
+              },
+              {
+                "r": "Stealth Sniper Subsidy",
+                "l": 5
+              },
+              {
+                "r": "Royal Cavalry Subsidy",
+                "l": 5
+              },
+              {
+                "r": "Fire Trebuchet Subsidy",
+                "l": 5
+              }
+            ],
+            "time": "23d 21:26:00",
+            "seconds": 2064360,
+            "resources": {
+              "food": 610260,
+              "stone": 228848,
+              "timber": 381413,
+              "ore": 305130,
+              "gold": 1124163
+            }
+          },
+          {
+            "level": 4,
+            "value": "4",
+            "might": 357959,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Heroic Fighter Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Heroic Cannoneer Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Ancient Drake Rider Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Destroyer Subsidy",
+                "l": 3
+              }
+            ],
+            "time": "51d 04:46:00",
+            "seconds": 4423560,
+            "resources": {
+              "food": 1307700,
+              "stone": 490388,
+              "timber": 817313,
+              "ore": 653850,
+              "gold": 2408920
+            }
+          },
+          {
+            "level": 5,
+            "value": "5",
+            "might": 715918,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Heroic Fighter Subsidy",
+                "l": 4
+              },
+              {
+                "r": "Heroic Cannoneer Subsidy",
+                "l": 4
+              },
+              {
+                "r": "Ancient Drake Rider Subsidy",
+                "l": 4
+              },
+              {
+                "r": "Destroyer Subsidy",
+                "l": 4
+              }
+            ],
+            "time": "102d 09:32:00",
+            "seconds": 8847120,
+            "resources": {
+              "food": 2615399,
+              "stone": 980775,
+              "timber": 1634625,
+              "ore": 1307700,
+              "gold": 4817840
+            }
+          },
+          {
+            "level": 6,
+            "value": "6",
+            "might": 954558,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Heroic Fighter Subsidy",
+                "l": 5
+              },
+              {
+                "r": "Heroic Cannoneer Subsidy",
+                "l": 5
+              },
+              {
+                "r": "Ancient Drake Rider Subsidy",
+                "l": 5
+              },
+              {
+                "r": "Destroyer Subsidy",
+                "l": 5
+              }
+            ],
+            "time": "133d",
+            "seconds": 0,
+            "resources": {
+              "food": 3487199,
+              "stone": 1307700,
+              "timber": 2179499,
+              "ore": 1743600,
+              "gold": 6423787
+            }
+          },
+          {
+            "level": 7,
+            "value": "7",
+            "might": 1073877,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Heroic Fighter Subsidy",
+                "l": 6
+              },
+              {
+                "r": "Heroic Cannoneer Subsidy",
+                "l": 6
+              },
+              {
+                "r": "Ancient Drake Rider Subsidy",
+                "l": 6
+              },
+              {
+                "r": "Destroyer Subsidy",
+                "l": 6
+              }
+            ],
+            "time": "153d 14:18:00",
+            "seconds": 13270680,
+            "resources": {
+              "food": 3923099,
+              "stone": 1471162,
+              "timber": 2451937,
+              "ore": 1961550,
+              "gold": 7226760
+            }
+          },
+          {
+            "level": 8,
+            "value": "8",
+            "might": 1193197,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Heroic Fighter Subsidy",
+                "l": 7
+              },
+              {
+                "r": "Heroic Cannoneer Subsidy",
+                "l": 7
+              },
+              {
+                "r": "Ancient Drake Rider Subsidy",
+                "l": 7
+              },
+              {
+                "r": "Destroyer Subsidy",
+                "l": 7
+              }
+            ],
+            "time": "170d 15:53:00",
+            "seconds": 14745180,
+            "resources": {
+              "food": 4358998,
+              "stone": 1634625,
+              "timber": 2724374,
+              "ore": 2179499,
+              "gold": 8029733
+            }
+          },
+          {
+            "level": 9,
+            "value": "9",
+            "might": 1312516,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Heroic Fighter Subsidy",
+                "l": 8
+              },
+              {
+                "r": "Heroic Cannoneer Subsidy",
+                "l": 8
+              },
+              {
+                "r": "Ancient Drake Rider Subsidy",
+                "l": 8
+              },
+              {
+                "r": "Destroyer Subsidy",
+                "l": 8
+              }
+            ],
+            "time": "187d 17:28:00",
+            "seconds": 16219680,
+            "resources": {
+              "food": 4794898,
+              "stone": 1798087,
+              "timber": 2996812,
+              "ore": 2397449,
+              "gold": 8832707
+            }
+          },
+          {
+            "level": 10,
+            "value": "10",
+            "might": 1431837,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Heroic Fighter Subsidy",
+                "l": 10
+              },
+              {
+                "r": "Heroic Cannoneer Subsidy",
+                "l": 10
+              },
+              {
+                "r": "Ancient Drake Rider Subsidy",
+                "l": 10
+              },
+              {
+                "r": "Destroyer Subsidy",
+                "l": 10
+              }
+            ],
+            "time": "204d 19:04:00",
+            "seconds": 17694240,
+            "resources": {
+              "food": 5230798,
+              "stone": 1961550,
+              "timber": 3269249,
+              "ore": 2615399,
+              "gold": 9635680
+            }
+          }
+        ]
+      },
+      {
+        "title": "Training Speed II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.5%",
+            "might": 19138,
+            "requires": [
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Stealth Sniper Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Royal Cavalry Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Fire Trebuchet Subsidy",
+                "l": 3
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 25988,
+              "stone": 25988,
+              "timber": 20791,
+              "ore": 31186,
+              "gold": 111993
+            }
+          },
+          {
+            "level": 2,
+            "value": "1%",
+            "might": 28706,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              }
+            ],
+            "time": "4d 02:33:00",
+            "seconds": 354780,
+            "resources": {
+              "food": 38982,
+              "stone": 38982,
+              "timber": 31186,
+              "ore": 46778,
+              "gold": 167990
+            }
+          },
+          {
+            "level": 3,
+            "value": "1.5%",
+            "might": 38276,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              }
+            ],
+            "time": "5d 11:24:00",
+            "seconds": 473040,
+            "resources": {
+              "food": 70167,
+              "stone": 70167,
+              "timber": 56134,
+              "ore": 84200,
+              "gold": 302381
+            }
+          },
+          {
+            "level": 4,
+            "value": "2.5%",
+            "might": 57412,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "8d 05:05:00",
+            "seconds": 709500,
+            "resources": {
+              "food": 116945,
+              "stone": 116945,
+              "timber": 93556,
+              "ore": 140333,
+              "gold": 5039695
+            }
+          },
+          {
+            "level": 5,
+            "value": "4%",
+            "might": 95688,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "13d 16:29:00",
+            "seconds": 1182540,
+            "resources": {
+              "food": 259876,
+              "stone": 259876,
+              "timber": 207901,
+              "ore": 311851,
+              "gold": 1119930
+            }
+          },
+          {
+            "level": 6,
+            "value": "6%",
+            "might": 287064,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "41d 01:25:00",
+            "seconds": 3547500,
+            "resources": {
+              "food": 519752,
+              "stone": 519752,
+              "timber": 415802,
+              "ore": 623702,
+              "gold": 2239859
+            }
+          },
+          {
+            "level": 7,
+            "value": "8.5%",
+            "might": 478440,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "68d 10:21:00",
+            "seconds": 5912460,
+            "resources": {
+              "food": 1039503,
+              "stone": 1039503,
+              "timber": 831603,
+              "ore": 1247404,
+              "gold": 4479718
+            }
+          },
+          {
+            "level": 8,
+            "value": "11.5%",
+            "might": 1148254,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Quick Maneuvers II",
+                "l": 8
+              },
+              {
+                "r": "Field Triage",
+                "l": 8
+              }
+            ],
+            "time": "164d 05:37:00",
+            "seconds": 14189820,
+            "resources": {
+              "food": 1559255,
+              "stone": 1559255,
+              "timber": 1247404,
+              "ore": 1871106,
+              "gold": 6719576
+            }
+          },
+          {
+            "level": 9,
+            "value": "16%",
+            "might": 1531007,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Quick Maneuvers II",
+                "l": 9
+              },
+              {
+                "r": "Field Triage",
+                "l": 9
+              }
+            ],
+            "time": "218d 23:29:00",
+            "seconds": 18919740,
+            "resources": {
+              "food": 2079006,
+              "stone": 2079006,
+              "timber": 1663205,
+              "ore": 2494807,
+              "gold": 8959435
+            }
+          },
+          {
+            "level": 10,
+            "value": "24%",
+            "might": 2870637,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Quick Maneuvers II",
+                "l": 10
+              },
+              {
+                "r": "Field Triage",
+                "l": 10
+              }
+            ],
+            "time": "410d 14:01:00",
+            "seconds": 35474460,
+            "resources": {
+              "food": 3898136,
+              "stone": 3898136,
+              "timber": 3118509,
+              "ore": 4677763,
+              "gold": 16798940
+            }
+          }
+        ]
+      },
+      {
+        "title": "Quick Swap",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1",
+            "might": 71592,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Barracks Expansion",
+                "l": 3
+              },
+              {
+                "r": "Training Speed II",
+                "l": 3
+              },
+              {
+                "r": "Innate Talent",
+                "l": 1
+              }
+            ],
+            "time": "10d 05:46:00",
+            "seconds": 884760,
+            "resources": {
+              "food": 261540,
+              "stone": 98078,
+              "timber": 163463,
+              "ore": 130770,
+              "gold": 481784
+            }
+          },
+          {
+            "level": 2,
+            "value": "2",
+            "might": 119320,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Barracks Expansion",
+                "l": 4
+              },
+              {
+                "r": "Training Speed II",
+                "l": 4
+              },
+              {
+                "r": "Innate Talent",
+                "l": 2
+              }
+            ],
+            "time": "17d 01:36:00",
+            "seconds": 1474560,
+            "resources": {
+              "food": 435900,
+              "stone": 163463,
+              "timber": 272438,
+              "ore": 217950,
+              "gold": 802974
+            }
+          },
+          {
+            "level": 3,
+            "value": "3",
+            "might": 357959,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Barracks Expansion",
+                "l": 9
+              },
+              {
+                "r": "Training Speed II",
+                "l": 9
+              },
+              {
+                "r": "Innate Talent",
+                "l": 3
+              }
+            ],
+            "time": "51d 04:46:00",
+            "seconds": 4423560,
+            "resources": {
+              "food": 1307700,
+              "stone": 490388,
+              "timber": 817313,
+              "ore": 653850,
+              "gold": 2408920
+            }
+          },
+          {
+            "level": 4,
+            "value": "4",
+            "might": 596599,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Barracks Expansion",
+                "l": 10
+              },
+              {
+                "r": "Training Speed II",
+                "l": 10
+              },
+              {
+                "r": "Innate Talent",
+                "l": 4
+              }
+            ],
+            "time": "85d 07:57:00",
+            "seconds": 7372620,
+            "resources": {
+              "food": 2179499,
+              "stone": 817313,
+              "timber": 1362187,
+              "ore": 1089750,
+              "gold": 4014867
+            }
+          },
+          {
+            "level": 5,
+            "value": "5",
+            "might": 954557,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Innate Talent",
+                "l": 5
+              }
+            ],
+            "time": "136d 12:43:00",
+            "seconds": 11796180,
+            "resources": {
+              "food": 3487199,
+              "stone": 1307700,
+              "timber": 2179499,
+              "ore": 1743600,
+              "gold": 6423787
+            }
+          },
+          {
+            "level": 6,
+            "value": "6",
+            "might": 1073877,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Innate Talent",
+                "l": 6
+              }
+            ],
+            "time": "153d 14:18:00",
+            "seconds": 13270680,
+            "resources": {
+              "food": 3923099,
+              "stone": 1471162,
+              "timber": 2451937,
+              "ore": 1961550,
+              "gold": 7226760
+            }
+          },
+          {
+            "level": 7,
+            "value": "7",
+            "might": 1193197,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Innate Talent",
+                "l": 7
+              }
+            ],
+            "time": "170d 15:53:00",
+            "seconds": 14745180,
+            "resources": {
+              "food": 4358998,
+              "stone": 1634625,
+              "timber": 2724374,
+              "ore": 2179499,
+              "gold": 8029733
+            }
+          },
+          {
+            "level": 8,
+            "value": "8",
+            "might": 1312517,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Innate Talent",
+                "l": 8
+              }
+            ],
+            "time": "187d 17:28:00",
+            "seconds": 16219680,
+            "resources": {
+              "food": 4794898,
+              "stone": 1798087,
+              "timber": 2996812,
+              "ore": 2397449,
+              "gold": 8832707
+            }
+          },
+          {
+            "level": 9,
+            "value": "9",
+            "might": 1431836,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Innate Talent",
+                "l": 9
+              }
+            ],
+            "time": "204d19:04:00",
+            "seconds": 68640,
+            "resources": {
+              "food": 5230798,
+              "stone": 1961550,
+              "timber": 3269249,
+              "ore": 2615399,
+              "gold": 9635680
+            }
+          },
+          {
+            "level": 10,
+            "value": "10",
+            "might": 1551156,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Innate Talent",
+                "l": 10
+              }
+            ],
+            "time": "221d 20:39:00",
+            "seconds": 19168740,
+            "resources": {
+              "food": 5666698,
+              "stone": 21250125,
+              "timber": 3541686,
+              "ore": 2833349,
+              "gold": 10438653
+            }
+          }
+        ]
+      },
+      {
+        "title": "Central Command",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1",
+            "might": 32728,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Training Speed II",
+                "l": 3
+              },
+              {
+                "r": "Barracks Expansion",
+                "l": 3
+              },
+              {
+                "r": "Innate Talent",
+                "l": 1
+              }
+            ],
+            "time": "4d 17:39:00",
+            "seconds": 409140,
+            "resources": {
+              "food": 98040,
+              "stone": 78432,
+              "timber": 58824,
+              "ore": 156863,
+              "gold": 285715
+            }
+          },
+          {
+            "level": 2,
+            "value": "2",
+            "might": 98182,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "14d 04:55:00",
+            "seconds": 1227300,
+            "resources": {
+              "food": 294118,
+              "stone": 235295,
+              "timber": 176471,
+              "ore": 470589,
+              "gold": 857143
+            }
+          },
+          {
+            "level": 3,
+            "value": "3",
+            "might": 229090,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "33d 03:28:00",
+            "seconds": 2863680,
+            "resources": {
+              "food": 686275,
+              "stone": 549020,
+              "timber": 411765,
+              "ore": 1098040,
+              "gold": 2000000
+            }
+          },
+          {
+            "level": 4,
+            "value": "4",
+            "might": 490910,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 9
+              },
+              {
+                "r": "Stealth Sniper Subsidy",
+                "l": 9
+              },
+              {
+                "r": "Royal Cavalry Subsidy",
+                "l": 9
+              },
+              {
+                "r": "Fire Trebuchet Subsidy",
+                "l": 9
+              }
+            ],
+            "time": "71d 00:33:00",
+            "seconds": 6136380,
+            "resources": {
+              "food": 1470589,
+              "stone": 1176471,
+              "timber": 882353,
+              "ore": 2352942,
+              "gold": 4285715
+            }
+          },
+          {
+            "level": 5,
+            "value": "5",
+            "might": 1309090,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 10
+              },
+              {
+                "r": "Stealth Sniper Subsidy",
+                "l": 10
+              },
+              {
+                "r": "Royal Cavalry Subsidy",
+                "l": 10
+              },
+              {
+                "r": "Fire Trebuchet Subsidy",
+                "l": 10
+              }
+            ],
+            "time": "189d 09:28:00",
+            "seconds": 16363680,
+            "resources": {
+              "food": 2450981,
+              "stone": 1960785,
+              "timber": 1470589,
+              "ore": 3921569,
+              "gold": 8571429
+            }
+          }
+        ]
+      },
+      {
+        "title": "Bigger Army I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "+1",
+            "might": 2863673,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Barracks Expansion",
+                "l": 8
+              },
+              {
+                "r": "Training Speed II",
+                "l": 8
+              },
+              {
+                "r": "Innate Talent",
+                "l": 1
+              }
+            ],
+            "time": "409d 14:07:00",
+            "seconds": 35388420,
+            "resources": {
+              "food": 7846197,
+              "stone": 6538497,
+              "timber": 5230798,
+              "ore": 6538497,
+              "gold": 19271360
+            }
+          }
+        ]
+      },
+      {
+        "title": "Heroic Fighter Subsidy",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.5%",
+            "might": 31896,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Quick Swap",
+                "l": 3
+              },
+              {
+                "r": "Bigger Army I",
+                "l": 1
+              }
+            ],
+            "time": "4d 13:30:00",
+            "seconds": 394200,
+            "resources": {
+              "food": 93556,
+              "stone": 77963,
+              "timber": 62371,
+              "ore": 77963,
+              "gold": 186655
+            }
+          },
+          {
+            "level": 2,
+            "value": "1%",
+            "might": 47844,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "6d 20:15:00",
+            "seconds": 591300,
+            "resources": {
+              "food": 140333,
+              "stone": 116945,
+              "timber": 93556,
+              "ore": 116945,
+              "gold": 279983
+            }
+          },
+          {
+            "level": 3,
+            "value": "1.5%",
+            "might": 63792,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "9d 02:59:00",
+            "seconds": 788340,
+            "resources": {
+              "food": 252600,
+              "stone": 210500,
+              "timber": 168400,
+              "ore": 210500,
+              "gold": 503969
+            }
+          },
+          {
+            "level": 4,
+            "value": "2%",
+            "might": 95688,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "13d 16:29:00",
+            "seconds": 1182540,
+            "resources": {
+              "food": 420999,
+              "stone": 350833,
+              "timber": 280666,
+              "ore": 350833,
+              "gold": 839947
+            }
+          },
+          {
+            "level": 5,
+            "value": "3%",
+            "might": 159480,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "22d 19:27:00",
+            "seconds": 1970820,
+            "resources": {
+              "food": 935553,
+              "stone": 779628,
+              "timber": 623702,
+              "ore": 779628,
+              "gold": 1866549
+            }
+          },
+          {
+            "level": 6,
+            "value": "4%",
+            "might": 478440,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 6
+              },
+              {
+                "r": "Innate Talent",
+                "l": 6
+              },
+              {
+                "r": "Quick Swap",
+                "l": 6
+              }
+            ],
+            "time": "68d 10:21:00",
+            "seconds": 5912460,
+            "resources": {
+              "food": 1871106,
+              "stone": 1559255,
+              "timber": 1247404,
+              "ore": 1559255,
+              "gold": 3733098
+            }
+          },
+          {
+            "level": 7,
+            "value": "5%",
+            "might": 797399,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 7
+              },
+              {
+                "r": "Innate Talent",
+                "l": 7
+              },
+              {
+                "r": "Quick Swap",
+                "l": 7
+              }
+            ],
+            "time": "114d 01:14:00",
+            "seconds": 9854040,
+            "resources": {
+              "food": 3742211,
+              "stone": 3118509,
+              "timber": 2494807,
+              "ore": 3118509,
+              "gold": 7466196
+            }
+          },
+          {
+            "level": 8,
+            "value": "7%",
+            "might": 1913758,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 8
+              },
+              {
+                "r": "Innate Talent",
+                "l": 8
+              },
+              {
+                "r": "Quick Swap",
+                "l": 8
+              }
+            ],
+            "time": "273d 17:21:00",
+            "seconds": 23649660,
+            "resources": {
+              "food": 5613316,
+              "stone": 4677763,
+              "timber": 3742211,
+              "ore": 4677763,
+              "gold": 11199293
+            }
+          },
+          {
+            "level": 9,
+            "value": "11%",
+            "might": 2551678,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 9
+              },
+              {
+                "r": "Innate Talent",
+                "l": 9
+              },
+              {
+                "r": "Quick Swap",
+                "l": 9
+              }
+            ],
+            "time": "364d 23:08:00",
+            "seconds": 31532880,
+            "resources": {
+              "food": 7484421,
+              "stone": 6237018,
+              "timber": 4989614,
+              "ore": 6237018,
+              "gold": 14932391
+            }
+          },
+          {
+            "level": 10,
+            "value": "30%",
+            "might": 4784395,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Royal Guard Subsidy",
+                "l": 10
+              },
+              {
+                "r": "Innate Talent",
+                "l": 10
+              },
+              {
+                "r": "Quick Swap",
+                "l": 10
+              }
+            ],
+            "time": "684d 07:22:00",
+            "seconds": 59124120,
+            "resources": {
+              "food": 14033289,
+              "stone": 11694408,
+              "timber": 9355526,
+              "ore": 11694408,
+              "gold": 27998233
+            }
+          }
+        ]
+      },
+      {
         "title": "Destroyer Subsidy",
         "requirements": [
           {
