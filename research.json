@@ -16668,11 +16668,11 @@
             "time": "16d 10:10:00",
             "seconds": 1419000,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0
+              "food": 779628,
+              "stone": 623702,
+              "timber": 935553,
+              "ore": 779628,
+              "gold": 2799824
             }
           }
         ]
