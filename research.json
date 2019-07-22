@@ -41722,49 +41722,64 @@
           {
             "level": 2,
             "value": "0.4%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 202529,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "23d 12:47:00",
+            "seconds": 2033220,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 2666024,
+              "stone": 1066410,
+              "timber": 799808,
+              "ore": 2132820,
+              "gold": 1535044,
+              "tomes": 35
             }
           },
           {
             "level": 3,
             "value": "0.6%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 253918,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "28d 13:48:00",
+            "seconds": 2468880,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 3237926,
+              "stone": 1294926,
+              "timber": 971195,
+              "ore": 2589852,
+              "gold": 1863933,
+              "tomes": 57
             }
           },
           {
             "level": 4,
             "value": "08%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 305306,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "33d 14:49:00",
+            "seconds": 2904540,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 3808606,
+              "stone": 1523443,
+              "timber": 1142582,
+              "ore": 3046885,
+              "gold": 2192862,
+              "tomes": 81
             }
           },
           {
