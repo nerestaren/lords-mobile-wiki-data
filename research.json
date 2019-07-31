@@ -7437,6 +7437,628 @@
             }
           }
         ]
+      },
+      {
+        "title": "Army Offense I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1",
+            "might": 815,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              },
+              {
+                "r": "Royal Guard",
+                "l": 1
+              },
+              {
+                "r": "Stealth Sniper",
+                "l": 1
+              },
+              {
+                "r": "Royal Cavalry",
+                "l": 1
+              },
+              {
+                "r": "Fire Trebuchet",
+                "l": 1
+              }
+            ],
+            "time": "02:46:00",
+            "seconds": 9960,
+            "resources": {
+              "food": 1365,
+              "stone": 1706,
+              "timber": 2730,
+              "ore": 1024,
+              "gold": 3599
+            }
+          },
+          {
+            "level": 2,
+            "value": "3",
+            "might": 1357,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              }
+            ],
+            "time": "9:11:00",
+            "seconds": 33060,
+            "resources": {
+              "food": 4549,
+              "stone": 5687,
+              "timber": 9098,
+              "ore": 3412,
+              "gold": 23993
+            }
+          },
+          {
+            "level": 3,
+            "value": "7",
+            "might": 2443,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              }
+            ],
+            "time": "13:46:00",
+            "seconds": 49560,
+            "resources": {
+              "food": 13647,
+              "stone": 17059,
+              "timber": 27294,
+              "ore": 10236,
+              "gold": 71978
+            }
+          },
+          {
+            "level": 4,
+            "value": "13",
+            "might": 7329,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "1d 00:47:00",
+            "seconds": 89220,
+            "resources": {
+              "food": 45490,
+              "stone": 56862,
+              "timber": 90979,
+              "ore": 34117,
+              "gold": 479853
+            }
+          },
+          {
+            "level": 5,
+            "value": "21",
+            "might": 21988,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "3d 02:19:00",
+            "seconds": 267540,
+            "resources": {
+              "food": 113723,
+              "stone": 142154,
+              "timber": 227446,
+              "ore": 85293,
+              "gold": 1199633
+            }
+          },
+          {
+            "level": 6,
+            "value": "32",
+            "might": 65964,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "9d 06:56:00",
+            "seconds": 802560,
+            "resources": {
+              "food": 227446,
+              "stone": 284308,
+              "timber": 454892,
+              "ore": 170585,
+              "gold": 2399265
+            }
+          },
+          {
+            "level": 7,
+            "value": "46",
+            "might": 197890,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "27d 20:46:00",
+            "seconds": 2407560,
+            "resources": {
+              "food": 1137229,
+              "stone": 1421536,
+              "timber": 2274458,
+              "ore": 852922,
+              "gold": 5998162
+            }
+          },
+          {
+            "level": 8,
+            "value": "64",
+            "might": 593671,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Army Defense I",
+                "l": 8
+              },
+              {
+                "r": "Army Health I",
+                "l": 8
+              }
+            ],
+            "time": "83d 14:17:00",
+            "seconds": 7222620,
+            "resources": {
+              "food": 2274458,
+              "stone": 2843072,
+              "timber": 4548915,
+              "ore": 1705843,
+              "gold": 11996323
+            }
+          },
+          {
+            "level": 9,
+            "value": "87",
+            "might": 1781000,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Army Defense I",
+                "l": 9
+              },
+              {
+                "r": "Army Health I",
+                "l": 9
+              }
+            ],
+            "time": "250d 18:49:00",
+            "seconds": 21667740,
+            "resources": {
+              "food": 4548915,
+              "stone": 5686143,
+              "timber": 9097829,
+              "ore": 3411686,
+              "gold": 47985292
+            }
+          },
+          {
+            "level": 10,
+            "value": "135",
+            "might": 4452531,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Army Defense I",
+                "l": 10
+              },
+              {
+                "r": "Army Health I",
+                "l": 10
+              },
+              {
+                "r": "Weight Training I",
+                "l": 10
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 10
+              }
+            ],
+            "time": "626d 23:02:00",
+            "seconds": 54169320,
+            "resources": {
+              "food": 9097829,
+              "stone": 11372286,
+              "timber": 18195657,
+              "ore": 6823372,
+              "gold": 107966906
+            }
+          }
+        ]
+      },
+      {
+        "title": "Army Health I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 815,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              }
+            ],
+            "time": "02:46:00",
+            "seconds": 9960,
+            "resources": {
+              "food": 1229,
+              "stone": 2048,
+              "timber": 2048,
+              "ore": 1502,
+              "gold": 3599
+            }
+          },
+          {
+            "level": 2,
+            "value": "3%",
+            "might": 1357,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              }
+            ],
+            "time": "09:11:00",
+            "seconds": 33060,
+            "resources": {
+              "food": 4095,
+              "stone": 6824,
+              "timber": 6824,
+              "ore": 5004,
+              "gold": 23993
+            }
+          },
+          {
+            "level": 3,
+            "value": "7%",
+            "might": 2443,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              }
+            ],
+            "time": "13:46:00",
+            "seconds": 49560,
+            "resources": {
+              "food": 12283,
+              "stone": 20471,
+              "timber": 20471,
+              "ore": 15012,
+              "gold": 71978
+            }
+          },
+          {
+            "level": 4,
+            "value": "13%",
+            "might": 7329,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "1d 00:47:00",
+            "seconds": 89220,
+            "resources": {
+              "food": 40941,
+              "stone": 68234,
+              "timber": 68234,
+              "ore": 50039,
+              "gold": 479853
+            }
+          },
+          {
+            "level": 5,
+            "value": "21%",
+            "might": 21988,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "3d 02:19:00",
+            "seconds": 267540,
+            "resources": {
+              "food": 102351,
+              "stone": 170585,
+              "timber": 170585,
+              "ore": 125096,
+              "gold": 1199633
+            }
+          },
+          {
+            "level": 6,
+            "value": "32%",
+            "might": 65964,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "9d 06:56:00",
+            "seconds": 802560,
+            "resources": {
+              "food": 204702,
+              "stone": 341169,
+              "timber": 341169,
+              "ore": 250191,
+              "gold": 2399265
+            }
+          },
+          {
+            "level": 7,
+            "value": "46%",
+            "might": 197890,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "27d 20:46:00",
+            "seconds": 2407560,
+            "resources": {
+              "food": 1137229,
+              "stone": 1421536,
+              "timber": 2274458,
+              "ore": 852922,
+              "gold": 5998162
+            }
+          },
+          {
+            "level": 8,
+            "value": "64%",
+            "might": 593671,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Infantry Health",
+                "l": 8
+              },
+              {
+                "r": "Cavalry Health",
+                "l": 8
+              },
+              {
+                "r": "Ranged Health",
+                "l": 8
+              },
+              {
+                "r": "Siege Durability",
+                "l": 8
+              }
+            ],
+            "time": "83d 14:17:00",
+            "seconds": 7222620,
+            "resources": {
+              "food": 2047012,
+              "stone": 3411686,
+              "timber": 3411686,
+              "ore": 2501903,
+              "gold": 11996323
+            }
+          },
+          {
+            "level": 9,
+            "value": "87%",
+            "might": 1781012,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Infantry Health",
+                "l": 9
+              },
+              {
+                "r": "Cavalry Health",
+                "l": 9
+              },
+              {
+                "r": "Ranged Health",
+                "l": 9
+              },
+              {
+                "r": "Siege Durability",
+                "l": 9
+              }
+            ],
+            "time": "250d 18:49:00",
+            "seconds": 21667740,
+            "resources": {
+              "food": 4094023,
+              "stone": 6823372,
+              "timber": 6823372,
+              "ore": 5003806,
+              "gold": 47985292
+            }
+          },
+          {
+            "level": 10,
+            "value": "135%",
+            "might": 4452531,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Infantry Health",
+                "l": 10
+              },
+              {
+                "r": "Cavalry Health",
+                "l": 10
+              },
+              {
+                "r": "Ranged Health",
+                "l": 10
+              },
+              {
+                "r": "Siege Durability",
+                "l": 10
+              }
+            ],
+            "time": "626d 23:02:00",
+            "seconds": 54169320,
+            "resources": {
+              "food": 8188046,
+              "stone": 13646743,
+              "timber": 13646743,
+              "ore": 10007612,
+              "gold": 107966906
+            }
+          }
+        ]
+      },
+      {
+        "title": "Heroic Fighter",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Unlocks Heroric Fighter",
+            "might": 1247182,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Army Offense I",
+                "l": 10
+              }
+            ],
+            "time": "176d 12:21:00",
+            "seconds": 15250860,
+            "resources": {
+              "food": 4198142,
+              "stone": 6996903,
+              "timber": 6996903,
+              "ore": 5131063,
+              "gold": 11331160
+            }
+          }
+        ]
+      },
+      {
+        "title": "Destroyer",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Unlocks Destroyer",
+            "might": 1558978,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Army Offense I",
+                "l": 10
+              }
+            ],
+            "time": "220d 15:26:00",
+            "seconds": 19063560,
+            "resources": {
+              "food": 5579523,
+              "stone": 9329204,
+              "timber": 9329204,
+              "ore": 6841417,
+              "gold": 15108213
+            }
+          }
+        ]
+      },
+      {
+        "title": "Heroic Cannoneer",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Unlocks Heroic Cannoneer",
+            "might": 1091285,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Army Offense I",
+                "l": 10
+              }
+            ],
+            "time": "154d 10:49:00",
+            "seconds": 13344540,
+            "resources": {
+              "food": 3778328,
+              "stone": 6297213,
+              "timber": 6297231,
+              "ore": 4617956,
+              "gold": 10198044
+            }
+          }
+        ]
+      },
+      {
+        "title": "Ancient Drake Rider",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Unlocks Ancient Drake Rider",
+            "might": 1247182,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Army Offense I",
+                "l": 10
+              }
+            ],
+            "time": "176d 12:21:00",
+            "seconds": 15250860,
+            "resources": {
+              "food": 4198142,
+              "stone": 6996903,
+              "timber": 6996903,
+              "ore": 5131063,
+              "gold": 11331160
+            }
+          }
+        ]
       }
     ]
   },
