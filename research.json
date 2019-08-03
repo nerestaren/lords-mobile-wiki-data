@@ -34703,11 +34703,15 @@
                 "l": 24
               },
               {
-                "r": "Merging Cost (Pact 2)",
+                "r": "Gym Membership",
                 "l": 8
               },
               {
                 "r": "Gym Training II",
+                "l": 8
+              },
+              {
+                "r": "Merging Cost (Pact 2)",
                 "l": 8
               }
             ],
@@ -34736,11 +34740,11 @@
                 "l": 9
               },
               {
-                "r": "Merging Cost (Pact 2)",
+                "r": "Gym Training II",
                 "l": 9
               },
               {
-                "r": "Gym Training II",
+                "r": "Merging Cost (Pact 2)",
                 "l": 9
               }
             ],
@@ -34769,11 +34773,11 @@
                 "l": 10
               },
               {
-                "r": "Merging Cost (Pact 2)",
+                "r": "Gym Training II",
                 "l": 10
               },
               {
-                "r": "Gym Training II",
+                "r": "Merging Cost (Pact 2)",
                 "l": 10
               }
             ],
