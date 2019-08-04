@@ -34192,12 +34192,12 @@
             "time": "100d 05:30:00",
             "seconds": 8659800,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 6601855,
+              "stone": 3300928,
+              "timber": 2640742,
+              "ore": 3961113,
+              "gold": 5448268,
+              "anima": 1089654
             }
           },
           {
