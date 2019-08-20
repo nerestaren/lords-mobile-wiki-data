@@ -34236,7 +34236,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": 25
+                "l": null
+              },
+              {
+                "r": "Membership",
+                "l": 10
               },
               {
                 "r": "Gym Training II",
