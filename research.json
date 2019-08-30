@@ -35851,7 +35851,34 @@
   },
   {
     "title": "Familiar Battles",
-    "researches": []
+    "researches": [
+      {
+        "title": "Familiar Battle Slot I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Unlocks 1st Familiar Battle Slot",
+            "might": 3032,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "11:27:00",
+            "seconds": 41220,
+            "resources": {
+              "food": 8550001,
+              "stone": 2137500,
+              "timber": 2137500,
+              "ore": 2137500,
+              "gold": 5512500,
+              "anima": 882001
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Sigils (research)",
