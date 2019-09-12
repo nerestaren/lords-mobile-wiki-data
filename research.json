@@ -28835,6 +28835,231 @@
         ]
       },
       {
+        "title": "Darknest Defense",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 28680,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Darknest Offense",
+                "l": 1
+              }
+            ],
+            "time": "4d 22:09:00",
+            "seconds": 425340,
+            "resources": {
+              "food": 495753,
+              "stone": 297452,
+              "timber": 247877,
+              "ore": 198302,
+              "gold": 476106
+            }
+          },
+          {
+            "level": 2,
+            "value": "2%",
+            "might": 38239,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "6d 13:31:00",
+            "seconds": 567060,
+            "resources": {
+              "food": 743630,
+              "stone": 446178,
+              "timber": 371815,
+              "ore": 297452,
+              "gold": 714159
+            }
+          },
+          {
+            "level": 3,
+            "value": "3%",
+            "might": 47799,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "8d 04:54:00",
+            "seconds": 708840,
+            "resources": {
+              "food": 991506,
+              "stone": 594904,
+              "timber": 495753,
+              "ore": 396603,
+              "gold": 952212
+            }
+          },
+          {
+            "level": 4,
+            "value": "4.5%",
+            "might": 66919,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "11d 11:40:00",
+            "seconds": 992400,
+            "resources": {
+              "food": 1288958,
+              "stone": 773375,
+              "timber": 644479,
+              "ore": 515584,
+              "gold": 1237876
+            }
+          },
+          {
+            "level": 5,
+            "value": "6%",
+            "might": 95599,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "16d 09:48:00",
+            "seconds": 1417680,
+            "resources": {
+              "food": 1685560,
+              "stone": 1011336,
+              "timber": 842780,
+              "ore": 674224,
+              "gold": 1618760
+            }
+          },
+          {
+            "level": 6,
+            "value": "8%",
+            "might": 143397,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "24d 14:42:00",
+            "seconds": 2126520,
+            "resources": {
+              "food": 2280464,
+              "stone": 1368279,
+              "timber": 1140232,
+              "ore": 912186,
+              "gold": 2190087
+            }
+          },
+          {
+            "level": 7,
+            "value": "10%",
+            "might": 238996,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Darknest Offense",
+                "l": 6
+              }
+            ],
+            "time": "41d  00:29:00",
+            "seconds": 1740,
+            "resources": {
+              "food": 3966024,
+              "stone": 2379615,
+              "timber": 1983012,
+              "ore": 1586410,
+              "gold": 3808847
+            }
+          },
+          {
+            "level": 8,
+            "value": "13%",
+            "might": 573589,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Darknest Offense",
+                "l": 7
+              }
+            ],
+            "time": "98d 10:45:00",
+            "seconds": 8505900,
+            "resources": {
+              "food": 5949036,
+              "stone": 3569422,
+              "timber": 2974518,
+              "ore": 2379615,
+              "gold": 5713271
+            }
+          },
+          {
+            "level": 9,
+            "value": "17%",
+            "might": 764787,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Darknest Offense",
+                "l": 8
+              }
+            ],
+            "time": "131d 06:20:00",
+            "seconds": 11341200,
+            "resources": {
+              "food": 7932047,
+              "stone": 4759229,
+              "timber": 3966024,
+              "ore": 3172819,
+              "gold": 7617694
+            }
+          },
+          {
+            "level": 10,
+            "value": "30%",
+            "might": 1433974,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Darknest Offense",
+                "l": 9
+              }
+            ],
+            "time": "246d 02:53:00",
+            "seconds": 21264780,
+            "resources": {
+              "food": 11898071,
+              "stone": 7138843,
+              "timber": 5949036,
+              "ore": 4759229,
+              "gold": 11426541
+            }
+          }
+        ]
+      },
+      {
         "title": "Darknest Offense",
         "requirements": [
           {
