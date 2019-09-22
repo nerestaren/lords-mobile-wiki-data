@@ -30556,16 +30556,16 @@
           {
             "level": 5,
             "value": "5",
-            "might": 0,
+            "might": 994777,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "341d 11:26:00",
+            "seconds": 29503560,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0
+              "food": 16250891,
+              "stone": 10156807,
+              "timber": 6094085,
+              "ore": 16250891,
+              "gold": 22109712
             }
           },
           {
