@@ -35877,6 +35877,216 @@
             }
           }
         ]
+      },
+      {
+        "title": "Gym Training III.",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.5%",
+            "might": 12453,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "1d 17:23:00",
+            "seconds": 148980,
+            "resources": {
+              "food": 148288,
+              "stone": 88973,
+              "timber": 74144,
+              "ore": 59315,
+              "gold": 121102,
+              "anima": 20804
+            }
+          },
+          {
+            "level": 2,
+            "value": "1.0%",
+            "might": 41716,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "6d 00:49:00",
+            "seconds": 521340,
+            "resources": {
+              "food": 519006,
+              "stone": 311404,
+              "timber": 259503,
+              "ore": 207603,
+              "gold": 423855,
+              "anima": 72814
+            }
+          },
+          {
+            "level": 3,
+            "value": "1.5%",
+            "might": 52301,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "7d 07:51:00",
+            "seconds": 633060,
+            "resources": {
+              "food": 630222,
+              "stone": 378133,
+              "timber": 315111,
+              "ore": 252089,
+              "gold": 514681,
+              "anima": 88417
+            }
+          },
+          {
+            "level": 4,
+            "value": "2.5%",
+            "might": 62885,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "8d 14:53:00",
+            "seconds": 744780,
+            "resources": {
+              "food": 741437,
+              "stone": 444862,
+              "timber": 370719,
+              "ore": 296575,
+              "gold": 605507,
+              "anima": 104020
+            }
+          },
+          {
+            "level": 5,
+            "value": "3.5%",
+            "might": 76583,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "10d 08:15:00",
+            "seconds": 893700,
+            "resources": {
+              "food": 889724,
+              "stone": 533835,
+              "timber": 444862,
+              "ore": 355890,
+              "gold": 726608,
+              "anima": 124824
+            }
+          },
+          {
+            "level": 6,
+            "value": "4.5%",
+            "might": 102733,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "13d 19:00:00",
+            "seconds": 1191600,
+            "resources": {
+              "food": 1186299,
+              "stone": 711780,
+              "timber": 593150,
+              "ore": 474520,
+              "gold": 968811,
+              "anima": 166432
+            }
+          },
+          {
+            "level": 7,
+            "value": "6%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 8,
+            "value": "8%",
+            "might": 191146,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "25d 20:38:00",
+            "seconds": 2234280,
+            "resources": {
+              "food": 2224310,
+              "stone": 1334586,
+              "timber": 1112155,
+              "ore": 889724,
+              "gold": 1816520,
+              "anima": 312059
+            }
+          },
+          {
+            "level": 9,
+            "value": "11%",
+            "might": 262749,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "36d 04:53:00",
+            "seconds": 3127980,
+            "resources": {
+              "food": 3114034,
+              "stone": 1868424,
+              "timber": 1557017,
+              "ore": 1245614,
+              "gold": 2543128,
+              "anima": 436883
+            }
+          },
+          {
+            "level": 10,
+            "value": "20%",
+            "might": 342444,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "47d 01:07:58",
+            "seconds": 4064878,
+            "resources": {
+              "food": 4077192,
+              "stone": 2446741,
+              "timber": 2038951,
+              "ore": 1631161,
+              "gold": 3330287,
+              "anima": 572109
+            }
+          }
+        ]
       }
     ]
   },
