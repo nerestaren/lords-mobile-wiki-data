@@ -29060,6 +29060,275 @@
         ]
       },
       {
+        "title": "Darknest Offense",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 29397,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "5d 01:06:00",
+            "seconds": 435960,
+            "resources": {
+              "food": 382605,
+              "stone": 239128,
+              "timber": 143477,
+              "ore": 382605,
+              "gold": 520543
+            }
+          },
+          {
+            "level": 2,
+            "value": "2%",
+            "might": 39195,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "6d 17:28:00",
+            "seconds": 581280,
+            "resources": {
+              "food": 573907,
+              "stone": 358692,
+              "timber": 215216,
+              "ore": 573907,
+              "gold": 780814
+            }
+          },
+          {
+            "level": 3,
+            "value": "3%",
+            "might": 48994,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "8d 09:50:00",
+            "seconds": 726600,
+            "resources": {
+              "food": 765210,
+              "stone": 478256,
+              "timber": 286954,
+              "ore": 765210,
+              "gold": 1041085
+            }
+          },
+          {
+            "level": 4,
+            "value": "4.5%",
+            "might": 68592,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "11d 18:33:00",
+            "seconds": 1017180,
+            "resources": {
+              "food": 994772,
+              "stone": 621733,
+              "timber": 373040,
+              "ore": 994772,
+              "gold": 1353411
+            }
+          },
+          {
+            "level": 5,
+            "value": "6%",
+            "might": 97988,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "16d 19:39:00",
+            "seconds": 1453140,
+            "resources": {
+              "food": 1300856,
+              "stone": 813035,
+              "timber": 487821,
+              "ore": 1300856,
+              "gold": 1769845
+            }
+          },
+          {
+            "level": 6,
+            "value": "8%",
+            "might": 146983,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "25d 05:28:00",
+            "seconds": 2179680,
+            "resources": {
+              "food": 1759982,
+              "stone": 1099989,
+              "timber": 659993,
+              "ore": 1759982,
+              "gold": 2394495
+            }
+          },
+          {
+            "level": 7,
+            "value": "10%",
+            "might": 244970,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Max Deposit II",
+                "l": 7
+              },
+              {
+                "r": "Energy Limit III",
+                "l": 7
+              },
+              {
+                "r": "Darknest Defense",
+                "l": 7
+              },
+              {
+                "r": "Darknest Tenacity",
+                "l": 7
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 3060837,
+              "stone": 1913024,
+              "timber": 1147814,
+              "ore": 3060837,
+              "gold": 4164340
+            }
+          },
+          {
+            "level": 8,
+            "value": "13%",
+            "might": 587930,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Max Deposit II",
+                "l": 8
+              },
+              {
+                "r": "Energy Limit III",
+                "l": 8
+              },
+              {
+                "r": "Darknest Defense",
+                "l": 8
+              },
+              {
+                "r": "Darknest Tenacity",
+                "l": 8
+              }
+            ],
+            "time": "100d 21:50:00",
+            "seconds": 8718600,
+            "resources": {
+              "food": 4591256,
+              "stone": 2869535,
+              "timber": 1721721,
+              "ore": 4591256,
+              "gold": 6246509
+            }
+          },
+          {
+            "level": 9,
+            "value": "17%",
+            "might": 783906,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Max Deposit II",
+                "l": 9
+              },
+              {
+                "r": "Energy Limit III",
+                "l": 9
+              },
+              {
+                "r": "Darknest Defense",
+                "l": 9
+              },
+              {
+                "r": "Darknest Tenacity",
+                "l": 9
+              }
+            ],
+            "time": "134d 13:06:00",
+            "seconds": 11624760,
+            "resources": {
+              "food": 6121674,
+              "stone": 3826047,
+              "timber": 2295628,
+              "ore": 6121674,
+              "gold": 8328679
+            }
+          },
+          {
+            "level": 10,
+            "value": "30%",
+            "might": 1469824,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Max Deposit II",
+                "l": 10
+              },
+              {
+                "r": "Energy Limit III",
+                "l": 10
+              },
+              {
+                "r": "Darknest Defense",
+                "l": 10
+              },
+              {
+                "r": "Darknest Tenacity",
+                "l": 10
+              }
+            ],
+            "time": "252d 06:33:00",
+            "seconds": 21796380,
+            "resources": {
+              "food": 9182511,
+              "stone": 5739070,
+              "timber": 3443442,
+              "ore": 9182511,
+              "gold": 12493018
+            }
+          }
+        ]
+      },
+      {
         "title": "Darknest Tenacity",
         "requirements": [
           {
@@ -34278,6 +34547,273 @@
               "ore": 5486875,
               "gold": 11320289,
               "anima": 2264085
+            }
+          }
+        ]
+      },
+      {
+        "title": "Merging Cost (Pact 3)",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.2%",
+            "might": 52947,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Gym Membership",
+                "l": 1
+              },
+              {
+                "r": "Gym Training II",
+                "l": 1
+              }
+            ],
+            "time": "7d 13:45:00",
+            "seconds": 654300,
+            "resources": {
+              "food": 498807,
+              "stone": 299285,
+              "timber": 249404,
+              "ore": 199523,
+              "gold": 411647,
+              "anima": 82330
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.4%",
+            "might": 185311,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "26d 12:08:00",
+            "seconds": 2290080,
+            "resources": {
+              "food": 1745824,
+              "stone": 1074495,
+              "timber": 872912,
+              "ore": 698330,
+              "gold": 1440765,
+              "anima": 288153
+            }
+          },
+          {
+            "level": 3,
+            "value": "0.6%",
+            "might": 225022,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "32d 04:26:00",
+            "seconds": 2780760,
+            "resources": {
+              "food": 2119929,
+              "stone": 1271958,
+              "timber": 1059965,
+              "ore": 847972,
+              "gold": 1749500,
+              "anima": 349900
+            }
+          },
+          {
+            "level": 4,
+            "value": "0.8%",
+            "might": 264731,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "37d 20:45:00",
+            "seconds": 3271500,
+            "resources": {
+              "food": 2494034,
+              "stone": 1496421,
+              "timber": 1247017,
+              "ore": 997614,
+              "gold": 2058235,
+              "anima": 411647
+            }
+          },
+          {
+            "level": 5,
+            "value": "1.1%",
+            "might": 317677,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "45d 10:30:00",
+            "seconds": 3925800,
+            "resources": {
+              "food": 2992841,
+              "stone": 1795705,
+              "timber": 1496421,
+              "ore": 1197137,
+              "gold": 2469882,
+              "anima": 493977
+            }
+          },
+          {
+            "level": 6,
+            "value": "1.5%",
+            "might": 423569,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Merging Cost (Pact 2)",
+                "l": 6
+              }
+            ],
+            "time": "60d 14:00:00",
+            "seconds": 5234400,
+            "resources": {
+              "food": 3990455,
+              "stone": 2394273,
+              "timber": 1995228,
+              "ore": 1596182,
+              "gold": 3293175,
+              "anima": 658635
+            }
+          },
+          {
+            "level": 7,
+            "value": "2%",
+            "might": 555935,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Merging Cost (Pact 2)",
+                "l": 7
+              }
+            ],
+            "time": "79d 12:22:00",
+            "seconds": 6870120,
+            "resources": {
+              "food": 5237472,
+              "stone": 3142483,
+              "timber": 2618736,
+              "ore": 2094989,
+              "gold": 4322293,
+              "anima": 864458
+            }
+          },
+          {
+            "level": 8,
+            "value": "3%",
+            "might": 794193,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Gym Membership",
+                "l": 8
+              },
+              {
+                "r": "Gym Training II",
+                "l": 8
+              },
+              {
+                "r": "Merging Cost (Pact 2)",
+                "l": 8
+              }
+            ],
+            "time": "113d 14:14:00",
+            "seconds": 9814440,
+            "resources": {
+              "food": 7482102,
+              "stone": 4489262,
+              "timber": 3741051,
+              "ore": 2992841,
+              "gold": 6174704,
+              "anima": 1234941
+            }
+          },
+          {
+            "level": 9,
+            "value": "5%",
+            "might": 1111870,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Gym Membership",
+                "l": 9
+              },
+              {
+                "r": "Gym Training II",
+                "l": 9
+              },
+              {
+                "r": "Merging Cost (Pact 2)",
+                "l": 9
+              }
+            ],
+            "time": "159d 00:43:00",
+            "seconds": 13740180,
+            "resources": {
+              "food": 10474943,
+              "stone": 6284966,
+              "timber": 5237472,
+              "ore": 4189978,
+              "gold": 8644585,
+              "anima": 1728917
+            }
+          },
+          {
+            "level": 10,
+            "value": "10%",
+            "might": 1456020,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Gym Membership",
+                "l": 10
+              },
+              {
+                "r": "Gym Training II",
+                "l": 10
+              },
+              {
+                "r": "Merging Cost (Pact 2)",
+                "l": 10
+              }
+            ],
+            "time": "208d 06:05:00",
+            "seconds": 17993100,
+            "resources": {
+              "food": 13717187,
+              "stone": 8230313,
+              "timber": 6858594,
+              "ore": 5486875,
+              "gold": 11320289,
+              "anima": 2264058
             }
           }
         ]
