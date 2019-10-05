@@ -35126,15 +35126,15 @@
           {
             "level": 3,
             "value": "15 min",
-            "might": 0,
+            "might": 953031,
             "requires": [
               {
                 "r": "Academy",
                 "l": 25
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "136d 07:28:00",
+            "seconds": 11777280,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -35366,15 +35366,15 @@
           {
             "level": 4,
             "value": "0.8%",
-            "might": 0,
+            "might": 1090068,
             "requires": [
               {
                 "r": "Academy",
                 "l": 25
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "155d 21:53:00",
+            "seconds": 13470780,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -35551,7 +35551,7 @@
           {
             "level": 2,
             "value": "0.2%",
-            "might": 0,
+            "might": 981062,
             "requires": [
               {
                 "r": "Academy",
