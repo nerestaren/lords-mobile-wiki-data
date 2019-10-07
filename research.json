@@ -208,6 +208,211 @@
         ]
       },
       {
+        "title": "Construction Speed",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 180,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 1
+              }
+            ],
+            "time": "00:07:00",
+            "seconds": 420,
+            "resources": {
+              "food": 571,
+              "stone": 714,
+              "timber": 1142,
+              "ore": 429,
+              "gold": 794
+            }
+          },
+          {
+            "level": 2,
+            "value": "3%",
+            "might": 299,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 3
+              }
+            ],
+            "time": "00:38:00",
+            "seconds": 2280,
+            "resources": {
+              "food": 1903,
+              "stone": 2379,
+              "timber": 3806,
+              "ore": 1428,
+              "gold": 5288
+            }
+          },
+          {
+            "level": 3,
+            "value": "6%",
+            "might": 538,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 5
+              }
+            ],
+            "time": "01:53:00",
+            "seconds": 6780,
+            "resources": {
+              "food": 5709,
+              "stone": 7136,
+              "timber": 11418,
+              "ore": 4282,
+              "gold": 15862
+            }
+          },
+          {
+            "level": 4,
+            "value": "10%",
+            "might": 1616,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              }
+            ],
+            "time": "05:37:00",
+            "seconds": 20220,
+            "resources": {
+              "food": 19029,
+              "stone": 23786,
+              "timber": 38058,
+              "ore": 14272,
+              "gold": 105743
+            }
+          },
+          {
+            "level": 5,
+            "value": "15%",
+            "might": 4845,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 9
+              }
+            ],
+            "time": "16:50:00",
+            "seconds": 60600,
+            "resources": {
+              "food": 47572,
+              "stone": 59465,
+              "timber": 95143,
+              "ore": 35679,
+              "gold": 264356
+            }
+          },
+          {
+            "level": 6,
+            "value": "21%",
+            "might": 14536,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "2d 02:29:00",
+            "seconds": 181740,
+            "resources": {
+              "food": 95143,
+              "stone": 118929,
+              "timber": 190286,
+              "ore": 71358,
+              "gold": 528712
+            }
+          },
+          {
+            "level": 7,
+            "value": "28%",
+            "might": 43608,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              }
+            ],
+            "time": "6d 07:27:00",
+            "seconds": 545220,
+            "resources": {
+              "food": 475714,
+              "stone": 594643,
+              "timber": 951428,
+              "ore": 356786,
+              "gold": 1321779
+            }
+          },
+          {
+            "level": 8,
+            "value": "37%",
+            "might": 130823,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              }
+            ],
+            "time": "18d 22:20:00",
+            "seconds": 1635600,
+            "resources": {
+              "food": 951428,
+              "stone": 1189285,
+              "timber": 1902856,
+              "ore": 713571,
+              "gold": 2643558
+            }
+          },
+          {
+            "level": 9,
+            "value": "48%",
+            "might": 392471,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "56d 18:59:00",
+            "seconds": 4906740,
+            "resources": {
+              "food": 1902856,
+              "stone": 2378570,
+              "timber": 3805712,
+              "ore": 1427142,
+              "gold": 10574231
+            }
+          },
+          {
+            "level": 10,
+            "value": "70%",
+            "might": 981178,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "141d 23:28:00",
+            "seconds": 12266880,
+            "resources": {
+              "food": 3805712,
+              "stone": 4757140,
+              "timber": 7611423,
+              "ore": 2854284,
+              "gold": 23792019
+            }
+          }
+        ]
+      },
+      {
         "title": "Food Harvesting I",
         "requirements": [
           {
@@ -408,6 +613,420 @@
               "timber": 380572,
               "ore": 279086,
               "gold": 11896010
+            }
+          }
+        ]
+      },
+      {
+        "title": "Food Harvesting I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 90,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 1
+              }
+            ],
+            "time": "00:04:00",
+            "seconds": 240,
+            "resources": {
+              "food": 35,
+              "stone": 58,
+              "timber": 58,
+              "ore": 42,
+              "gold": 397
+            }
+          },
+          {
+            "level": 2,
+            "value": "3%",
+            "might": 150,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 2
+              }
+            ],
+            "time": "00:19:00",
+            "seconds": 1140,
+            "resources": {
+              "food": 115,
+              "stone": 191,
+              "timber": 191,
+              "ore": 140,
+              "gold": 2644
+            }
+          },
+          {
+            "level": 3,
+            "value": "6%",
+            "might": 269,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 4
+              }
+            ],
+            "time": "00:57:00",
+            "seconds": 3420,
+            "resources": {
+              "food": 343,
+              "stone": 571,
+              "timber": 571,
+              "ore": 419,
+              "gold": 7931
+            }
+          },
+          {
+            "level": 4,
+            "value": "10%",
+            "might": 808,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 6
+              }
+            ],
+            "time": "02:49:00",
+            "seconds": 10140,
+            "resources": {
+              "food": 1142,
+              "stone": 1903,
+              "timber": 1903,
+              "ore": 1396,
+              "gold": 52872
+            }
+          },
+          {
+            "level": 5,
+            "value": "15%",
+            "might": 2422,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "08:25:00",
+            "seconds": 30300,
+            "resources": {
+              "food": 2855,
+              "stone": 4758,
+              "timber": 4758,
+              "ore": 3489,
+              "gold": 132178
+            }
+          },
+          {
+            "level": 6,
+            "value": "22%",
+            "might": 7268,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "1d 01:15:00",
+            "seconds": 90900,
+            "resources": {
+              "food": 5709,
+              "stone": 9515,
+              "timber": 9515,
+              "ore": 6978,
+              "gold": 264356
+            }
+          },
+          {
+            "level": 7,
+            "value": "31%",
+            "might": 21804,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 15
+              }
+            ],
+            "time": "3d 03:44:00",
+            "seconds": 272640,
+            "resources": {
+              "food": 28543,
+              "stone": 47572,
+              "timber": 47572,
+              "ore": 34886,
+              "gold": 660890
+            }
+          },
+          {
+            "level": 8,
+            "value": "43%",
+            "might": 65412,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "9d 11:10:00",
+            "seconds": 817800,
+            "resources": {
+              "food": 57086,
+              "stone": 95143,
+              "timber": 95143,
+              "ore": 69772,
+              "gold": 1321779
+            }
+          },
+          {
+            "level": 9,
+            "value": "58%",
+            "might": 196235,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "28d 09:30:00",
+            "seconds": 2453400,
+            "resources": {
+              "food": 114172,
+              "stone": 190286,
+              "timber": 190286,
+              "ore": 139543,
+              "gold": 5287116
+            }
+          },
+          {
+            "level": 10,
+            "value": "80%",
+            "might": 490589,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "70d 23:44:00",
+            "seconds": 6133440,
+            "resources": {
+              "food": 228343,
+              "stone": 380572,
+              "timber": 380572,
+              "ore": 279086,
+              "gold": 11896010
+            }
+          }
+        ]
+      },
+      {
+        "title": "Vault Management",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 63,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 3
+              }
+            ],
+            "time": "00:14:00",
+            "seconds": 840,
+            "resources": {
+              "food": 86,
+              "stone": 143,
+              "timber": 143,
+              "ore": 105,
+              "gold": 278
+            }
+          },
+          {
+            "level": 2,
+            "value": "3%",
+            "might": 105,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 5
+              }
+            ],
+            "time": "00:53:00",
+            "seconds": 3180,
+            "resources": {
+              "food": 286,
+              "stone": 476,
+              "timber": 476,
+              "ore": 349,
+              "gold": 1851
+            }
+          },
+          {
+            "level": 3,
+            "value": "6%",
+            "might": 188,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              }
+            ],
+            "time": "01:49:00",
+            "seconds": 6540,
+            "resources": {
+              "food": 857,
+              "stone": 1428,
+              "timber": 1428,
+              "ore": 1047,
+              "gold": 5552
+            }
+          },
+          {
+            "level": 4,
+            "value": "10%",
+            "might": 566,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 9
+              }
+            ],
+            "time": "02:33:00",
+            "seconds": 9180,
+            "resources": {
+              "food": 2855,
+              "stone": 4758,
+              "timber": 4758,
+              "ore": 3489,
+              "gold": 37010
+            }
+          },
+          {
+            "level": 5,
+            "value": "15%",
+            "might": 1696,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "05:53:00",
+            "seconds": 21180,
+            "resources": {
+              "food": 7136,
+              "stone": 11893,
+              "timber": 11893,
+              "ore": 8722,
+              "gold": 92525
+            }
+          },
+          {
+            "level": 6,
+            "value": "21%",
+            "might": 5087,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              }
+            ],
+            "time": "17:39:00",
+            "seconds": 63540,
+            "resources": {
+              "food": 14272,
+              "stone": 23786,
+              "timber": 23786,
+              "ore": 17443,
+              "gold": 185050
+            }
+          },
+          {
+            "level": 7,
+            "value": "28%",
+            "might": 15263,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              }
+            ],
+            "time": "2d 04:56:00",
+            "seconds": 190560,
+            "resources": {
+              "food": 71358,
+              "stone": 118929,
+              "timber": 118929,
+              "ore": 87215,
+              "gold": 462623
+            }
+          },
+          {
+            "level": 8,
+            "value": "37%",
+            "might": 45788,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "6d 14:48:00",
+            "seconds": 571680,
+            "resources": {
+              "food": 142715,
+              "stone": 237857,
+              "timber": 237857,
+              "ore": 174429,
+              "gold": 925246
+            }
+          },
+          {
+            "level": 9,
+            "value": "48%",
+            "might": 137365,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "19d 20:24:00",
+            "seconds": 1715040,
+            "resources": {
+              "food": 285429,
+              "stone": 475714,
+              "timber": 475714,
+              "ore": 348857,
+              "gold": 3700981
+            }
+          },
+          {
+            "level": 10,
+            "value": "70%",
+            "might": 343412,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Construction Speed",
+                "l": 10
+              }
+            ],
+            "time": "49d 15:00:00",
+            "seconds": 4287600,
+            "resources": {
+              "food": 570857,
+              "stone": 951428,
+              "timber": 951428,
+              "ore": 697714,
+              "gold": 8327207
             }
           }
         ]
@@ -835,7 +1454,646 @@
         ]
       },
       {
+        "title": "Stone Harvesting I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 90,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 1
+              },
+              {
+                "r": "Food Harvesting",
+                "l": 1
+              }
+            ],
+            "time": "00:19:00",
+            "seconds": 1140,
+            "resources": {
+              "food": 86,
+              "stone": 143,
+              "timber": 143,
+              "ore": 105,
+              "gold": 397
+            }
+          },
+          {
+            "level": 2,
+            "value": "3%",
+            "might": 150,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 2
+              }
+            ],
+            "time": "01:15:00",
+            "seconds": 4500,
+            "resources": {
+              "food": 286,
+              "stone": 476,
+              "timber": 476,
+              "ore": 349,
+              "gold": 2644
+            }
+          },
+          {
+            "level": 3,
+            "value": "6%",
+            "might": 269,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 4
+              }
+            ],
+            "time": "02:36:00",
+            "seconds": 9360,
+            "resources": {
+              "food": 857,
+              "stone": 1428,
+              "timber": 1428,
+              "ore": 1047,
+              "gold": 7931
+            }
+          },
+          {
+            "level": 4,
+            "value": "10%",
+            "might": 808,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 6
+              }
+            ],
+            "time": "03:38:00",
+            "seconds": 13080,
+            "resources": {
+              "food": 2855,
+              "stone": 4758,
+              "timber": 4758,
+              "ore": 3489,
+              "gold": 52872
+            }
+          },
+          {
+            "level": 5,
+            "value": "15%",
+            "might": 2422,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "08:25:00",
+            "seconds": 30300,
+            "resources": {
+              "food": 7136,
+              "stone": 11893,
+              "timber": 11893,
+              "ore": 8722,
+              "gold": 132178
+            }
+          },
+          {
+            "level": 6,
+            "value": "22%",
+            "might": 7268,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "1d 01:13:00",
+            "seconds": 90780,
+            "resources": {
+              "food": 14272,
+              "stone": 23786,
+              "timber": 23786,
+              "ore": 17443,
+              "gold": 264356
+            }
+          },
+          {
+            "level": 7,
+            "value": "31%",
+            "might": 21804,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 15
+              }
+            ],
+            "time": "3d 03:38:00",
+            "seconds": 272280,
+            "resources": {
+              "food": 71358,
+              "stone": 118929,
+              "timber": 118929,
+              "ore": 87215,
+              "gold": 660890
+            }
+          },
+          {
+            "level": 8,
+            "value": "43%",
+            "might": 65412,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "9d 10:52:00",
+            "seconds": 816720,
+            "resources": {
+              "food": 142715,
+              "stone": 237857,
+              "timber": 237857,
+              "ore": 174429,
+              "gold": 1321779
+            }
+          },
+          {
+            "level": 9,
+            "value": "58%",
+            "might": 196235,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "28d 08:35:00",
+            "seconds": 2450100,
+            "resources": {
+              "food": 285429,
+              "stone": 475714,
+              "timber": 475714,
+              "ore": 348857,
+              "gold": 5287116
+            }
+          },
+          {
+            "level": 10,
+            "value": "80%",
+            "might": 490589,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Food Harvesting",
+                "l": 10
+              }
+            ],
+            "time": "70d 21:26:00",
+            "seconds": 6125160,
+            "resources": {
+              "food": 570857,
+              "stone": 951428,
+              "timber": 951428,
+              "ore": 697714,
+              "gold": 11896010
+            }
+          }
+        ]
+      },
+      {
         "title": "Timber Harvesting I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 90,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 1
+              },
+              {
+                "r": "Food Harvesting",
+                "l": 1
+              }
+            ],
+            "time": "00:19:00",
+            "seconds": 1140,
+            "resources": {
+              "food": 86,
+              "stone": 143,
+              "timber": 143,
+              "ore": 105,
+              "gold": 397
+            }
+          },
+          {
+            "level": 2,
+            "value": "3%",
+            "might": 150,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 2
+              }
+            ],
+            "time": "01:15:00",
+            "seconds": 4500,
+            "resources": {
+              "food": 286,
+              "stone": 476,
+              "timber": 476,
+              "ore": 349,
+              "gold": 2644
+            }
+          },
+          {
+            "level": 3,
+            "value": "6%",
+            "might": 269,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 4
+              }
+            ],
+            "time": "02:36:00",
+            "seconds": 9360,
+            "resources": {
+              "food": 857,
+              "stone": 1428,
+              "timber": 1428,
+              "ore": 1047,
+              "gold": 7931
+            }
+          },
+          {
+            "level": 4,
+            "value": "10%",
+            "might": 808,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 6
+              }
+            ],
+            "time": "03:38:00",
+            "seconds": 13080,
+            "resources": {
+              "food": 2855,
+              "stone": 4758,
+              "timber": 4758,
+              "ore": 3489,
+              "gold": 52872
+            }
+          },
+          {
+            "level": 5,
+            "value": "15%",
+            "might": 2422,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "08:25:00",
+            "seconds": 30300,
+            "resources": {
+              "food": 7136,
+              "stone": 11893,
+              "timber": 11893,
+              "ore": 8722,
+              "gold": 132178
+            }
+          },
+          {
+            "level": 6,
+            "value": "22%",
+            "might": 7268,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "1d 01:13:00",
+            "seconds": 90780,
+            "resources": {
+              "food": 14272,
+              "stone": 23786,
+              "timber": 23786,
+              "ore": 17443,
+              "gold": 264356
+            }
+          },
+          {
+            "level": 7,
+            "value": "31%",
+            "might": 21804,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 15
+              }
+            ],
+            "time": "3d 03:38:00",
+            "seconds": 272280,
+            "resources": {
+              "food": 71358,
+              "stone": 118929,
+              "timber": 118929,
+              "ore": 87215,
+              "gold": 660890
+            }
+          },
+          {
+            "level": 8,
+            "value": "43%",
+            "might": 65412,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "9d 10:52:00",
+            "seconds": 816720,
+            "resources": {
+              "food": 142715,
+              "stone": 237857,
+              "timber": 237857,
+              "ore": 175429,
+              "gold": 1321779
+            }
+          },
+          {
+            "level": 9,
+            "value": "58%",
+            "might": 196235,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "28d 08:35:00",
+            "seconds": 2450100,
+            "resources": {
+              "food": 285429,
+              "stone": 475714,
+              "timber": 475714,
+              "ore": 348857,
+              "gold": 5287116
+            }
+          },
+          {
+            "level": 10,
+            "value": "80%",
+            "might": 490589,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Food Harvesting",
+                "l": 10
+              }
+            ],
+            "time": "70d 21:26:00",
+            "seconds": 6125160,
+            "resources": {
+              "food": 570857,
+              "stone": 951428,
+              "timber": 951428,
+              "ore": 697714,
+              "gold": 11896010
+            }
+          }
+        ]
+      },
+      {
+        "title": "Timber Harvesting I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 90,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 1
+              },
+              {
+                "r": "Food Harvesting",
+                "l": 1
+              }
+            ],
+            "time": "00:19:00",
+            "seconds": 1140,
+            "resources": {
+              "food": 86,
+              "stone": 143,
+              "timber": 143,
+              "ore": 105,
+              "gold": 397
+            }
+          },
+          {
+            "level": 2,
+            "value": "3%",
+            "might": 150,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 2
+              }
+            ],
+            "time": "01:15:00",
+            "seconds": 4500,
+            "resources": {
+              "food": 286,
+              "stone": 476,
+              "timber": 476,
+              "ore": 349,
+              "gold": 2644
+            }
+          },
+          {
+            "level": 3,
+            "value": "6%",
+            "might": 269,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 4
+              }
+            ],
+            "time": "02:36:00",
+            "seconds": 9360,
+            "resources": {
+              "food": 857,
+              "stone": 1428,
+              "timber": 1428,
+              "ore": 1047,
+              "gold": 7931
+            }
+          },
+          {
+            "level": 4,
+            "value": "10%",
+            "might": 808,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 6
+              }
+            ],
+            "time": "03:38:00",
+            "seconds": 13080,
+            "resources": {
+              "food": 2855,
+              "stone": 4758,
+              "timber": 4758,
+              "ore": 3489,
+              "gold": 52872
+            }
+          },
+          {
+            "level": 5,
+            "value": "15%",
+            "might": 2422,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "08:25:00",
+            "seconds": 30300,
+            "resources": {
+              "food": 7136,
+              "stone": 11893,
+              "timber": 11893,
+              "ore": 8722,
+              "gold": 132178
+            }
+          },
+          {
+            "level": 6,
+            "value": "22%",
+            "might": 7268,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "1d 01:13:00",
+            "seconds": 90780,
+            "resources": {
+              "food": 14272,
+              "stone": 23786,
+              "timber": 23786,
+              "ore": 17443,
+              "gold": 264356
+            }
+          },
+          {
+            "level": 7,
+            "value": "31%",
+            "might": 21804,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 15
+              }
+            ],
+            "time": "3d 03:38:00",
+            "seconds": 272280,
+            "resources": {
+              "food": 71358,
+              "stone": 118929,
+              "timber": 118929,
+              "ore": 87215,
+              "gold": 660890
+            }
+          },
+          {
+            "level": 8,
+            "value": "43%",
+            "might": 65412,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "9d 10:52:00",
+            "seconds": 816720,
+            "resources": {
+              "food": 142715,
+              "stone": 237857,
+              "timber": 237857,
+              "ore": 175429,
+              "gold": 1321779
+            }
+          },
+          {
+            "level": 9,
+            "value": "58%",
+            "might": 196235,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "28d 08:35:00",
+            "seconds": 2450100,
+            "resources": {
+              "food": 285429,
+              "stone": 475714,
+              "timber": 475714,
+              "ore": 348857,
+              "gold": 5287116
+            }
+          },
+          {
+            "level": 10,
+            "value": "80%",
+            "might": 490589,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Food Harvesting",
+                "l": 10
+              }
+            ],
+            "time": "70d 21:26:00",
+            "seconds": 6125160,
+            "resources": {
+              "food": 570857,
+              "stone": 951428,
+              "timber": 951428,
+              "ore": 697714,
+              "gold": 11896010
+            }
+          }
+        ]
+      },
+      {
+        "title": "Metal Harvesting I",
         "requirements": [
           {
             "level": 1,
@@ -1474,6 +2732,219 @@
         ]
       },
       {
+        "title": "Weight Training I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 108,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 3
+              },
+              {
+                "r": "Vault Management",
+                "l": 1
+              }
+            ],
+            "time": "00:23:00",
+            "seconds": 1380,
+            "resources": {
+              "food": 514,
+              "stone": 857,
+              "timber": 857,
+              "ore": 628,
+              "gold": 476
+            }
+          },
+          {
+            "level": 2,
+            "value": "3%",
+            "might": 180,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 6
+              }
+            ],
+            "time": "01:30:00",
+            "seconds": 5400,
+            "resources": {
+              "food": 1713,
+              "stone": 2855,
+              "timber": 2855,
+              "ore": 2094,
+              "gold": 3173
+            }
+          },
+          {
+            "level": 3,
+            "value": "6%",
+            "might": 323,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "03:07:00",
+            "seconds": 11220,
+            "resources": {
+              "food": 5138,
+              "stone": 8563,
+              "timber": 8563,
+              "ore": 6280,
+              "gold": 9517
+            }
+          },
+          {
+            "level": 4,
+            "value": "10%",
+            "might": 969,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "04:22:00",
+            "seconds": 15720,
+            "resources": {
+              "food": 17126,
+              "stone": 28543,
+              "timber": 28543,
+              "ore": 20932,
+              "gold": 63446
+            }
+          },
+          {
+            "level": 5,
+            "value": "15%",
+            "might": 2907,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              }
+            ],
+            "time": "10:05:00",
+            "seconds": 36300,
+            "resources": {
+              "food": 42815,
+              "stone": 71358,
+              "timber": 71358,
+              "ore": 53239,
+              "gold": 158614
+            }
+          },
+          {
+            "level": 6,
+            "value": "21%",
+            "might": 8721,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              }
+            ],
+            "time": "1d 06:15:00",
+            "seconds": 108900,
+            "resources": {
+              "food": 85629,
+              "stone": 142715,
+              "timber": 142715,
+              "ore": 104658,
+              "gold": 317227
+            }
+          },
+          {
+            "level": 7,
+            "value": "29%",
+            "might": 26165,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "3d 18:45:00",
+            "seconds": 326700,
+            "resources": {
+              "food": 428143,
+              "stone": 713571,
+              "timber": 713571,
+              "ore": 523286,
+              "gold": 793068
+            }
+          },
+          {
+            "level": 8,
+            "value": "39%",
+            "might": 78494,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "11d 08:14:00",
+            "seconds": 980040,
+            "resources": {
+              "food": 856286,
+              "stone": 1427142,
+              "timber": 1427142,
+              "ore": 1046571,
+              "gold": 1586135
+            }
+          },
+          {
+            "level": 9,
+            "value": "51%",
+            "might": 235483,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "34d 00:42:00",
+            "seconds": 2940120,
+            "resources": {
+              "food": 1712571,
+              "stone": 2854284,
+              "timber": 2854284,
+              "ore": 2093142,
+              "gold": 6344539
+            }
+          },
+          {
+            "level": 10,
+            "value": "75%",
+            "might": 588707,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Vault Management",
+                "l": 10
+              }
+            ],
+            "time": "85d 01:43:00",
+            "seconds": 7350180,
+            "resources": {
+              "food": 3425141,
+              "stone": 5708568,
+              "timber": 5708568,
+              "ore": 4186283,
+              "gold": 14275212
+            }
+          }
+        ]
+      },
+      {
         "title": "Resource Harvesting I",
         "requirements": [
           {
@@ -1698,6 +3169,520 @@
               "timber": 5708568,
               "ore": 4186283,
               "gold": 15464813
+            }
+          }
+        ]
+      },
+      {
+        "title": "Resource Harvesting I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 117,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 3
+              },
+              {
+                "r": "Stone Harvesting",
+                "l": 1
+              },
+              {
+                "r": "Timber Harvesting",
+                "l": 1
+              },
+              {
+                "r": "Metal Harvesting",
+                "l": 1
+              }
+            ],
+            "time": "00:25:00",
+            "seconds": 1500,
+            "resources": {
+              "food": 514,
+              "stone": 857,
+              "timber": 857,
+              "ore": 628,
+              "gold": 516
+            }
+          },
+          {
+            "level": 2,
+            "value": "3%",
+            "might": 195,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 5
+              }
+            ],
+            "time": "01:38:00",
+            "seconds": 5880,
+            "resources": {
+              "food": 1713,
+              "stone": 2855,
+              "timber": 2855,
+              "ore": 2094,
+              "gold": 3437
+            }
+          },
+          {
+            "level": 3,
+            "value": "6%",
+            "might": 349,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              }
+            ],
+            "time": "03:23:00",
+            "seconds": 12180,
+            "resources": {
+              "food": 5138,
+              "stone": 8563,
+              "timber": 8563,
+              "ore": 6280,
+              "gold": 10310
+            }
+          },
+          {
+            "level": 4,
+            "value": "10%",
+            "might": 1050,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 9
+              }
+            ],
+            "time": "04:44:00",
+            "seconds": 17040,
+            "resources": {
+              "food": 17126,
+              "stone": 28543,
+              "timber": 28543,
+              "ore": 20943,
+              "gold": 68773
+            }
+          },
+          {
+            "level": 5,
+            "value": "15%",
+            "might": 3150,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "10:56:00",
+            "seconds": 39360,
+            "resources": {
+              "food": 42815,
+              "stone": 71358,
+              "timber": 71358,
+              "ore": 52329,
+              "gold": 171832
+            }
+          },
+          {
+            "level": 6,
+            "value": "21%",
+            "might": 9448,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              }
+            ],
+            "time": "1d 08:47:00",
+            "seconds": 118020,
+            "resources": {
+              "food": 85629,
+              "stone": 142715,
+              "timber": 194658,
+              "ore": 104658,
+              "gold": 343663
+            }
+          },
+          {
+            "level": 7,
+            "value": "28%",
+            "might": 28345,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              }
+            ],
+            "time": "4d 02:19:00",
+            "seconds": 353940,
+            "resources": {
+              "food": 428143,
+              "stone": 713571,
+              "timber": 713571,
+              "ore": 523286,
+              "gold": 859157
+            }
+          },
+          {
+            "level": 8,
+            "value": "37%",
+            "might": 85036,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "12d 06:55:00",
+            "seconds": 1061700,
+            "resources": {
+              "food": 856026,
+              "stone": 1427142,
+              "timber": 1427142,
+              "ore": 1046571,
+              "gold": 1718313
+            }
+          },
+          {
+            "level": 9,
+            "value": "48%",
+            "might": 255106,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "36d 20:45:00",
+            "seconds": 3185100,
+            "resources": {
+              "food": 1712571,
+              "stone": 2854284,
+              "timber": 2854284,
+              "ore": 2093142,
+              "gold": 6873250
+            }
+          },
+          {
+            "level": 10,
+            "value": "70%",
+            "might": 637765,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Stone Harvesting",
+                "l": 10
+              },
+              {
+                "r": "Timber Harvesting",
+                "l": 10
+              },
+              {
+                "r": "Metal Harvesting",
+                "l": 10
+              }
+            ],
+            "time": "92d 03:52:00",
+            "seconds": 7962720,
+            "resources": {
+              "food": 3425141,
+              "stone": 5708568,
+              "timber": 5708568,
+              "ore": 4186283,
+              "gold": 15464813
+            }
+          }
+        ]
+      },
+      {
+        "title": "Gem Harvesting I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 135,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 6
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 1
+              },
+              {
+                "r": "Weight Training I",
+                "l": 1
+              }
+            ],
+            "time": "00:29:00",
+            "seconds": 1740,
+            "resources": {
+              "food": 514,
+              "stone": 857,
+              "timber": 857,
+              "ore": 628,
+              "gold": 595
+            }
+          },
+          {
+            "level": 2,
+            "value": "2%",
+            "might": 224,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 9
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 2
+              },
+              {
+                "r": "Weight Training I",
+                "l": 2
+              }
+            ],
+            "time": "01:53:00",
+            "seconds": 6780,
+            "resources": {
+              "food": 1713,
+              "stone": 2855,
+              "timber": 2855,
+              "ore": 2094,
+              "gold": 3966
+            }
+          },
+          {
+            "level": 3,
+            "value": "3%",
+            "might": 404,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 12
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 3
+              },
+              {
+                "r": "Weight Training I",
+                "l": 3
+              }
+            ],
+            "time": "03:54:00",
+            "seconds": 14040,
+            "resources": {
+              "food": 5138,
+              "stone": 8563,
+              "timber": 8563,
+              "ore": 6280,
+              "gold": 11897
+            }
+          },
+          {
+            "level": 4,
+            "value": "4%",
+            "might": 1212,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 4
+              },
+              {
+                "r": "Weight Training I",
+                "l": 4
+              }
+            ],
+            "time": "05:27:00",
+            "seconds": 19620,
+            "resources": {
+              "food": 17126,
+              "stone": 28543,
+              "timber": 28543,
+              "ore": 20932,
+              "gold": 79307
+            }
+          },
+          {
+            "level": 5,
+            "value": "5%",
+            "might": 3634,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 16
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 5
+              },
+              {
+                "r": "Weight Training I",
+                "l": 5
+              }
+            ],
+            "time": "12:37:00",
+            "seconds": 45420,
+            "resources": {
+              "food": 42815,
+              "stone": 71358,
+              "timber": 71358,
+              "ore": 52329,
+              "gold": 198267
+            }
+          },
+          {
+            "level": 6,
+            "value": "6%",
+            "might": 10901,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 6
+              },
+              {
+                "r": "Weight Training I",
+                "l": 6
+              }
+            ],
+            "time": "1d 13:49:00",
+            "seconds": 136140,
+            "resources": {
+              "food": 85629,
+              "stone": 142715,
+              "timber": 142715,
+              "ore": 104658,
+              "gold": 396534
+            }
+          },
+          {
+            "level": 7,
+            "value": "7%",
+            "might": 32706,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 7
+              },
+              {
+                "r": "Weight Training I",
+                "l": 7
+              }
+            ],
+            "time": "4d 17:26:00",
+            "seconds": 408360,
+            "resources": {
+              "food": 428143,
+              "stone": 713571,
+              "timber": 713571,
+              "ore": 523286,
+              "gold": 991335
+            }
+          },
+          {
+            "level": 8,
+            "value": "8%",
+            "might": 98118,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 8
+              },
+              {
+                "r": "Weight Training I",
+                "l": 8
+              }
+            ],
+            "time": "14d 08:18:00",
+            "seconds": 1239480,
+            "resources": {
+              "food": 856286,
+              "stone": 1427142,
+              "timber": 1427142,
+              "ore": 1046571,
+              "gold": 1982669
+            }
+          },
+          {
+            "level": 9,
+            "value": "9%",
+            "might": 294353,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 9
+              },
+              {
+                "r": "Weight Training I",
+                "l": 9
+              }
+            ],
+            "time": "42d 12:52:00",
+            "seconds": 3675120,
+            "resources": {
+              "food": 1712571,
+              "stone": 2854284,
+              "timber": 2854284,
+              "ore": 2093142,
+              "gold": 7930673
+            }
+          },
+          {
+            "level": 10,
+            "value": "10%",
+            "might": 735884,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Resource Harvesting I",
+                "l": 10
+              },
+              {
+                "r": "Weight Training I",
+                "l": 10
+              }
+            ],
+            "time": "106d 08:09:00",
+            "seconds": 9187740,
+            "resources": {
+              "food": 3425141,
+              "stone": 5708568,
+              "timber": 5708568,
+              "ore": 4186283,
+              "gold": 17844014
             }
           }
         ]
