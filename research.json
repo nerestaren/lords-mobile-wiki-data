@@ -5441,6 +5441,251 @@
         ]
       },
       {
+        "title": "Wall Strength III",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "2200",
+            "might": 534,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              },
+              {
+                "r": "Hot Iron Spikes",
+                "l": 1
+              },
+              {
+                "r": "Fortified Tower",
+                "l": 1
+              },
+              {
+                "r": "Flame Boulders",
+                "l": 1
+              }
+            ],
+            "time": "02:07:00",
+            "seconds": 7620,
+            "resources": {
+              "food": 1931,
+              "stone": 1931,
+              "timber": 1931,
+              "ore": 1931,
+              "gold": 2358
+            }
+          },
+          {
+            "level": 2,
+            "value": "6600",
+            "might": 889,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              }
+            ],
+            "time": "08:28:00",
+            "seconds": 30480,
+            "resources": {
+              "food": 6434,
+              "stone": 6434,
+              "timber": 6434,
+              "ore": 6434,
+              "gold": 15715
+            }
+          },
+          {
+            "level": 3,
+            "value": "15400",
+            "might": 1600,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              }
+            ],
+            "time": "14:06:00",
+            "seconds": 50760,
+            "resources": {
+              "food": 19301,
+              "stone": 19301,
+              "timber": 19301,
+              "ore": 19301,
+              "gold": 47144
+            }
+          },
+          {
+            "level": 4,
+            "value": "28600",
+            "might": 4800,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Wall Strength II",
+                "l": 4
+              }
+            ],
+            "time": "1d 00:41:00",
+            "seconds": 88860,
+            "resources": {
+              "food": 64335,
+              "stone": 64335,
+              "timber": 64335,
+              "ore": 64335,
+              "gold": 314290
+            }
+          },
+          {
+            "level": 5,
+            "value": "46200",
+            "might": 14402,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              },
+              {
+                "r": "Wall Strength II",
+                "l": 5
+              }
+            ],
+            "time": "2d 09:06:00",
+            "seconds": 205560,
+            "resources": {
+              "food": 160837,
+              "stone": 160837,
+              "timber": 160837,
+              "ore": 160837,
+              "gold": 785725
+            }
+          },
+          {
+            "level": 6,
+            "value": "70400",
+            "might": 43204,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              },
+              {
+                "r": "Wall Strength II",
+                "l": 6
+              }
+            ],
+            "time": "7d 03:17:00",
+            "seconds": 616620,
+            "resources": {
+              "food": 321674,
+              "stone": 321674,
+              "timber": 321674,
+              "ore": 321674,
+              "gold": 1571449
+            }
+          },
+          {
+            "level": 7,
+            "value": "101200",
+            "might": 129612,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Wall Strength II",
+                "l": 7
+              }
+            ],
+            "time": "21d 09:50:00",
+            "seconds": 1849800,
+            "resources": {
+              "food": 1608367,
+              "stone": 1608367,
+              "timber": 1608367,
+              "ore": 1608367,
+              "gold": 3928621
+            }
+          },
+          {
+            "level": 8,
+            "value": "140800",
+            "might": 388837,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Wall Strength II",
+                "l": 8
+              }
+            ],
+            "time": "64d 05:29:00",
+            "seconds": 5549340,
+            "resources": {
+              "food": 3216733,
+              "stone": 3216733,
+              "timber": 3216733,
+              "ore": 3216733,
+              "gold": 7857241
+            }
+          },
+          {
+            "level": 9,
+            "value": "191400",
+            "might": 1166511,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Wall Strength II",
+                "l": 9
+              }
+            ],
+            "time": "192d 16:26:00",
+            "seconds": 16647960,
+            "resources": {
+              "food": 6433465,
+              "stone": 6433465,
+              "timber": 6433465,
+              "ore": 6433465,
+              "gold": 31428963
+            }
+          },
+          {
+            "level": 10,
+            "value": "275000",
+            "might": 2916278,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Wall Strength II",
+                "l": 10
+              }
+            ],
+            "time": "481d 17:05:00",
+            "seconds": 41619900,
+            "resources": {
+              "food": 12866929,
+              "stone": 12866929,
+              "timber": 12866929,
+              "ore": 12866929,
+              "gold": 70715167
+            }
+          }
+        ]
+      },
+      {
         "title": "Burning Spikes",
         "requirements": [
           {
