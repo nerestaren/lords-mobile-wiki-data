@@ -42996,6 +42996,233 @@
         ]
       },
       {
+        "title": "Ration Run II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.2%",
+            "might": 6742,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Resource Harvesting III",
+                "l": 1
+              }
+            ],
+            "time": "18:00:00",
+            "seconds": 64800,
+            "resources": {
+              "food": 84944,
+              "stone": 42472,
+              "timber": 42472,
+              "ore": 42472,
+              "gold": 48908,
+              "tomes": 2
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.4%",
+            "might": 22585,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "2d 14:59:00",
+            "seconds": 226740,
+            "resources": {
+              "food": 297303,
+              "stone": 148652,
+              "timber": 148652,
+              "ore": 148652,
+              "gold": 171177,
+              "tomes": 3
+            }
+          },
+          {
+            "level": 3,
+            "value": "0.6%",
+            "might": 28316,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "3d 04:29:00",
+            "seconds": 275340,
+            "resources": {
+              "food": 361010,
+              "stone": 180505,
+              "timber": 180505,
+              "ore": 180505,
+              "gold": 207857,
+              "tomes": 5
+            }
+          },
+          {
+            "level": 4,
+            "value": "0.8%",
+            "might": 34046,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "3d 17:59:00",
+            "seconds": 323940,
+            "resources": {
+              "food": 424718,
+              "stone": 212359,
+              "timber": 212359,
+              "ore": 212359,
+              "gold": 244538,
+              "tomes": 7
+            }
+          },
+          {
+            "level": 5,
+            "value": "1.1%",
+            "might": 41462,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "4d 11:59:00",
+            "seconds": 388740,
+            "resources": {
+              "food": 509661,
+              "stone": 254831,
+              "timber": 254831,
+              "ore": 254831,
+              "gold": 293445,
+              "tomes": 9
+            }
+          },
+          {
+            "level": 6,
+            "value": "1.5%",
+            "might": 55621,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "5d 23:58:00",
+            "seconds": 518280,
+            "resources": {
+              "food": 679548,
+              "stone": 339774,
+              "timber": 339774,
+              "ore": 339774,
+              "gold": 391260,
+              "tomes": 12
+            }
+          },
+          {
+            "level": 7,
+            "value": "2%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "7d 20:57:00",
+            "seconds": 680220,
+            "resources": {
+              "food": 891907,
+              "stone": 445954,
+              "timber": 445954,
+              "ore": 445954,
+              "gold": 513529,
+              "tomes": 16
+            }
+          },
+          {
+            "level": 8,
+            "value": "3%",
+            "might": 103487,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Resource Harvesting III",
+                "l": 8
+              }
+            ],
+            "time": "11d 05:56:00",
+            "seconds": 971760,
+            "resources": {
+              "food": 1274152,
+              "stone": 637076,
+              "timber": 637076,
+              "ore": 637076,
+              "gold": 733612,
+              "tomes": 21
+            }
+          },
+          {
+            "level": 9,
+            "value": "5%",
+            "might": 142253,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Resource Harvesting III",
+                "l": 9
+              }
+            ],
+            "time": "15d 17:54:00",
+            "seconds": 1360440,
+            "resources": {
+              "food": 1783813,
+              "stone": 891907,
+              "timber": 891907,
+              "ore": 891907,
+              "gold": 1027057,
+              "tomes": 26
+            }
+          },
+          {
+            "level": 10,
+            "value": "10%",
+            "might": 185400,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "20d 14:51:00",
+            "seconds": 1781460,
+            "resources": {
+              "food": 2335945,
+              "stone": 1167973,
+              "timber": 1167973,
+              "ore": 1167973,
+              "gold": 1344956,
+              "tomes": 33
+            }
+          }
+        ]
+      },
+      {
         "title": "Leadership (Infantry ATK)",
         "requirements": [
           {
@@ -43418,6 +43645,482 @@
         ]
       },
       {
+        "title": "Leadership (Ranged ATK)",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.3%",
+            "might": 15023,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Forging Cost",
+                "l": 1
+              }
+            ],
+            "time": "1d 16:06:00",
+            "seconds": 144360,
+            "resources": {
+              "food": 189277,
+              "stone": 75711,
+              "timber": 56783,
+              "ore": 151421,
+              "gold": 108979,
+              "tomes": 3
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.6%",
+            "might": 50326,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "5d 20:21:00",
+            "seconds": 505260,
+            "resources": {
+              "food": 662467,
+              "stone": 264987,
+              "timber": 198740,
+              "ore": 529974,
+              "gold": 381426,
+              "tomes": 7
+            }
+          },
+          {
+            "level": 3,
+            "value": "0.9%",
+            "might": 63094,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "7d 02:25:00",
+            "seconds": 613500,
+            "resources": {
+              "food": 804424,
+              "stone": 321770,
+              "timber": 241328,
+              "ore": 643539,
+              "gold": 463169,
+              "tomes": 11
+            }
+          },
+          {
+            "level": 4,
+            "value": "1.3%",
+            "might": 75864,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "8d 08:29:00",
+            "seconds": 721740,
+            "resources": {
+              "food": 946381,
+              "stone": 378553,
+              "timber": 283915,
+              "ore": 757105,
+              "gold": 544893,
+              "tomes": 15
+            }
+          },
+          {
+            "level": 5,
+            "value": "1.8%",
+            "might": 92389,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "10d 00:35:00",
+            "seconds": 866100,
+            "resources": {
+              "food": 1135657,
+              "stone": 454263,
+              "timber": 340698,
+              "ore": 908526,
+              "gold": 653872,
+              "tomes": 19
+            }
+          },
+          {
+            "level": 6,
+            "value": "2.5%",
+            "might": 123936,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "13d 08:47:00",
+            "seconds": 1154820,
+            "resources": {
+              "food": 1514210,
+              "stone": 605684,
+              "timber": 454263,
+              "ore": 1211368,
+              "gold": 871829,
+              "tomes": 26
+            }
+          },
+          {
+            "level": 7,
+            "value": "35%",
+            "might": 163745,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "17d 13:01:00",
+            "seconds": 1515660,
+            "resources": {
+              "food": 1987400,
+              "stone": 794960,
+              "timber": 596220,
+              "ore": 1589920,
+              "gold": 1144276,
+              "tomes": 36
+            }
+          },
+          {
+            "level": 8,
+            "value": "5%",
+            "might": 230596,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Forging Cost",
+                "l": 8
+              },
+              {
+                "r": "Leadership (Ranged DEF)",
+                "l": 7
+              },
+              {
+                "r": "Leadership (Ranged HP)",
+                "l": 7
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 2839143,
+              "stone": 1135657,
+              "timber": 851743,
+              "ore": 2271314,
+              "gold": 1634679,
+              "tomes": 46
+            }
+          },
+          {
+            "level": 9,
+            "value": "75%",
+            "might": 316976,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Forging Cost",
+                "l": 9
+              },
+              {
+                "r": "Leadership (Ranged DEF)",
+                "l": 8
+              },
+              {
+                "r": "Leadership (Ranged HP)",
+                "l": 8
+              }
+            ],
+            "time": "35d 02:02:00",
+            "seconds": 3031320,
+            "resources": {
+              "food": 3974800,
+              "stone": 1589920,
+              "timber": 1192440,
+              "ore": 3179840,
+              "gold": 2288551,
+              "tomes": 57
+            }
+          },
+          {
+            "level": 10,
+            "value": "15%",
+            "might": 413119,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Forging Cost",
+                "l": 10
+              },
+              {
+                "r": "Leadership (Ranged DEF)",
+                "l": 9
+              },
+              {
+                "r": "Leadership (Ranged HP)",
+                "l": 9
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 5205095,
+              "stone": 2082038,
+              "timber": 1561529,
+              "ore": 4164076,
+              "gold": 2996912,
+              "tomes": 72
+            }
+          }
+        ]
+      },
+      {
+        "title": "Leadership (Cavalry ATK)",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.3%",
+            "might": 15023,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Ration Run II",
+                "l": 1
+              }
+            ],
+            "time": "1d 16:06:00",
+            "seconds": 144360,
+            "resources": {
+              "food": 189277,
+              "stone": 75711,
+              "timber": 56783,
+              "ore": 151421,
+              "gold": 108979,
+              "tomes": 3
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.6%",
+            "might": 50326,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "5d 20:21:00",
+            "seconds": 505260,
+            "resources": {
+              "food": 662467,
+              "stone": 264987,
+              "timber": 198740,
+              "ore": 529974,
+              "gold": 381426,
+              "tomes": 7
+            }
+          },
+          {
+            "level": 3,
+            "value": "0.9%",
+            "might": 63094,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "7d 02:25:00",
+            "seconds": 613500,
+            "resources": {
+              "food": 804424,
+              "stone": 321770,
+              "timber": 241328,
+              "ore": 643539,
+              "gold": 463159,
+              "tomes": 11
+            }
+          },
+          {
+            "level": 4,
+            "value": "1.3%",
+            "might": 75864,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "8d 08:29:00",
+            "seconds": 721740,
+            "resources": {
+              "food": 946381,
+              "stone": 378553,
+              "timber": 283915,
+              "ore": 757105,
+              "gold": 544893,
+              "tomes": 15
+            }
+          },
+          {
+            "level": 5,
+            "value": "1.8%",
+            "might": 92389,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "10d 00:35:00",
+            "seconds": 866100,
+            "resources": {
+              "food": 1135657,
+              "stone": 454263,
+              "timber": 340698,
+              "ore": 908526,
+              "gold": 653872,
+              "tomes": 19
+            }
+          },
+          {
+            "level": 6,
+            "value": "2.5%",
+            "might": 123936,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "13d 08:47:00",
+            "seconds": 1154820,
+            "resources": {
+              "food": 1514210,
+              "stone": 605684,
+              "timber": 454263,
+              "ore": 1211368,
+              "gold": 871829,
+              "tomes": 26
+            }
+          },
+          {
+            "level": 7,
+            "value": "35%",
+            "might": 163745,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "17d 13:01:00",
+            "seconds": 1515660,
+            "resources": {
+              "food": 1987400,
+              "stone": 794960,
+              "timber": 596220,
+              "ore": 1589920,
+              "gold": 1144276,
+              "tomes": 36
+            }
+          },
+          {
+            "level": 8,
+            "value": "5%",
+            "might": 230596,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Ration Run II",
+                "l": 8
+              },
+              {
+                "r": "Leadership (Cavalry DEF)",
+                "l": 7
+              },
+              {
+                "r": "Leadership (Cavalry HP)",
+                "l": 7
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 2839143,
+              "stone": 1135657,
+              "timber": 851743,
+              "ore": 2271314,
+              "gold": 1634679,
+              "tomes": 46
+            }
+          },
+          {
+            "level": 9,
+            "value": "75%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 10,
+            "value": "15%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 5205095,
+              "stone": 2082038,
+              "timber": 1561529,
+              "ore": 4164076,
+              "gold": 2996912,
+              "tomes": 72
+            }
+          }
+        ]
+      },
+      {
         "title": "Leadership (Infantry HP)",
         "requirements": [
           {
@@ -43615,6 +44318,199 @@
               "ore": 3519152,
               "gold": 3377008,
               "tomes": 81
+            }
+          }
+        ]
+      },
+      {
+        "title": "Leadership (Siege HP)",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.3%",
+            "might": 16928,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Leadership (Siege ATK)",
+                "l": 1
+              }
+            ],
+            "time": "1d 21:11:00",
+            "seconds": 162660,
+            "resources": {
+              "food": 213282,
+              "stone": 106641,
+              "timber": 85313,
+              "ore": 127970,
+              "gold": 122801,
+              "tomes": 3
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.6%",
+            "might": 56709,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "6d 14:09:00",
+            "seconds": 569340,
+            "resources": {
+              "food": 746487,
+              "stone": 373244,
+              "timber": 289595,
+              "ore": 447893,
+              "gold": 429801,
+              "tomes": 7
+            }
+          },
+          {
+            "level": 3,
+            "value": "0.9%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 12
+            }
+          },
+          {
+            "level": 4,
+            "value": "1.3%",
+            "might": 85486,
+            "requires": [
+              {
+                "r": "Acadamy",
+                "l": 24
+              }
+            ],
+            "time": "9d 09:55:00",
+            "seconds": 813300,
+            "resources": {
+              "food": 1066410,
+              "stone": 533205,
+              "timber": 426564,
+              "ore": 639846,
+              "gold": 614002,
+              "tomes": 17
+            }
+          },
+          {
+            "level": 5,
+            "value": "1.8%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 22
+            }
+          },
+          {
+            "level": 6,
+            "value": "2.5%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 7,
+            "value": "35%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 8,
+            "value": "5%",
+            "might": 259843,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Leadership (Siege ATK)",
+                "l": 8
+              }
+            ],
+            "time": "28d 05:44:00",
+            "seconds": 2439840,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 52
+            }
+          },
+          {
+            "level": 9,
+            "value": "75%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 10,
+            "value": "15%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
             }
           }
         ]
@@ -45152,6 +46048,180 @@
         ]
       },
       {
+        "title": "Furious Defense (Siege)",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.2%",
+            "might": 21105,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Helmet Sigil",
+                "l": 1
+              }
+            ],
+            "time": "2d 08:20:00",
+            "seconds": 202800,
+            "resources": {
+              "food": 425456,
+              "stone": 212728,
+              "timber": 53182,
+              "ore": 53182,
+              "gold": 153102,
+              "tomes": 8
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.4%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 3,
+            "value": "0.6%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 4,
+            "value": "08%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 5,
+            "value": "1.1%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 6,
+            "value": "1.5%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 7,
+            "value": "2%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 8,
+            "value": "3%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 9,
+            "value": "5%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 10,
+            "value": "10%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          }
+        ]
+      },
+      {
         "title": "Furious Defense (Ranged)",
         "requirements": [
           {
@@ -45575,6 +46645,40 @@
               },
               {
                 "r": "Furious Defense (Siege)",
+                "l": 10
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 10784400,
+              "stone": 5392200,
+              "timber": 5392200,
+              "ore": 1797400,
+              "gold": 5174400,
+              "tomes": 160
+            }
+          }
+        ]
+      },
+      {
+        "title": "Legs Sigil",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Unlock Legs Sigil",
+            "might": 720995,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Furious Defense (Ranged)",
+                "l": 10
+              },
+              {
+                "r": "Furious Defense (Cavalry)",
                 "l": 10
               }
             ],
@@ -46303,6 +47407,40 @@
               "ore": 0,
               "gold": 0,
               "tomes": 0
+            }
+          }
+        ]
+      },
+      {
+        "title": "Main-hand Sigil",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Unlock Main-hand Sigil",
+            "might": 938175,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Furious Durability (Infantry)",
+                "l": 10
+              },
+              {
+                "r": "Furious Durability (Siege)",
+                "l": 10
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 14706000,
+              "stone": 7353000,
+              "timber": 7353000,
+              "ore": 2451000,
+              "gold": 7056000,
+              "tomes": 256
             }
           }
         ]
