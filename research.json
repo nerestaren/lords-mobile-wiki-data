@@ -41141,22 +41141,22 @@
           {
             "level": 4,
             "value": "20 min",
-            "might": 0,
+            "might": 1121213,
             "requires": [
               {
                 "r": "Academy",
                 "l": 25
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "160d 08:47:00",
+            "seconds": 13855620,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 12675561,
+              "stone": 6337781,
+              "timber": 6337781,
+              "ore": 2112594,
+              "gold": 8717228,
+              "anima": 1743446
             }
           },
           {
@@ -41370,12 +41370,12 @@
             "time": "155d 21:53:00",
             "seconds": 13470780,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 4107821,
+              "stone": 6161732,
+              "timber": 6161732,
+              "ore": 6161732,
+              "gold": 8475083,
+              "anima": 1695017
             }
           },
           {
@@ -41567,12 +41567,12 @@
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 11091116,
+              "stone": 5545558,
+              "timber": 1848520,
+              "ore": 5545558,
+              "gold": 7627575,
+              "anima": 1525515
             }
           },
           {
