@@ -36335,6 +36335,643 @@
             }
           }
         ]
+      },
+      {
+        "title": "Familiar Infantry Attack I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.2%",
+            "might": 19925,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Pact Merging Speed III",
+                "l": 1
+              },
+              {
+                "r": "Gym Training III",
+                "l": 1
+              }
+            ],
+            "time": "2d 18:12:00",
+            "seconds": 65520,
+            "resources": {
+              "food": 266918,
+              "stone": 66730,
+              "timber": 111216,
+              "ore": 133549,
+              "gold": 181652,
+              "anima": 31206
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.4%",
+            "might": 66745,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "9d 15:42:00",
+            "seconds": 56520,
+            "resources": {
+              "food": 934211,
+              "stone": 233553,
+              "timber": 389255,
+              "ore": 467106,
+              "gold": 635782,
+              "anima": 109221
+            }
+          },
+          {
+            "level": 3,
+            "value": "0.6%",
+            "might": 83681,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "11d 17:21:00",
+            "seconds": 62460,
+            "resources": {
+              "food": 1134399,
+              "stone": 283600,
+              "timber": 472666,
+              "ore": 567200,
+              "gold": 772021,
+              "anima": 132626
+            }
+          },
+          {
+            "level": 4,
+            "value": "0.8%",
+            "might": 100617,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "13d 19:00:00",
+            "seconds": 68400,
+            "resources": {
+              "food": 1334586,
+              "stone": 333647,
+              "timber": 556078,
+              "ore": 667293,
+              "gold": 908260,
+              "anima": 156030
+            }
+          },
+          {
+            "level": 5,
+            "value": "1.1%",
+            "might": 122532,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 6,
+            "value": "1.5%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 7,
+            "value": "2%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "28d 23:06:00",
+            "seconds": 83160,
+            "resources": {
+              "food": 2802631,
+              "stone": 700658,
+              "timber": 1167763,
+              "ore": 1401316,
+              "gold": 1907346,
+              "anima": 327662
+            }
+          },
+          {
+            "level": 8,
+            "value": "3%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 9,
+            "value": "5%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 10,
+            "value": "10%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          }
+        ]
+      },
+      {
+        "title": "Familiarity (Ranged ATK) I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.2%",
+            "might": 19925,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Pact Merging Speed III",
+                "l": 1
+              },
+              {
+                "r": "Gym Training III",
+                "l": 1
+              }
+            ],
+            "time": "2d 18:12:00",
+            "seconds": 65520,
+            "resources": {
+              "food": 266918,
+              "stone": 66730,
+              "timber": 11216,
+              "ore": 133459,
+              "gold": 181652,
+              "anima": 31206
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.4%",
+            "might": 66745,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "9d 15:42:00",
+            "seconds": 56520,
+            "resources": {
+              "food": 934211,
+              "stone": 233553,
+              "timber": 389255,
+              "ore": 467106,
+              "gold": 635782,
+              "anima": 109221
+            }
+          },
+          {
+            "level": 3,
+            "value": "0.6%",
+            "might": 83681,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "11d 17:21:00",
+            "seconds": 62460,
+            "resources": {
+              "food": 1134399,
+              "stone": 283600,
+              "timber": 472666,
+              "ore": 567200,
+              "gold": 772021,
+              "anima": 132626
+            }
+          },
+          {
+            "level": 4,
+            "value": "0.8%",
+            "might": 100617,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "13d 19:00:00",
+            "seconds": 68400,
+            "resources": {
+              "food": 1334586,
+              "stone": 333647,
+              "timber": 556078,
+              "ore": 667293,
+              "gold": 908260,
+              "anima": 156030
+            }
+          },
+          {
+            "level": 5,
+            "value": "1.1",
+            "might": 122532,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 1601504,
+              "stone": 400976,
+              "timber": 667293,
+              "ore": 800752,
+              "gold": 1089912,
+              "anima": 187236
+            }
+          },
+          {
+            "level": 6,
+            "value": "1.5%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 2135338,
+              "stone": 533835,
+              "timber": 889724,
+              "ore": 1067669,
+              "gold": 1453216,
+              "anima": 249648
+            }
+          },
+          {
+            "level": 7,
+            "value": "2%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 8,
+            "value": "3%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 9,
+            "value": "5%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 10,
+            "value": "10%",
+            "might": 547911,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 858163
+            }
+          }
+        ]
+      },
+      {
+        "title": "Familiarity (Cavalry ATK) I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.2%",
+            "might": 19925,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Gym Training III",
+                "l": 1
+              }
+            ],
+            "time": "2d 18:12:00",
+            "seconds": 65520,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 31206
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.4%",
+            "might": 66745,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "9d 15:42:00",
+            "seconds": 56520,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 109221
+            }
+          },
+          {
+            "level": 3,
+            "value": "0.6%",
+            "might": 83681,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "11d 17:21:00",
+            "seconds": 62460,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 132626
+            }
+          },
+          {
+            "level": 4,
+            "value": "0.8%",
+            "might": 100617,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              }
+            ],
+            "time": "13d 19:00:00",
+            "seconds": 68400,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 156030
+            }
+          },
+          {
+            "level": 5,
+            "value": "1.1%",
+            "might": 122532,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 6,
+            "value": "1.5%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 2135338,
+              "stone": 889724,
+              "timber": 533835,
+              "ore": 1067669,
+              "gold": 1453216,
+              "anima": 249648
+            }
+          },
+          {
+            "level": 7,
+            "value": "2%",
+            "might": 217172,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "28d 23:06:00",
+            "seconds": 83160,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 327662
+            }
+          },
+          {
+            "level": 8,
+            "value": "3%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 9,
+            "value": "5%",
+            "might": 0,
+            "requires": [],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 0
+            }
+          },
+          {
+            "level": 10,
+            "value": "10%",
+            "might": 547911,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "anima": 858163
+            }
+          }
+        ]
+      },
+      {
+        "title": "Familiar Battle Slot II",
+        "requirements": [
+          {
+            "level": 1,
+            "might": 363830,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Familiarity (Infantry ATK) I",
+                "l": 3
+              },
+              {
+                "r": "Familiarity (Ranged ATK) I",
+                "l": 3
+              },
+              {
+                "r": "Familiarity (Cavalry ATK) I",
+                "l": 3
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 17100000,
+              "stone": 4275000,
+              "timber": 4275000,
+              "ore": 4275000,
+              "gold": 11025000,
+              "anima": 1764000
+            }
+          }
+        ]
       }
     ]
   },
