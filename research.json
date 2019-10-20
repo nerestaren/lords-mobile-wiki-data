@@ -10933,6 +10933,39 @@
         ]
       },
       {
+        "title": "Monster Hunt IV",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Hunt Level 4 monsters",
+            "might": 236653,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Hunter Recovery II",
+                "l": 8
+              },
+              {
+                "r": "Survival Tactics II",
+                "l": 8
+              }
+            ],
+            "time": "26d 07:17:00",
+            "seconds": 2272620,
+            "resources": {
+              "food": 2809553,
+              "stone": 4370415,
+              "timber": 4994760,
+              "ore": 3433898,
+              "gold": 3787736
+            }
+          }
+        ]
+      },
+      {
         "title": "MP Advantage",
         "requirements": [
           {
@@ -34256,10 +34289,10 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
               },
               {
-                "r": "Membership",
+                "r": "Gym Membership",
                 "l": 10
               },
               {
