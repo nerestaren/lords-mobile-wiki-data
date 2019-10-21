@@ -36563,7 +36563,8 @@
               "timber": 11216,
               "ore": 133459,
               "gold": 181652,
-              "anima": 31206
+              "anima": 31206,
+              "tomes": 0
             }
           },
           {
@@ -36584,7 +36585,8 @@
               "timber": 389255,
               "ore": 467106,
               "gold": 635782,
-              "anima": 109221
+              "anima": 109221,
+              "tomes": 0
             }
           },
           {
@@ -36605,7 +36607,8 @@
               "timber": 472666,
               "ore": 567200,
               "gold": 772021,
-              "anima": 132626
+              "anima": 132626,
+              "tomes": 0
             }
           },
           {
@@ -36626,7 +36629,8 @@
               "timber": 556078,
               "ore": 667293,
               "gold": 908260,
-              "anima": 156030
+              "anima": 156030,
+              "tomes": 0
             }
           },
           {
@@ -36647,7 +36651,8 @@
               "timber": 667293,
               "ore": 800752,
               "gold": 1089912,
-              "anima": 187236
+              "anima": 187236,
+              "tomes": 0
             }
           },
           {
@@ -36663,7 +36668,8 @@
               "timber": 889724,
               "ore": 1067669,
               "gold": 1453216,
-              "anima": 249648
+              "anima": 249648,
+              "tomes": 0
             }
           },
           {
@@ -36679,23 +36685,38 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "anima": 0
+              "anima": 0,
+              "tomes": 0
             }
           },
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 305834,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Pact Merging Speed III",
+                "l": 8
+              },
+              {
+                "r": "Gym Training III",
+                "l": 8
+              }
+            ],
+            "time": "41d 09:00:00",
+            "seconds": 32400,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 4003758,
+              "stone": 1000940,
+              "timber": 1668233,
+              "ore": 2001879,
+              "gold": 2724780,
+              "anima": 468089,
+              "tomes": 40
             }
           },
           {
@@ -36711,7 +36732,8 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "anima": 0
+              "anima": 0,
+              "tomes": 0
             }
           },
           {
@@ -36727,7 +36749,8 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "anima": 858163
+              "anima": 858163,
+              "tomes": 0
             }
           }
         ]
