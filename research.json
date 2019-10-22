@@ -27256,6 +27256,256 @@
         ]
       },
       {
+        "title": "Breakthrough",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Unlocks Mythic Equipment",
+            "might": 150299,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Gold Storage II",
+                "l": 1
+              }
+            ],
+            "time": "25d 19:07:00",
+            "seconds": 68820,
+            "resources": {
+              "food": 1576320,
+              "stone": 985200,
+              "timber": 591120,
+              "ore": 1576320,
+              "gold": 1838245
+            }
+          }
+        ]
+      },
+      {
+        "title": "Shelter Expansion",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "500",
+            "might": 2689,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              },
+              {
+                "r": "Gold Storage II",
+                "l": 1
+              }
+            ],
+            "time": "11:05:00",
+            "seconds": 39900,
+            "resources": {
+              "food": 43743,
+              "stone": 26246,
+              "timber": 21872,
+              "ore": 17498,
+              "gold": 55546
+            }
+          },
+          {
+            "level": 2,
+            "value": "1000",
+            "might": 3585,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "14:47:00",
+            "seconds": 53220,
+            "resources": {
+              "food": 65615,
+              "stone": 39369,
+              "timber": 32808,
+              "ore": 26246,
+              "gold": 83319
+            }
+          },
+          {
+            "level": 3,
+            "value": "2000",
+            "might": 4481,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "18:28:00",
+            "seconds": 66480,
+            "resources": {
+              "food": 87486,
+              "stone": 52492,
+              "timber": 43743,
+              "ore": 34995,
+              "gold": 111092
+            }
+          },
+          {
+            "level": 4,
+            "value": "3000",
+            "might": 6274,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "1d 01:51:00",
+            "seconds": 6660,
+            "resources": {
+              "food": 113732,
+              "stone": 68239,
+              "timber": 56866,
+              "ore": 45493,
+              "gold": 144419
+            }
+          },
+          {
+            "level": 5,
+            "value": "4500",
+            "might": 8962,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "1d 12:56:00",
+            "seconds": 46560,
+            "resources": {
+              "food": 148726,
+              "stone": 89236,
+              "timber": 74363,
+              "ore": 59491,
+              "gold": 188856
+            }
+          },
+          {
+            "level": 6,
+            "value": "6000",
+            "might": 13444,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "2d 07:23:00",
+            "seconds": 26580,
+            "resources": {
+              "food": 201218,
+              "stone": 120731,
+              "timber": 100609,
+              "ore": 80487,
+              "gold": 255511
+            }
+          },
+          {
+            "level": 7,
+            "value": "8000",
+            "might": 22406,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "3d 20:18:00",
+            "seconds": 73080,
+            "resources": {
+              "food": 349944,
+              "stone": 209966,
+              "timber": 174972,
+              "ore": 139978,
+              "gold": 444366
+            }
+          },
+          {
+            "level": 8,
+            "value": "11000",
+            "might": 53774,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Gold Storage II",
+                "l": 8
+              }
+            ],
+            "time": "9d 05:31:00",
+            "seconds": 19860,
+            "resources": {
+              "food": 524915,
+              "stone": 314949,
+              "timber": 262458,
+              "ore": 209966,
+              "gold": 666549
+            }
+          },
+          {
+            "level": 9,
+            "value": "20000",
+            "might": 71698,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Gold Storage II",
+                "l": 9
+              }
+            ],
+            "time": "12d 07:21:00",
+            "seconds": 26460,
+            "resources": {
+              "food": 699887,
+              "stone": 419932,
+              "timber": 349944,
+              "ore": 279955,
+              "gold": 888731
+            }
+          },
+          {
+            "level": 10,
+            "value": "50000",
+            "might": 134436,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Gold Storage II",
+                "l": 10
+              }
+            ],
+            "time": "23d 01:47:00",
+            "seconds": 6420,
+            "resources": {
+              "food": 1049830,
+              "stone": 629898,
+              "timber": 524915,
+              "ore": 419932,
+              "gold": 1333097
+            }
+          }
+        ]
+      },
+      {
         "title": "Alchemy",
         "requirements": [
           {
