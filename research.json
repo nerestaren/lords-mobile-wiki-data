@@ -27868,15 +27868,15 @@
           {
             "level": 7,
             "value": "8000",
-            "might": 44812,
+            "might": 41824,
             "requires": [
               {
                 "r": "Academy",
                 "l": 22
               }
             ],
-            "time": "7d 16:36:00",
-            "seconds": 59760,
+            "time": "7d 04:18:00",
+            "seconds": 15480,
             "resources": {
               "food": 723217,
               "stone": 433930,
