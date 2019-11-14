@@ -15230,31 +15230,49 @@
           {
             "level": 6,
             "value": "12%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 57828,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Trap Retrieval III",
+                "l": 6
+              }
+            ],
+            "time": "8d 08:35:00",
+            "seconds": 722100,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0
+              "food": 270855,
+              "stone": 451424,
+              "timber": 451424,
+              "ore": 331045,
+              "gold": 2106149
             }
           },
           {
             "level": 7,
             "value": "16%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 173483,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Trap Retrieval III",
+                "l": 7
+              }
+            ],
+            "time": "25d 01:43:00",
+            "seconds": 2166180,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0
+              "food": 1504747,
+              "stone": 2507911,
+              "timber": 2507911,
+              "ore": 1839135,
+              "gold": 5265372
             }
           },
           {
