@@ -17219,6 +17219,251 @@
         ]
       },
       {
+        "title": "Field Triage",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 3190,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 12
+              },
+              {
+                "r": "Gladiator Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Sharpshooter Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Reptilian Rider Subsidy",
+                "l": 3
+              },
+              {
+                "r": "Catapult Subsidy",
+                "l": 3
+              }
+            ],
+            "time": "10:57:00",
+            "seconds": 39420,
+            "resources": {
+              "food": 9703,
+              "stone": 3639,
+              "timber": 6064,
+              "ore": 4852,
+              "gold": 26132
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.5%",
+            "might": 4784,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              }
+            ],
+            "time": "16:26:00",
+            "seconds": 59160,
+            "resources": {
+              "food": 14554,
+              "stone": 5458,
+              "timber": 9096,
+              "ore": 7277,
+              "gold": 39198
+            }
+          },
+          {
+            "level": 3,
+            "value": "4.5%",
+            "might": 6380,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 16
+              }
+            ],
+            "time": "21:54:00",
+            "seconds": 78840,
+            "resources": {
+              "food": 26196,
+              "stone": 9824,
+              "timber": 16373,
+              "ore": 13098,
+              "gold": 70556
+            }
+          },
+          {
+            "level": 4,
+            "value": "7.5%",
+            "might": 9568,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              }
+            ],
+            "time": "1d 08:51:00",
+            "seconds": 118260,
+            "resources": {
+              "food": 43660,
+              "stone": 16373,
+              "timber": 27287,
+              "ore": 21830,
+              "gold": 117593
+            }
+          },
+          {
+            "level": 5,
+            "value": "11.5%",
+            "might": 15948,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "2d 06:45:00",
+            "seconds": 197100,
+            "resources": {
+              "food": 97021,
+              "stone": 36383,
+              "timber": 60638,
+              "ore": 48511,
+              "gold": 261317
+            }
+          },
+          {
+            "level": 6,
+            "value": "16.5%",
+            "might": 47844,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "6d 20:15:00",
+            "seconds": 591300,
+            "resources": {
+              "food": 194041,
+              "stone": 72766,
+              "timber": 121276,
+              "ore": 97021,
+              "gold": 522634
+            }
+          },
+          {
+            "level": 7,
+            "value": "24%",
+            "might": 79740,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "11d 09:44:00",
+            "seconds": 985440,
+            "resources": {
+              "food": 388082,
+              "stone": 145531,
+              "timber": 242551,
+              "ore": 194041,
+              "gold": 1045268
+            }
+          },
+          {
+            "level": 8,
+            "value": "34%",
+            "might": 191376,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Barracks Expansion",
+                "l": 7
+              },
+              {
+                "r": "Training Speed II",
+                "l": 7
+              }
+            ],
+            "time": "27d 08:57:00",
+            "seconds": 2365020,
+            "resources": {
+              "food": 582122,
+              "stone": 218296,
+              "timber": 363827,
+              "ore": 291061,
+              "gold": 1567901
+            }
+          },
+          {
+            "level": 9,
+            "value": "54%",
+            "might": 255168,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Barracks Expansion",
+                "l": 8
+              },
+              {
+                "r": "Training Speed II",
+                "l": 8
+              }
+            ],
+            "time": "36d 11:55:00",
+            "seconds": 3153300,
+            "resources": {
+              "food": 776163,
+              "stone": 291061,
+              "timber": 485102,
+              "ore": 388082,
+              "gold": 2090535
+            }
+          },
+          {
+            "level": 10,
+            "value": "80%",
+            "might": 478439,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Barracks Expansion",
+                "l": 9
+              },
+              {
+                "r": "Training Speed II",
+                "l": 9
+              }
+            ],
+            "time": "68d 10:21:00",
+            "seconds": 5912460,
+            "resources": {
+              "food": 1455305,
+              "stone": 545740,
+              "timber": 909566,
+              "ore": 727653,
+              "gold": 3919753
+            }
+          }
+        ]
+      },
+      {
         "title": "Rally Priority",
         "requirements": [
           {
