@@ -36693,10 +36693,15 @@
           {
             "level": 7,
             "value": "2%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 217172,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              }
+            ],
+            "time": "28d 23:06:00",
+            "seconds": 2502360,
             "resources": {
               "food": 0,
               "stone": 0,
