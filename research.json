@@ -35072,22 +35072,22 @@
           {
             "level": 8,
             "value": "8%",
-            "might": 0,
+            "might": 2803034,
             "requires": [
               {
                 "r": "Academy",
                 "l": 25
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "400d 21:58:00",
+            "seconds": 34639080,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 31688903,
+              "stone": 5281484,
+              "timber": 15844452,
+              "ore": 15844452,
+              "gold": 21793070,
+              "anima": 4358614
             }
           },
           {
@@ -42618,12 +42618,12 @@
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 2599085,
+              "stone": 1299543,
+              "timber": 1039634,
+              "ore": 1559451,
+              "gold": 1496463,
+              "tomes": 51
             }
           },
           {
@@ -42634,12 +42634,12 @@
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 3118902,
+              "stone": 1559451,
+              "timber": 1247561,
+              "ore": 1871342,
+              "gold": 1795755,
+              "tomes": 66
             }
           },
           {
@@ -42692,12 +42692,12 @@
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 7797255,
+              "stone": 3898628,
+              "timber": 3118902,
+              "ore": 4678353,
+              "gold": 4489387,
+              "tomes": 161
             }
           },
           {
