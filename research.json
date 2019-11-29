@@ -41663,45 +41663,7 @@
       },
       {
         "title": "Helmet Sigil",
-        "requirements": [
-          {
-            "level": 1,
-            "value": "Unlock Helmet Sigil",
-            "might": 544024,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              },
-              {
-                "r": "Leadership (Infantry DEF)",
-                "l": 8
-              },
-              {
-                "r": "Leadership (Siege DEF)",
-                "l": 8
-              },
-              {
-                "r": "Leadership (Ranged DEF)",
-                "l": 8
-              },
-              {
-                "r": "Leadership (Cavalry DEF)",
-                "l": 8
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 8137320,
-              "stone": 4068660,
-              "timber": 4068660,
-              "ore": 1356220,
-              "gold": 3904320,
-              "tomes": 96
-            }
-          }
-        ]
+        "requirements": []
       },
       {
         "title": "Furious Defense (Infantry)",
