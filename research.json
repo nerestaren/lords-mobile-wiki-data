@@ -49633,7 +49633,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Ranged Durability (Wonder) II",
+                "l": 2
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49654,7 +49658,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Ranged Durability (Wonder) II",
+                "l": 3
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49675,7 +49683,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Ranged Durability (Wonder) II",
+                "l": 4
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49696,7 +49708,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Ranged Durability (Wonder) II",
+                "l": 5
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49717,7 +49733,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Ranged Durability (Wonder) II",
+                "l": 6
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49738,7 +49758,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Ranged Durability (Wonder) II",
+                "l": 7
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49755,22 +49779,26 @@
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
+            "might": 917096,
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Ranged Durability (Wonder) II",
+                "l": 8
               }
             ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 11291462,
+              "stone": 5645731,
+              "timber": 5645731,
+              "ore": 5645731,
+              "gold": 6501229,
+              "tomes": 241
             }
           },
           {
@@ -49780,7 +49808,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Ranged Durability (Wonder) II",
+                "l": 9
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49801,7 +49833,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Ranged Durability (Wonder) II",
+                "l": 10
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49852,7 +49888,7 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
               }
             ],
             "time": "xd xx:xx:xx",
@@ -49873,7 +49909,7 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49894,7 +49930,7 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49915,7 +49951,7 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49936,7 +49972,7 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49957,7 +49993,7 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49974,22 +50010,26 @@
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
+            "might": 917096,
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Cavalry Durability (Wonder) II",
+                "l": 8
               }
             ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 11291462,
+              "stone": 5645731,
+              "timber": 5645731,
+              "ore": 5645731,
+              "gold": 6501229,
+              "tomes": 241
             }
           },
           {
@@ -50075,21 +50115,33 @@
           {
             "level": 2,
             "value": "15000",
-            "might": 0,
+            "might": 230940,
             "requires": [
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Infantry Offense (Wonder) II",
+                "l": 8
+              },
+              {
+                "r": "Ranged Offense (Wonder) II",
+                "l": 8
+              },
+              {
+                "r": "Cavalry Offense (Wonder) II",
+                "l": 8
               }
             ],
             "time": "xxdxx:xx:xx",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
+              "food": 2432008,
+              "stone": 912003,
+              "timber": 1520005,
+              "ore": 2432008,
+              "gold": 1750331,
               "tomes": 40
             }
           },
