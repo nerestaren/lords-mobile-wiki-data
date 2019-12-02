@@ -25000,11 +25000,11 @@
             "time": "75d 10:52:00",
             "seconds": 6519120,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0
+              "food": 27368713,
+              "stone": 9122905,
+              "timber": 2280727,
+              "ore": 2280727,
+              "gold": 9410996
             }
           },
           {
@@ -37697,17 +37697,26 @@
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 611668,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Familiarity (Infantry HP) I",
+                "l": 8
+              }
+            ],
+            "time": "82d 18:00:00",
+            "seconds": 7149600,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 8007516,
+              "stone": 3336465,
+              "timber": 2001879,
+              "ore": 4003758,
+              "gold": 5449560,
+              "anima": 936177
             }
           },
           {
@@ -37876,17 +37885,26 @@
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 611668,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Familiarity (Cavalry HP) I",
+                "l": 8
+              }
+            ],
+            "time": "82d 18:00:00",
+            "seconds": 7149600,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 8007516,
+              "stone": 2001879,
+              "timber": 3336465,
+              "ore": 4003758,
+              "gold": 5449560,
+              "anima": 936177
             }
           },
           {
@@ -40350,17 +40368,26 @@
           {
             "level": 10,
             "value": "15%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 465515,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Leadership (Siege ATK)",
+                "l": 10
+              }
+            ],
+            "time": "51d 18:30:00",
+            "seconds": 4473000,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 5865253,
+              "stone": 2932627,
+              "timber": 2346102,
+              "ore": 3519152,
+              "gold": 3377008,
+              "tomes": 81
             }
           }
         ]
@@ -41193,17 +41220,26 @@
           {
             "level": 10,
             "value": "15%",
-            "might": 0,
-            "requires": [],
+            "might": 568292,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Leadership (Siege HP)",
+                "l": 10
+              }
+            ],
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 11456286,
+              "stone": 5728143,
+              "timber": 1432036,
+              "ore": 1432036,
+              "gold": 4122581,
+              "tomes": 99
             }
           }
         ]
@@ -41991,17 +42027,17 @@
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
+            "might": 323960,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "35d 04:58:00",
+            "seconds": 3041880,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 6381839,
+              "stone": 3190920,
+              "timber": 797730,
+              "ore": 797730,
+              "gold": 2296525,
+              "tomes": 132
             }
           },
           {
@@ -42932,17 +42968,22 @@
           {
             "level": 3,
             "value": "0.6%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 173279,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "19d 12:01:00",
+            "seconds": 1684860,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 2209233,
+              "stone": 1104612,
+              "timber": 883689,
+              "ore": 1325534,
+              "gold": 1271993,
+              "tomes": 36
             }
           },
           {
@@ -43127,17 +43168,22 @@
           {
             "level": 4,
             "value": "08%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 208348,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "22d 22:36:00",
+            "seconds": 1982160,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 2599085,
+              "stone": 1299543,
+              "timber": 1039634,
+              "ore": 1559451,
+              "gold": 1496463,
+              "tomes": 51
             }
           },
           {
@@ -49012,6 +49058,10 @@
               {
                 "r": "Academy",
                 "l": null
+              },
+              {
+                "r": "Defense (Wonder) II",
+                "l": 5
               }
             ],
             "time": "33d 17:36:00",
@@ -49033,6 +49083,10 @@
               {
                 "r": "Academy",
                 "l": null
+              },
+              {
+                "r": "Defense (Wonder) II",
+                "l": 6
               }
             ],
             "time": "44d 23:28:00",
@@ -49054,6 +49108,10 @@
               {
                 "r": "Academy",
                 "l": null
+              },
+              {
+                "r": "Defense (Wonder) II",
+                "l": 7
               }
             ],
             "time": "59d 00:48:00",
@@ -49070,7 +49128,7 @@
           {
             "level": 8,
             "value": "3%",
-            "might": 77604,
+            "might": 776004,
             "requires": [
               {
                 "r": "Academy",
@@ -49204,7 +49262,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Cavalry Defense (Wonder) II",
+                "l": 3
               }
             ],
             "time": "XXd XX:XX:XX",
@@ -49225,7 +49287,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Cavalry Defense (Wonder) II",
+                "l": 4
               }
             ],
             "time": "XXd XX:XX:XX",
@@ -49246,7 +49312,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Cavalry Defense (Wonder) II",
+                "l": 5
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49267,7 +49337,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Cavalry Defense (Wonder) II",
+                "l": 6
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49288,7 +49362,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Cavalry Defense (Wonder) II",
+                "l": 7
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49305,22 +49383,26 @@
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
+            "might": 776004,
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Cavalry Defense (Wonder) II",
+                "l": 8
               }
             ],
-            "time": "Xd XX:XX:XX",
-            "seconds": 0,
+            "time": "84d 08:00:00",
+            "seconds": 7286400,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
-              "tomes": null
+              "food": 15286903,
+              "stone": 2866295,
+              "timber": 4777157,
+              "ore": 3821726,
+              "gold": 5501040,
+              "tomes": 206
             }
           },
           {
@@ -49330,7 +49412,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Cavalry Defense (Wonder) II",
+                "l": 9
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49351,7 +49437,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Cavalry Defense (Wonder) II",
+                "l": 10
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49478,6 +49568,10 @@
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Infantry Durability (Wonder) II",
+                "l": 5
               }
             ],
             "time": "39d 20:48:00",
@@ -49498,7 +49592,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Infantry Durability (Wonder) II",
+                "l": 6
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49519,7 +49617,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Infantry Durability (Wonder) II",
+                "l": 7
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49536,21 +49638,25 @@
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
+            "might": 917096,
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Infantry Durability (Wonder) II",
+                "l": 8
               }
             ],
             "time": "Xd XX:XX:XX",
             "seconds": 0,
             "resources": {
-              "food": null,
-              "stone": null,
-              "timber": null,
-              "ore": null,
-              "gold": null,
+              "food": 11291462,
+              "stone": 5645731,
+              "timber": 5645731,
+              "ore": 5645731,
+              "gold": 6501229,
               "tomes": 241
             }
           },
@@ -49561,7 +49667,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Infantry Durability (Wonder) II",
+                "l": 9
               }
             ],
             "time": "Xd XX:XX:XX",
@@ -49582,7 +49692,11 @@
             "requires": [
               {
                 "r": "Academy",
-                "l": null
+                "l": 25
+              },
+              {
+                "r": "Infantry Durability (Wonder) II",
+                "l": 10
               }
             ],
             "time": "Xd XX:XX:XX",
