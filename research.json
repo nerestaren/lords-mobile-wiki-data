@@ -2534,8 +2534,8 @@
                 "l": 9
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "12d 20:18:00",
+            "seconds": 1109880,
             "resources": {
               "food": 476553,
               "stone": 595692,
