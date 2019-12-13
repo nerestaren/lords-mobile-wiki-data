@@ -37053,7 +37053,8 @@
               "timber": 148288,
               "ore": 148288,
               "gold": 242203,
-              "anima": 41608
+              "anima": 41608,
+              "tomes": 0
             }
           },
           {
@@ -37069,7 +37070,8 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "anima": 0
+              "anima": 0,
+              "tomes": 0
             }
           },
           {
@@ -37085,7 +37087,8 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "anima": 0
+              "anima": 0,
+              "tomes": 0
             }
           },
           {
@@ -37101,7 +37104,8 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "anima": 0
+              "anima": 0,
+              "tomes": 0
             }
           },
           {
@@ -37117,7 +37121,8 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "anima": 0
+              "anima": 0,
+              "tomes": 0
             }
           },
           {
@@ -37138,7 +37143,8 @@
               "timber": 1186299,
               "ore": 1186299,
               "gold": 1937622,
-              "anima": 332863
+              "anima": 332863,
+              "tomes": 0
             }
           },
           {
@@ -37154,23 +37160,30 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "anima": 0
+              "anima": 0,
+              "tomes": 0
             }
           },
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 458751,
+            "requires": [
+              {
+                "r": "Lv 25\nFamiliarity Inf ATK I",
+                "l": 8
+              }
+            ],
+            "time": "62d 01:30:00",
+            "seconds": 5362200,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 4448620,
+              "stone": 2224310,
+              "timber": 2224310,
+              "ore": 2224310,
+              "gold": 3633040,
+              "anima": 624118,
+              "tomes": 53
             }
           },
           {
@@ -37186,23 +37199,30 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "anima": 0
+              "anima": 0,
+              "tomes": 0
             }
           },
           {
             "level": 10,
             "value": "10%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 821867,
+            "requires": [
+              {
+                "r": "Lv 25\nFamiliarity Inf ATK I",
+                "l": 10
+              }
+            ],
+            "time": "113d 18:45:00",
+            "seconds": 9830700,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 8155803,
+              "stone": 4077902,
+              "timber": 4077902,
+              "ore": 4077902,
+              "gold": 6660573,
+              "anima": 1144217,
+              "tomes": 84
             }
           }
         ]
