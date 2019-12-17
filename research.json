@@ -3701,39 +3701,6 @@
         ]
       },
       {
-        "title": "Burning Spikes",
-        "requirements": [
-          {
-            "level": 1,
-            "value": "Unlocks Burning Spikes",
-            "might": 119922,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              },
-              {
-                "r": "Wall Strength III",
-                "l": 10
-              },
-              {
-                "r": "Trap Power I",
-                "l": 10
-              }
-            ],
-            "time": "22d 1:33:00",
-            "seconds": 1906380,
-            "resources": {
-              "food": 699691,
-              "stone": 1166151,
-              "timber": 1166151,
-              "ore": 855178,
-              "gold": 1888527
-            }
-          }
-        ]
-      },
-      {
         "title": "Skyscraper",
         "requirements": [
           {
@@ -44051,7 +44018,7 @@
           {
             "level": 7,
             "value": "2%",
-            "might": 0,
+            "might": 658976,
             "requires": [],
             "time": "",
             "seconds": 0,
@@ -44061,7 +44028,7 @@
               "timber": 0,
               "ore": 0,
               "gold": 0,
-              "tomes": 0
+              "tomes": 198
             }
           },
           {
