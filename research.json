@@ -22096,7 +22096,7 @@
                 "l": 10
               },
               {
-                "r": "Ration Run",
+                "r": "Ration Run I",
                 "l": 10
               }
             ],
@@ -39030,7 +39030,7 @@
           {
             "level": 7,
             "value": "2%",
-            "might": 0,
+            "might": 73485,
             "requires": [
               {
                 "r": "Academy",
