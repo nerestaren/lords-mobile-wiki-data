@@ -13455,16 +13455,29 @@
           {
             "level": 10,
             "value": "135%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 2276962,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Trap Defense I",
+                "l": 10
+              },
+              {
+                "r": "Trap Strength II",
+                "l": 9
+              }
+            ],
+            "time": "329d 01:25:00",
+            "seconds": 28430700,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0
+              "food": 7022149,
+              "stone": 11703582,
+              "timber": 11703582,
+              "ore": 8585627,
+              "gold": 55286403
             }
           }
         ]
@@ -13707,10 +13720,27 @@
           {
             "level": 10,
             "value": "135%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 2276962,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Trap Power I",
+                "l": 10
+              },
+              {
+                "r": "Trap Defense II",
+                "l": 10
+              },
+              {
+                "r": "Trap Durability II",
+                "l": 10
+              }
+            ],
+            "time": "329d 01:25:00",
+            "seconds": 28430700,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -13956,7 +13986,20 @@
             "level": 10,
             "value": "135%",
             "might": 2276962,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Trap Durability I",
+                "l": 10
+              },
+              {
+                "r": "Trap Strength II",
+                "l": 9
+              }
+            ],
             "time": "329d 01:25:00",
             "seconds": 28430700,
             "resources": {
