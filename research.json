@@ -39517,7 +39517,7 @@
           },
           {
             "level": 7,
-            "value": "35%",
+            "value": "3.5%",
             "might": 163745,
             "requires": [
               {
@@ -39539,27 +39539,56 @@
           {
             "level": 8,
             "value": "5%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 230596,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Weight Training III",
+                "l": 8
+              },
+              {
+                "r": "Leadership (Siege HP)",
+                "l": 7
+              },
+              {
+                "r": "Leadership (Siege DEF)",
+                "l": 7
+              }
+            ],
+            "time": "25d 01:27:00",
+            "seconds": 2165220,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
+              "food": 2839143,
+              "stone": 1135657,
+              "timber": 851743,
+              "ore": 2271314,
+              "gold": 1634679,
               "tomes": 46
             }
           },
           {
             "level": 9,
-            "value": "75%",
+            "value": "7.5%",
             "might": 316976,
             "requires": [
               {
                 "r": "Academy",
                 "l": 25
+              },
+              {
+                "r": "Weight Training III",
+                "l": 9
+              },
+              {
+                "r": "Leadership (Siege HP)",
+                "l": 8
+              },
+              {
+                "r": "Leadership (Siege DEF)",
+                "l": 8
               }
             ],
             "time": "35d 02:02:00",
@@ -39576,17 +39605,34 @@
           {
             "level": 10,
             "value": "15%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 413119,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Weight Training III",
+                "l": 10
+              },
+              {
+                "r": "Leadership (Siege HP)",
+                "l": 9
+              },
+              {
+                "r": "Leadership (Siege DEF)",
+                "l": 9
+              }
+            ],
+            "time": "45d 22:39:00",
+            "seconds": 3969540,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 5205095,
+              "stone": 2082038,
+              "timber": 1561529,
+              "ore": 4164076,
+              "gold": 2996912,
+              "tomes": 72
             }
           }
         ]
@@ -39767,8 +39813,8 @@
                 "l": 7
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "25d 01:27:00",
+            "seconds": 2165220,
             "resources": {
               "food": 2839143,
               "stone": 1135657,
@@ -39833,8 +39879,8 @@
                 "l": 9
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "45d 22:39:00",
+            "seconds": 3969540,
             "resources": {
               "food": 5205095,
               "stone": 2082038,
@@ -40022,8 +40068,8 @@
                 "l": 7
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "25d 01:27:00",
+            "seconds": 2165220,
             "resources": {
               "food": 2839143,
               "stone": 1135657,
@@ -40036,26 +40082,60 @@
           {
             "level": 9,
             "value": "75%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 316976,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Ration Run II",
+                "l": 9
+              },
+              {
+                "r": "Leadership (Cavalry DEF)",
+                "l": 8
+              },
+              {
+                "r": "Leadership (Cavalry HP)",
+                "l": 8
+              }
+            ],
+            "time": "35d 02:02:00",
+            "seconds": 3031320,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 3974800,
+              "stone": 1589920,
+              "timber": 1192440,
+              "ore": 3179840,
+              "gold": 2288551,
+              "tomes": 57
             }
           },
           {
             "level": 10,
             "value": "15%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 413119,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Ration Run II",
+                "l": 10
+              },
+              {
+                "r": "Leadership (Cavalry DEF)",
+                "l": 9
+              },
+              {
+                "r": "Leadership (Cavalry HP)",
+                "l": 9
+              }
+            ],
+            "time": "45d 22:39:00",
+            "seconds": 3969540,
             "resources": {
               "food": 5205095,
               "stone": 2082038,
