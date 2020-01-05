@@ -32514,17 +32514,26 @@
           {
             "level": 8,
             "value": "3%",
-            "might": 0,
-            "requires": [],
-            "time": "",
-            "seconds": 0,
+            "might": 305834,
+            "requires": [
+              {
+                "r": "Lv 25\nPact Merging Speed III",
+                "l": 8
+              },
+              {
+                "r": "Gym Training III",
+                "l": 8
+              }
+            ],
+            "time": "41d 09:00:00",
+            "seconds": 3574800,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "anima": 0
+              "food": 4003758,
+              "stone": 1000940,
+              "timber": 1668233,
+              "ore": 2001879,
+              "gold": 2724780,
+              "anima": 468089
             }
           },
           {
