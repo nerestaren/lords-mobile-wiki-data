@@ -8063,8 +8063,4051 @@
     ]
   },
   {
-    "title": "Monster Hunt (Research)",
-    "researches": []
+    "title": "Monster Hunt",
+    "researches": [
+      {
+        "title": "Monster Hunt I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Hunt Level 1 monsters",
+            "might": 474,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 1
+              }
+            ],
+            "time": "00:11:00",
+            "seconds": 660,
+            "resources": {
+              "food": 352,
+              "stone": 547,
+              "timber": 625,
+              "ore": 430,
+              "gold": 758
+            }
+          }
+        ]
+      },
+      {
+        "title": "Energy Recovery I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 40,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 1
+              },
+              {
+                "r": "Monster Hunt I",
+                "l": 1
+              }
+            ],
+            "time": "00:09:00",
+            "seconds": 540,
+            "resources": {
+              "food": 269,
+              "stone": 418,
+              "timber": 478,
+              "ore": 329,
+              "gold": 113
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.3%",
+            "might": 66,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 2
+              }
+            ],
+            "time": "00:14:00",
+            "seconds": 840,
+            "resources": {
+              "food": 869,
+              "stone": 1294,
+              "timber": 1593,
+              "ore": 1095,
+              "gold": 748
+            }
+          },
+          {
+            "level": 3,
+            "value": "3.9%",
+            "might": 119,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 4
+              }
+            ],
+            "time": "00:25:00",
+            "seconds": 1500,
+            "resources": {
+              "food": 2687,
+              "stone": 4180,
+              "timber": 4777,
+              "ore": 3285,
+              "gold": 2242
+            }
+          },
+          {
+            "level": 4,
+            "value": "5.8%",
+            "might": 357,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 6
+              }
+            ],
+            "time": "01:15:00",
+            "seconds": 4500,
+            "resources": {
+              "food": 8957,
+              "stone": 13933,
+              "timber": 15923,
+              "ore": 10948,
+              "gold": 14945
+            }
+          },
+          {
+            "level": 5,
+            "value": "8%",
+            "might": 1070,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "03:44:00",
+            "seconds": 13440,
+            "resources": {
+              "food": 22392,
+              "stone": 34832,
+              "timber": 39808,
+              "ore": 27368,
+              "gold": 37361
+            }
+          },
+          {
+            "level": 6,
+            "value": "10.5%",
+            "might": 3210,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "11:11:00",
+            "seconds": 40260,
+            "resources": {
+              "food": 44784,
+              "stone": 69663,
+              "timber": 79615,
+              "ore": 54736,
+              "gold": 74722
+            }
+          },
+          {
+            "level": 7,
+            "value": "13.3%",
+            "might": 9629,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              }
+            ],
+            "time": "1d 09:31:00",
+            "seconds": 120660,
+            "resources": {
+              "food": 223916,
+              "stone": 348314,
+              "timber": 398073,
+              "ore": 273676,
+              "gold": 186805
+            }
+          },
+          {
+            "level": 8,
+            "value": "16.4%",
+            "might": 28889,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 7
+              }
+            ],
+            "time": "4d 04:31:00",
+            "seconds": 361860,
+            "resources": {
+              "food": 447832,
+              "stone": 696682,
+              "timber": 796146,
+              "ore": 547351,
+              "gold": 373609
+            }
+          },
+          {
+            "level": 9,
+            "value": "19.8%",
+            "might": 86668,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 8
+              }
+            ],
+            "time": "12d 13:33:00",
+            "seconds": 1085580,
+            "resources": {
+              "food": 895664,
+              "stone": 1393256,
+              "timber": 1592292,
+              "ore": 1094701,
+              "gold": 1494433
+            }
+          },
+          {
+            "level": 10,
+            "value": "23.5%",
+            "might": 216668,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 9
+              }
+            ],
+            "time": "31d 09:53:00",
+            "seconds": 2713980,
+            "resources": {
+              "food": 1791328,
+              "stone": 2786511,
+              "timber": 3184583,
+              "ore": 2189401,
+              "gold": 3362473
+            }
+          }
+        ]
+      },
+      {
+        "title": "Energy Limit I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "250",
+            "might": 60,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 1
+              },
+              {
+                "r": "Monster Hunt",
+                "l": 1
+              }
+            ],
+            "time": "00:13:00",
+            "seconds": 780,
+            "resources": {
+              "food": 404,
+              "stone": 627,
+              "timber": 717,
+              "ore": 493,
+              "gold": 169
+            }
+          },
+          {
+            "level": 2,
+            "value": "650",
+            "might": 99,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 2
+              }
+            ],
+            "time": "00:21:00",
+            "seconds": 1260,
+            "resources": {
+              "food": 1344,
+              "stone": 2090,
+              "timber": 2389,
+              "ore": 1643,
+              "gold": 1121
+            }
+          },
+          {
+            "level": 3,
+            "value": "1200",
+            "might": 178,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 4
+              }
+            ],
+            "time": "00:38:00",
+            "seconds": 2280,
+            "resources": {
+              "food": 4031,
+              "stone": 6270,
+              "timber": 7166,
+              "ore": 4927,
+              "gold": 3363
+            }
+          },
+          {
+            "level": 4,
+            "value": "1900",
+            "might": 535,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 6
+              }
+            ],
+            "time": "01:52:00",
+            "seconds": 6720,
+            "resources": {
+              "food": 13435,
+              "stone": 20899,
+              "timber": 23885,
+              "ore": 16421,
+              "gold": 22417
+            }
+          },
+          {
+            "level": 5,
+            "value": "2750",
+            "might": 1605,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "05:36:00",
+            "seconds": 20160,
+            "resources": {
+              "food": 33588,
+              "stone": 52248,
+              "timber": 59711,
+              "ore": 41052,
+              "gold": 56042
+            }
+          },
+          {
+            "level": 6,
+            "value": "3750",
+            "might": 4815,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "16:46:00",
+            "seconds": 60360,
+            "resources": {
+              "food": 67175,
+              "stone": 104495,
+              "timber": 119422,
+              "ore": 82103,
+              "gold": 112083
+            }
+          },
+          {
+            "level": 7,
+            "value": "4900",
+            "might": 14445,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              }
+            ],
+            "time": "2d 02:16:00",
+            "seconds": 180960,
+            "resources": {
+              "food": 335874,
+              "stone": 522471,
+              "timber": 597110,
+              "ore": 410513,
+              "gold": 280207
+            }
+          },
+          {
+            "level": 8,
+            "value": "6200",
+            "might": 43333,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              },
+              {
+                "r": "Animal Handling",
+                "l": 7
+              }
+            ],
+            "time": "6d 06:47:00",
+            "seconds": 542820,
+            "resources": {
+              "food": 671748,
+              "stone": 1044942,
+              "timber": 1194219,
+              "ore": 821026,
+              "gold": 560413
+            }
+          },
+          {
+            "level": 9,
+            "value": "7650",
+            "might": 130001,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              },
+              {
+                "r": "Animal Handling",
+                "l": 8
+              }
+            ],
+            "time": "18d 20:20:00",
+            "seconds": 1628400,
+            "resources": {
+              "food": 1343496,
+              "stone": 2089883,
+              "timber": 2388438,
+              "ore": 1642051,
+              "gold": 2241649
+            }
+          },
+          {
+            "level": 10,
+            "value": "9250",
+            "might": 325002,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Animal Handling",
+                "l": 9
+              }
+            ],
+            "time": "47d 02:49:00",
+            "seconds": 4070940,
+            "resources": {
+              "food": 2688992,
+              "stone": 4179766,
+              "timber": 4776875,
+              "ore": 3284102,
+              "gold": 5043710
+            }
+          }
+        ]
+      },
+      {
+        "title": "Energy Saver I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.25%",
+            "might": 60,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 1
+              },
+              {
+                "r": "Monster Hunt I",
+                "l": 1
+              }
+            ],
+            "time": "00:13:00",
+            "seconds": 780,
+            "resources": {
+              "food": 560,
+              "stone": 672,
+              "timber": 560,
+              "ore": 448,
+              "gold": 169
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.8%",
+            "might": 99,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 2
+              }
+            ],
+            "time": "00:21:00",
+            "seconds": 1260,
+            "resources": {
+              "food": 1866,
+              "stone": 2240,
+              "timber": 1866,
+              "ore": 1493,
+              "gold": 1121
+            }
+          },
+          {
+            "level": 3,
+            "value": "1.65%",
+            "might": 178,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 4
+              }
+            ],
+            "time": "00:38:00",
+            "seconds": 2280,
+            "resources": {
+              "food": 5598,
+              "stone": 6718,
+              "timber": 5598,
+              "ore": 4479,
+              "gold": 3363
+            }
+          },
+          {
+            "level": 4,
+            "value": "2.8%",
+            "might": 535,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 6
+              }
+            ],
+            "time": "01:52:00",
+            "seconds": 6720,
+            "resources": {
+              "food": 18660,
+              "stone": 22392,
+              "timber": 18660,
+              "ore": 14928,
+              "gold": 22417
+            }
+          },
+          {
+            "level": 5,
+            "value": "4.25%",
+            "might": 1605,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "05:36:00",
+            "seconds": 20160,
+            "resources": {
+              "food": 46650,
+              "stone": 55979,
+              "timber": 46650,
+              "ore": 37320,
+              "gold": 56042
+            }
+          },
+          {
+            "level": 6,
+            "value": "6%",
+            "might": 4815,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "16:46:00",
+            "seconds": 60360,
+            "resources": {
+              "food": 93299,
+              "stone": 111958,
+              "timber": 93299,
+              "ore": 74639,
+              "gold": 112083
+            }
+          },
+          {
+            "level": 7,
+            "value": "8.05%",
+            "might": 14445,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              }
+            ],
+            "time": "2d 02:16:00",
+            "seconds": 180960,
+            "resources": {
+              "food": 466492,
+              "stone": 559790,
+              "timber": 466492,
+              "ore": 373194,
+              "gold": 280207
+            }
+          },
+          {
+            "level": 8,
+            "value": "10.4%",
+            "might": 43333,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 7
+              }
+            ],
+            "time": "6d 06:47:00",
+            "seconds": 542820,
+            "resources": {
+              "food": 932984,
+              "stone": 1119580,
+              "timber": 932984,
+              "ore": 746387,
+              "gold": 560413
+            }
+          },
+          {
+            "level": 9,
+            "value": "13.05%",
+            "might": 130001,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 8
+              }
+            ],
+            "time": "18d 20:20:00",
+            "seconds": 1628400,
+            "resources": {
+              "food": 1865967,
+              "stone": 2239160,
+              "timber": 1865967,
+              "ore": 1492774,
+              "gold": 2241649
+            }
+          },
+          {
+            "level": 10,
+            "value": "16%",
+            "might": 325002,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 9
+              }
+            ],
+            "time": "47d 02:49:00",
+            "seconds": 4070940,
+            "resources": {
+              "food": 3731934,
+              "stone": 4478320,
+              "timber": 3731934,
+              "ore": 2985547,
+              "gold": 5043710
+            }
+          }
+        ]
+      },
+      {
+        "title": "Monster Hunt II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Hunt Level 2 monsters",
+            "might": 3156,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              },
+              {
+                "r": "Energy Recovery I",
+                "l": 1
+              },
+              {
+                "r": "Energy Limit I",
+                "l": 1
+              },
+              {
+                "r": "Energy Saver I",
+                "l": 1
+              }
+            ],
+            "time": "08:26:00",
+            "seconds": 30360,
+            "resources": {
+              "food": 105359,
+              "stone": 163891,
+              "timber": 187304,
+              "ore": 128772,
+              "gold": 50504
+            }
+          }
+        ]
+      },
+      {
+        "title": "Aggressive Hunter I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1",
+            "might": 80,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              },
+              {
+                "r": "Monster Hunt II",
+                "l": 1
+              }
+            ],
+            "time": "00:17:00",
+            "seconds": 1020,
+            "resources": {
+              "food": 538,
+              "stone": 1045,
+              "timber": 747,
+              "ore": 657,
+              "gold": 225
+            }
+          },
+          {
+            "level": 2,
+            "value": "2",
+            "might": 132,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              }
+            ],
+            "time": "00:28:00",
+            "seconds": 1680,
+            "resources": {
+              "food": 1792,
+              "stone": 3484,
+              "timber": 2488,
+              "ore": 2190,
+              "gold": 1495
+            }
+          },
+          {
+            "level": 3,
+            "value": "3",
+            "might": 238,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              }
+            ],
+            "time": "00:50:00",
+            "seconds": 3000,
+            "resources": {
+              "food": 5374,
+              "stone": 10450,
+              "timber": 7464,
+              "ore": 6569,
+              "gold": 4484
+            }
+          },
+          {
+            "level": 4,
+            "value": "4",
+            "might": 713,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "02:29:00",
+            "seconds": 8940,
+            "resources": {
+              "food": 17914,
+              "stone": 34832,
+              "timber": 24880,
+              "ore": 21895,
+              "gold": 29889
+            }
+          },
+          {
+            "level": 5,
+            "value": "5",
+            "might": 2140,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 10
+              }
+            ],
+            "time": "07:27:00",
+            "seconds": 26820,
+            "resources": {
+              "food": 44748,
+              "stone": 87079,
+              "timber": 62199,
+              "ore": 54736,
+              "gold": 74722
+            }
+          },
+          {
+            "level": 6,
+            "value": "6",
+            "might": 6420,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 12
+              }
+            ],
+            "time": "22:21:00",
+            "seconds": 80460,
+            "resources": {
+              "food": 89567,
+              "stone": 174157,
+              "timber": 124398,
+              "ore": 109471,
+              "gold": 149444
+            }
+          },
+          {
+            "level": 7,
+            "value": "7",
+            "might": 19259,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 15
+              }
+            ],
+            "time": "2d 19:01:00",
+            "seconds": 241260,
+            "resources": {
+              "food": 447832,
+              "stone": 870785,
+              "timber": 621989,
+              "ore": 547351,
+              "gold": 373609
+            }
+          },
+          {
+            "level": 8,
+            "value": "8",
+            "might": 57778,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              },
+              {
+                "r": "Energy Recovery I",
+                "l": 8
+              }
+            ],
+            "time": "8d 09:02:00",
+            "seconds": 723720,
+            "resources": {
+              "food": 895664,
+              "stone": 1741569,
+              "timber": 1243978,
+              "ore": 1094701,
+              "gold": 747217
+            }
+          },
+          {
+            "level": 9,
+            "value": "9",
+            "might": 173335,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              },
+              {
+                "r": "Energy Recovery I",
+                "l": 9
+              }
+            ],
+            "time": "25d 03:06:00",
+            "seconds": 2171160,
+            "resources": {
+              "food": 1791328,
+              "stone": 3483138,
+              "timber": 2487956,
+              "ore": 2189401,
+              "gold": 2988865
+            }
+          },
+          {
+            "level": 10,
+            "value": "10",
+            "might": 433336,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Energy Recovery I",
+                "l": 10
+              }
+            ],
+            "time": "62d 19:45:00",
+            "seconds": 5427900,
+            "resources": {
+              "food": 3582656,
+              "stone": 6966276,
+              "timber": 4975911,
+              "ore": 4378802,
+              "gold": 6724946
+            }
+          }
+        ]
+      },
+      {
+        "title": "Animal Handling",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 80,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              },
+              {
+                "r": "Monster Hunt II",
+                "l": 1
+              }
+            ],
+            "time": "00:17:00",
+            "seconds": 1020,
+            "resources": {
+              "food": 538,
+              "stone": 836,
+              "timber": 956,
+              "ore": 657,
+              "gold": 225
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.4%",
+            "might": 132,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              }
+            ],
+            "time": "00:28:00",
+            "seconds": 1680,
+            "resources": {
+              "food": 1792,
+              "stone": 2787,
+              "timber": 3185,
+              "ore": 2190,
+              "gold": 1495
+            }
+          },
+          {
+            "level": 3,
+            "value": "4.2%",
+            "might": 238,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              }
+            ],
+            "time": "00:50:00",
+            "seconds": 3000,
+            "resources": {
+              "food": 5374,
+              "stone": 8360,
+              "timber": 9554,
+              "ore": 6569,
+              "gold": 4484
+            }
+          },
+          {
+            "level": 4,
+            "value": "6.4%",
+            "might": 713,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "02:29:00",
+            "seconds": 8940,
+            "resources": {
+              "food": 17914,
+              "stone": 27866,
+              "timber": 31846,
+              "ore": 21895,
+              "gold": 29889
+            }
+          },
+          {
+            "level": 5,
+            "value": "9%",
+            "might": 2140,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 10
+              }
+            ],
+            "time": "07:27:00",
+            "seconds": 26820,
+            "resources": {
+              "food": 44784,
+              "stone": 69663,
+              "timber": 79615,
+              "ore": 54736,
+              "gold": 74722
+            }
+          },
+          {
+            "level": 6,
+            "value": "12%",
+            "might": 6420,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 12
+              }
+            ],
+            "time": "22:21:00",
+            "seconds": 80460,
+            "resources": {
+              "food": 89567,
+              "stone": 139326,
+              "timber": 159230,
+              "ore": 109471,
+              "gold": 149444
+            }
+          },
+          {
+            "level": 7,
+            "value": "15.4%",
+            "might": 19259,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 15
+              }
+            ],
+            "time": "2d 19:01:00",
+            "seconds": 241260,
+            "resources": {
+              "food": 447832,
+              "stone": 696628,
+              "timber": 796146,
+              "ore": 547351,
+              "gold": 373609
+            }
+          },
+          {
+            "level": 8,
+            "value": "19.2%",
+            "might": 57778,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              },
+              {
+                "r": "Energy Limit I",
+                "l": 8
+              }
+            ],
+            "time": "8d 09:02:00",
+            "seconds": 723720,
+            "resources": {
+              "food": 895664,
+              "stone": 1393256,
+              "timber": 1592292,
+              "ore": 1094701,
+              "gold": 747217
+            }
+          },
+          {
+            "level": 9,
+            "value": "23.4%",
+            "might": 173335,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              },
+              {
+                "r": "Energy Limit I",
+                "l": 9
+              }
+            ],
+            "time": "25d 03:06:00",
+            "seconds": 2171160,
+            "resources": {
+              "food": 1791328,
+              "stone": 2786511,
+              "timber": 3184583,
+              "ore": 2189401,
+              "gold": 2988865
+            }
+          },
+          {
+            "level": 10,
+            "value": "28%",
+            "might": 433336,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Energy Limit I",
+                "l": 10
+              }
+            ],
+            "time": "62d 19:45:00",
+            "seconds": 5427900,
+            "resources": {
+              "food": 3582656,
+              "stone": 5573021,
+              "timber": 6369166,
+              "ore": 4378802,
+              "gold": 6724946
+            }
+          }
+        ]
+      },
+      {
+        "title": "Monster Hunter I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 80,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              },
+              {
+                "r": "Monster Hunt II",
+                "l": 1
+              }
+            ],
+            "time": "00:17:00",
+            "seconds": 1020,
+            "resources": {
+              "food": 747,
+              "stone": 896,
+              "timber": 747,
+              "ore": 598,
+              "gold": 225
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.2%",
+            "might": 132,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              }
+            ],
+            "time": "00:28:00",
+            "seconds": 1680,
+            "resources": {
+              "food": 2488,
+              "stone": 2986,
+              "timber": 2488,
+              "ore": 1991,
+              "gold": 1495
+            }
+          },
+          {
+            "level": 3,
+            "value": "3.6%",
+            "might": 238,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 7
+              }
+            ],
+            "time": "00:50:00",
+            "seconds": 3000,
+            "resources": {
+              "food": 7464,
+              "stone": 8957,
+              "timber": 7464,
+              "ore": 5972,
+              "gold": 4484
+            }
+          },
+          {
+            "level": 4,
+            "value": "5.2%",
+            "might": 713,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "02:29:00",
+            "seconds": 8940,
+            "resources": {
+              "food": 24880,
+              "stone": 29856,
+              "timber": 24880,
+              "ore": 19904,
+              "gold": 29889
+            }
+          },
+          {
+            "level": 5,
+            "value": "7%",
+            "might": 2140,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 10
+              }
+            ],
+            "time": "07:27:00",
+            "seconds": 26820,
+            "resources": {
+              "food": 62199,
+              "stone": 74639,
+              "timber": 62199,
+              "ore": 49760,
+              "gold": 74722
+            }
+          },
+          {
+            "level": 6,
+            "value": "9%",
+            "might": 6420,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 12
+              }
+            ],
+            "time": "22:21:00",
+            "seconds": 80460,
+            "resources": {
+              "food": 124398,
+              "stone": 149278,
+              "timber": 124398,
+              "ore": 99519,
+              "gold": 149444
+            }
+          },
+          {
+            "level": 7,
+            "value": "11.2%",
+            "might": 19259,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 15
+              }
+            ],
+            "time": "2d 19:01:00",
+            "seconds": 241260,
+            "resources": {
+              "food": 621989,
+              "stone": 746387,
+              "timber": 621989,
+              "ore": 497592,
+              "gold": 373609
+            }
+          },
+          {
+            "level": 8,
+            "value": "13.6%",
+            "might": 57778,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              },
+              {
+                "r": "Energy Saver I",
+                "l": 8
+              }
+            ],
+            "time": "8d 09:02:00",
+            "seconds": 723720,
+            "resources": {
+              "food": 1243978,
+              "stone": 1492774,
+              "timber": 1243978,
+              "ore": 995183,
+              "gold": 747217
+            }
+          },
+          {
+            "level": 9,
+            "value": "16.2%",
+            "might": 173335,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              },
+              {
+                "r": "Energy Saver I",
+                "l": 9
+              }
+            ],
+            "time": "25d 03:06:00",
+            "seconds": 2171160,
+            "resources": {
+              "food": 2487956,
+              "stone": 2985547,
+              "timber": 2487956,
+              "ore": 1990956,
+              "gold": 2988865
+            }
+          },
+          {
+            "level": 10,
+            "value": "19%",
+            "might": 433336,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Energy Saver I",
+                "l": 10
+              }
+            ],
+            "time": "62d 19:45:00",
+            "seconds": 5427900,
+            "resources": {
+              "food": 4975911,
+              "stone": 5971094,
+              "timber": 4975911,
+              "ore": 3980729,
+              "gold": 6724946
+            }
+          }
+        ]
+      },
+      {
+        "title": "Survival Tactics I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 119,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 1
+              }
+            ],
+            "time": "00:17:00",
+            "seconds": 1020,
+            "resources": {
+              "food": 1120,
+              "stone": 896,
+              "timber": 1120,
+              "ore": 1344,
+              "gold": 337
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.25%",
+            "might": 199,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "00:28:00",
+            "seconds": 1680,
+            "resources": {
+              "food": 3732,
+              "stone": 2986,
+              "timber": 3732,
+              "ore": 4479,
+              "gold": 2242
+            }
+          },
+          {
+            "level": 3,
+            "value": "3.75%",
+            "might": 356,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "00:50:00",
+            "seconds": 3000,
+            "resources": {
+              "food": 11196,
+              "stone": 8957,
+              "timber": 11196,
+              "ore": 13435,
+              "gold": 6725
+            }
+          },
+          {
+            "level": 4,
+            "value": "5.5%",
+            "might": 1070,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 9
+              }
+            ],
+            "time": "02:29:00",
+            "seconds": 8940,
+            "resources": {
+              "food": 37320,
+              "stone": 29856,
+              "timber": 37320,
+              "ore": 44784,
+              "gold": 44833
+            }
+          },
+          {
+            "level": 5,
+            "value": "7.5%",
+            "might": 3210,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "07:27:00",
+            "seconds": 26820,
+            "resources": {
+              "food": 93299,
+              "stone": 74639,
+              "timber": 93299,
+              "ore": 111958,
+              "gold": 112083
+            }
+          },
+          {
+            "level": 6,
+            "value": "9.75%",
+            "might": 9630,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              }
+            ],
+            "time": "22:21:00",
+            "seconds": 80460,
+            "resources": {
+              "food": 186597,
+              "stone": 149278,
+              "timber": 186597,
+              "ore": 223916,
+              "gold": 224165
+            }
+          },
+          {
+            "level": 7,
+            "value": "12.25%",
+            "might": 28889,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 16
+              }
+            ],
+            "time": "2d 19:01:00",
+            "seconds": 241260,
+            "resources": {
+              "food": 932984,
+              "stone": 746387,
+              "timber": 932984,
+              "ore": 1119580,
+              "gold": 560413
+            }
+          },
+          {
+            "level": 8,
+            "value": "15%",
+            "might": 86667,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 8
+              }
+            ],
+            "time": "8d 09:02:00",
+            "seconds": 723720,
+            "resources": {
+              "food": 1865967,
+              "stone": 1492774,
+              "timber": 1865967,
+              "ore": 2239160,
+              "gold": 1120825
+            }
+          },
+          {
+            "level": 9,
+            "value": "18%",
+            "might": 260002,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 9
+              }
+            ],
+            "time": "25d 03:06:00",
+            "seconds": 2171160,
+            "resources": {
+              "food": 3731934,
+              "stone": 2985547,
+              "timber": 3731934,
+              "ore": 4478320,
+              "gold": 4483298
+            }
+          },
+          {
+            "level": 10,
+            "value": "21.25%",
+            "might": 650004,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 10
+              }
+            ],
+            "time": "62d 19:45:00",
+            "seconds": 5427900,
+            "resources": {
+              "food": 7463867,
+              "stone": 5971094,
+              "timber": 7463867,
+              "ore": 8956640,
+              "gold": 10087419
+            }
+          }
+        ]
+      },
+      {
+        "title": "Hunter Recovery I",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 119,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 1
+              }
+            ],
+            "time": "00:17:00",
+            "seconds": 1020,
+            "resources": {
+              "food": 1120,
+              "stone": 896,
+              "timber": 1120,
+              "ore": 1344,
+              "gold": 337
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.2%",
+            "might": 199,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "00:28:00",
+            "seconds": 1680,
+            "resources": {
+              "food": 3732,
+              "stone": 2986,
+              "timber": 3732,
+              "ore": 4479,
+              "gold": 2242
+            }
+          },
+          {
+            "level": 3,
+            "value": "3.6%",
+            "might": 356,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 8
+              }
+            ],
+            "time": "00:50:00",
+            "seconds": 3000,
+            "resources": {
+              "food": 11196,
+              "stone": 8975,
+              "timber": 11196,
+              "ore": 13435,
+              "gold": 6725
+            }
+          },
+          {
+            "level": 4,
+            "value": "5.2%",
+            "might": 1070,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 9
+              }
+            ],
+            "time": "02:29:00",
+            "seconds": 8940,
+            "resources": {
+              "food": 37320,
+              "stone": 29856,
+              "timber": 37320,
+              "ore": 44784,
+              "gold": 44833
+            }
+          },
+          {
+            "level": 5,
+            "value": "7%",
+            "might": 3210,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 11
+              }
+            ],
+            "time": "07:27:00",
+            "seconds": 26820,
+            "resources": {
+              "food": 93299,
+              "stone": 74639,
+              "timber": 93299,
+              "ore": 111958,
+              "gold": 112083
+            }
+          },
+          {
+            "level": 6,
+            "value": "9%",
+            "might": 9630,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              }
+            ],
+            "time": "22:21:00",
+            "seconds": 80460,
+            "resources": {
+              "food": 186597,
+              "stone": 149278,
+              "timber": 186597,
+              "ore": 223916,
+              "gold": 224165
+            }
+          },
+          {
+            "level": 7,
+            "value": "11.2%",
+            "might": 28889,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 16
+              }
+            ],
+            "time": "2d 19:01:00",
+            "seconds": 241260,
+            "resources": {
+              "food": 932984,
+              "stone": 746387,
+              "timber": 932984,
+              "ore": 1119580,
+              "gold": 560413
+            }
+          },
+          {
+            "level": 8,
+            "value": "13.6%",
+            "might": 86667,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 8
+              }
+            ],
+            "time": "8d 09:02:00",
+            "seconds": 723720,
+            "resources": {
+              "food": 1865967,
+              "stone": 1492774,
+              "timber": 1865967,
+              "ore": 2239160,
+              "gold": 1120825
+            }
+          },
+          {
+            "level": 9,
+            "value": "16.2%",
+            "might": 260002,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 9
+              }
+            ],
+            "time": "25d 03:06:00",
+            "seconds": 2171160,
+            "resources": {
+              "food": 3731934,
+              "stone": 2985547,
+              "timber": 3731934,
+              "ore": 4478320,
+              "gold": 4483298
+            }
+          },
+          {
+            "level": 10,
+            "value": "19%",
+            "might": 650004,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 10
+              }
+            ],
+            "time": "62d 19:45:00",
+            "seconds": 5427900,
+            "resources": {
+              "food": 74638667,
+              "stone": 5971094,
+              "timber": 7463867,
+              "ore": 8956640,
+              "gold": 10087419
+            }
+          }
+        ]
+      },
+      {
+        "title": "Monster Hunt III",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Hunt Level 3 monsters",
+            "might": 63108,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Survival Tactics I",
+                "l": 1
+              },
+              {
+                "r": "Animal Handling",
+                "l": 1
+              },
+              {
+                "r": "Hunter Recovery I",
+                "l": 1
+              }
+            ],
+            "time": "7d 00:21:00",
+            "seconds": 606060,
+            "resources": {
+              "food": 702389,
+              "stone": 1092604,
+              "timber": 1248690,
+              "ore": 858475,
+              "gold": 1010063
+            }
+          }
+        ]
+      },
+      {
+        "title": "Aggressive Hunter II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1",
+            "might": 139,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Monster Hunt III",
+                "l": 1
+              }
+            ],
+            "time": "00:25:00",
+            "seconds": 1500,
+            "resources": {
+              "food": 941,
+              "stone": 1829,
+              "timber": 1307,
+              "ore": 1150,
+              "gold": 393
+            }
+          },
+          {
+            "level": 2,
+            "value": "2",
+            "might": 231,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 2
+              }
+            ],
+            "time": "00:42:00",
+            "seconds": 2520,
+            "resources": {
+              "food": 3135,
+              "stone": 6096,
+              "timber": 4354,
+              "ore": 3832,
+              "gold": 2616
+            }
+          },
+          {
+            "level": 3,
+            "value": "3",
+            "might": 416,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 3
+              }
+            ],
+            "time": "01:15:00",
+            "seconds": 4500,
+            "resources": {
+              "food": 9405,
+              "stone": 18287,
+              "timber": 13062,
+              "ore": 11495,
+              "gold": 7846
+            }
+          },
+          {
+            "level": 4,
+            "value": "4",
+            "might": 1249,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 4
+              }
+            ],
+            "time": "03:44:00",
+            "seconds": 13440,
+            "resources": {
+              "food": 31349,
+              "stone": 60995,
+              "timber": 43540,
+              "ore": 38315,
+              "gold": 52306
+            }
+          },
+          {
+            "level": 5,
+            "value": "5",
+            "might": 3745,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 15
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 5
+              }
+            ],
+            "time": "11:11:00",
+            "seconds": 40260,
+            "resources": {
+              "food": 78371,
+              "stone": 152388,
+              "timber": 108849,
+              "ore": 95787,
+              "gold": 130763
+            }
+          },
+          {
+            "level": 6,
+            "value": "6",
+            "might": 11234,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 16
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 6
+              }
+            ],
+            "time": "1d 09:31:00",
+            "seconds": 120660,
+            "resources": {
+              "food": 156742,
+              "stone": 304775,
+              "timber": 217697,
+              "ore": 191573,
+              "gold": 261526
+            }
+          },
+          {
+            "level": 7,
+            "value": "7",
+            "might": 33704,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              },
+              {
+                "r": "Aggressive Hunter I",
+                "l": 7
+              }
+            ],
+            "time": "4d 04:31:00",
+            "seconds": 361860,
+            "resources": {
+              "food": 783706,
+              "stone": 1523873,
+              "timber": 1088481,
+              "ore": 957863,
+              "gold": 653815
+            }
+          },
+          {
+            "level": 8,
+            "value": "8",
+            "might": 101112,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              },
+              {
+                "r": "Survival Tactics I",
+                "l": 8
+              },
+              {
+                "r": "Animal Handling",
+                "l": 8
+              }
+            ],
+            "time": "12d 13:33:00",
+            "seconds": 1085580,
+            "resources": {
+              "food": 1567412,
+              "stone": 3047746,
+              "timber": 2176962,
+              "ore": 1915726,
+              "gold": 1307629
+            }
+          },
+          {
+            "level": 9,
+            "value": "9",
+            "might": 303336,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Survival Tactics I",
+                "l": 9
+              },
+              {
+                "r": "Animal Handling",
+                "l": 9
+              }
+            ],
+            "time": "37d 16:39:00",
+            "seconds": 3256740,
+            "resources": {
+              "food": 3134824,
+              "stone": 6095491,
+              "timber": 4353923,
+              "ore": 3831452,
+              "gold": 5230514
+            }
+          },
+          {
+            "level": 10,
+            "value": "10",
+            "might": 758338,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Survival Tactics I",
+                "l": 10
+              },
+              {
+                "r": "Animal Handling",
+                "l": 10
+              }
+            ],
+            "time": "94d 05:37:00",
+            "seconds": 8141820,
+            "resources": {
+              "food": 6269648,
+              "stone": 12190982,
+              "timber": 8707845,
+              "ore": 7662903,
+              "gold": 11768656
+            }
+          }
+        ]
+      },
+      {
+        "title": "Monster Hunter II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 159,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              }
+            ],
+            "time": "00:29:00",
+            "seconds": 1740,
+            "resources": {
+              "food": 1493,
+              "stone": 1792,
+              "timber": 1493,
+              "ore": 1195,
+              "gold": 449
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.3%",
+            "might": 264,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 2
+              }
+            ],
+            "time": "00:49:00",
+            "seconds": 2940,
+            "resources": {
+              "food": 4976,
+              "stone": 5972,
+              "timber": 4976,
+              "ore": 3981,
+              "gold": 2989
+            }
+          },
+          {
+            "level": 3,
+            "value": "3.9%",
+            "might": 476,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 3
+              }
+            ],
+            "time": "01:27:00",
+            "seconds": 5220,
+            "resources": {
+              "food": 14928,
+              "stone": 17914,
+              "timber": 14928,
+              "ore": 11943,
+              "gold": 8967
+            }
+          },
+          {
+            "level": 4,
+            "value": "5.8%",
+            "might": 1426,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 4
+              }
+            ],
+            "time": "04:21:00",
+            "seconds": 15660,
+            "resources": {
+              "food": 49760,
+              "stone": 59711,
+              "timber": 49760,
+              "ore": 38808,
+              "gold": 59778
+            }
+          },
+          {
+            "level": 5,
+            "value": "8%",
+            "might": 4280,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 15
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 5
+              }
+            ],
+            "time": "13:02:00",
+            "seconds": 46920,
+            "resources": {
+              "food": 124398,
+              "stone": 149278,
+              "timber": 124398,
+              "ore": 99519,
+              "gold": 149444
+            }
+          },
+          {
+            "level": 6,
+            "value": "10.5%",
+            "might": 12840,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 16
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 6
+              }
+            ],
+            "time": "1d 15:06:00",
+            "seconds": 140760,
+            "resources": {
+              "food": 248796,
+              "stone": 298555,
+              "timber": 248796,
+              "ore": 199037,
+              "gold": 298887
+            }
+          },
+          {
+            "level": 7,
+            "value": "13.3%",
+            "might": 38519,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              },
+              {
+                "r": "Monster Hunter I",
+                "l": 7
+              }
+            ],
+            "time": "4d 21:17:00",
+            "seconds": 422220,
+            "resources": {
+              "food": 1243978,
+              "stone": 1492774,
+              "timber": 1243978,
+              "ore": 995183,
+              "gold": 747217
+            }
+          },
+          {
+            "level": 8,
+            "value": "16.4%",
+            "might": 115556,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              },
+              {
+                "r": "Hunter Recovery I",
+                "l": 8
+              },
+              {
+                "r": "Animal Handling",
+                "l": 8
+              }
+            ],
+            "time": "14d 15:49:00",
+            "seconds": 1266540,
+            "resources": {
+              "food": 2487956,
+              "stone": 2985547,
+              "timber": 2487956,
+              "ore": 1990365,
+              "gold": 1494433
+            }
+          },
+          {
+            "level": 9,
+            "value": "19.8%",
+            "might": 346669,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Hunter Recovery I",
+                "l": 9
+              },
+              {
+                "r": "Animal Handling",
+                "l": 9
+              }
+            ],
+            "time": "43d 23:25:00",
+            "seconds": 3799500,
+            "resources": {
+              "food": 4975911,
+              "stone": 5971094,
+              "timber": 4975911,
+              "ore": 3980729,
+              "gold": 5977730
+            }
+          },
+          {
+            "level": 10,
+            "value": "23.5%",
+            "might": 866673,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Hunter Recovery I",
+                "l": 10
+              },
+              {
+                "r": "Animal Handling",
+                "l": 10
+              }
+            ],
+            "time": "109d 22:33:00",
+            "seconds": 9498780,
+            "resources": {
+              "food": 9951822,
+              "stone": 11942187,
+              "timber": 9951822,
+              "ore": 7961458,
+              "gold": 13449892
+            }
+          }
+        ]
+      },
+      {
+        "title": "Survival Tactics II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 199,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Aggressive Hunter II",
+                "l": 1
+              }
+            ],
+            "time": "00:34:00",
+            "seconds": 2040,
+            "resources": {
+              "food": 1866,
+              "stone": 1493,
+              "timber": 1866,
+              "ore": 2240,
+              "gold": 561
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.3%",
+            "might": 330,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Survival Tactics I",
+                "l": 2
+              }
+            ],
+            "time": "00:56:00",
+            "seconds": 3360,
+            "resources": {
+              "food": 6220,
+              "stone": 4976,
+              "timber": 6220,
+              "ore": 7464,
+              "gold": 3737
+            }
+          },
+          {
+            "level": 3,
+            "value": "3.9%",
+            "might": 594,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Survival Tactics I",
+                "l": 3
+              }
+            ],
+            "time": "01:40:00",
+            "seconds": 6000,
+            "resources": {
+              "food": 18660,
+              "stone": 14928,
+              "timber": 18660,
+              "ore": 22392,
+              "gold": 11209
+            }
+          },
+          {
+            "level": 4,
+            "value": "5.8%",
+            "might": 1784,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              },
+              {
+                "r": "Survival Tactics I",
+                "l": 4
+              }
+            ],
+            "time": "04:58:00",
+            "seconds": 17880,
+            "resources": {
+              "food": 62199,
+              "stone": 49760,
+              "timber": 62199,
+              "ore": 74639,
+              "gold": 74722
+            }
+          },
+          {
+            "level": 5,
+            "value": "8%",
+            "might": 5349,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 16
+              },
+              {
+                "r": "Survival Tactics I",
+                "l": 5
+              }
+            ],
+            "time": "14:54:00",
+            "seconds": 53640,
+            "resources": {
+              "food": 155498,
+              "stone": 124398,
+              "timber": 155498,
+              "ore": 186597,
+              "gold": 186805
+            }
+          },
+          {
+            "level": 6,
+            "value": "10.5%",
+            "might": 16050,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              },
+              {
+                "r": "Survival Tactics I",
+                "l": 6
+              }
+            ],
+            "time": "1d 20:41:00",
+            "seconds": 160860,
+            "resources": {
+              "food": 310995,
+              "stone": 248796,
+              "timber": 310995,
+              "ore": 373194,
+              "gold": 373609
+            }
+          },
+          {
+            "level": 7,
+            "value": "13.3%",
+            "might": 48148,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              },
+              {
+                "r": "Survival Tactics I",
+                "l": 7
+              }
+            ],
+            "time": "5d 14:02:00",
+            "seconds": 482520,
+            "resources": {
+              "food": 1554973,
+              "stone": 1243978,
+              "timber": 1554973,
+              "ore": 1865967,
+              "gold": 934021
+            }
+          },
+          {
+            "level": 8,
+            "value": "16.4%",
+            "might": 144446,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Aggressive Hunter II",
+                "l": 8
+              }
+            ],
+            "time": "16d 18:04:00",
+            "seconds": 1447440,
+            "resources": {
+              "food": 3109945,
+              "stone": 2487956,
+              "timber": 3109945,
+              "ore": 3731934,
+              "gold": 1868041
+            }
+          },
+          {
+            "level": 9,
+            "value": "19.8%",
+            "might": 433336,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Aggressive Hunter II",
+                "l": 9
+              }
+            ],
+            "time": "50d 06:12:00",
+            "seconds": 4342320,
+            "resources": {
+              "food": 6219889,
+              "stone": 4975911,
+              "timber": 6219889,
+              "ore": 7463867,
+              "gold": 7472163
+            }
+          },
+          {
+            "level": 10,
+            "value": "23.5%",
+            "might": 1083341,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Aggressive Hunter II",
+                "l": 10
+              }
+            ],
+            "time": "125d 15:29:00",
+            "seconds": 10855740,
+            "resources": {
+              "food": 12439778,
+              "stone": 9951822,
+              "timber": 12439778,
+              "ore": 14927733,
+              "gold": 16812365
+            }
+          }
+        ]
+      },
+      {
+        "title": "Hunter Recovery II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 199,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Monster Hunter II",
+                "l": 1
+              }
+            ],
+            "time": "00:34:00",
+            "seconds": 2040,
+            "resources": {
+              "food": 1866,
+              "stone": 1493,
+              "timber": 1866,
+              "ore": 2240,
+              "gold": 561
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.4%",
+            "might": 330,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Hunter Recovery I",
+                "l": 2
+              }
+            ],
+            "time": "00:56:00",
+            "seconds": 3360,
+            "resources": {
+              "food": 6220,
+              "stone": 4976,
+              "timber": 6220,
+              "ore": 7464,
+              "gold": 3737
+            }
+          },
+          {
+            "level": 3,
+            "value": "4.2%",
+            "might": 594,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 13
+              },
+              {
+                "r": "Hunter Recovery I",
+                "l": 3
+              }
+            ],
+            "time": "01:40:00",
+            "seconds": 6000,
+            "resources": {
+              "food": 18660,
+              "stone": 14928,
+              "timber": 18660,
+              "ore": 22392,
+              "gold": 11209
+            }
+          },
+          {
+            "level": 4,
+            "value": "6.4%",
+            "might": 1784,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 14
+              },
+              {
+                "r": "Hunter Recovery I",
+                "l": 4
+              }
+            ],
+            "time": "04:58:00",
+            "seconds": 17880,
+            "resources": {
+              "food": 62199,
+              "stone": 49760,
+              "timber": 62199,
+              "ore": 74639,
+              "gold": 74722
+            }
+          },
+          {
+            "level": 5,
+            "value": "9%",
+            "might": 5349,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 16
+              },
+              {
+                "r": "Hunter Recovery I",
+                "l": 5
+              }
+            ],
+            "time": "14:54:00",
+            "seconds": 53640,
+            "resources": {
+              "food": 155498,
+              "stone": 124398,
+              "timber": 155498,
+              "ore": 186597,
+              "gold": 186805
+            }
+          },
+          {
+            "level": 6,
+            "value": "12%",
+            "might": 16050,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 17
+              },
+              {
+                "r": "Hunter Recovery I",
+                "l": 6
+              }
+            ],
+            "time": "1d 20:41:00",
+            "seconds": 160860,
+            "resources": {
+              "food": 310995,
+              "stone": 248796,
+              "timber": 310995,
+              "ore": 373194,
+              "gold": 373609
+            }
+          },
+          {
+            "level": 7,
+            "value": "15.4%",
+            "might": 48148,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 18
+              },
+              {
+                "r": "Hunter Recovery I",
+                "l": 7
+              }
+            ],
+            "time": "5d 14:02:00",
+            "seconds": 482520,
+            "resources": {
+              "food": 1554973,
+              "stone": 1243978,
+              "timber": 1554973,
+              "ore": 1865967,
+              "gold": 934021
+            }
+          },
+          {
+            "level": 8,
+            "value": "19.2%",
+            "might": 144446,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Monster Hunter II",
+                "l": 8
+              }
+            ],
+            "time": "16d 18:04:00",
+            "seconds": 1447440,
+            "resources": {
+              "food": 3109945,
+              "stone": 2487956,
+              "timber": 3109945,
+              "ore": 3731934,
+              "gold": 1868041
+            }
+          },
+          {
+            "level": 9,
+            "value": "23.4%",
+            "might": 433336,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Monster Hunter II",
+                "l": 9
+              }
+            ],
+            "time": "50d 06:12:00",
+            "seconds": 4342320,
+            "resources": {
+              "food": 6219889,
+              "stone": 4975911,
+              "timber": 6219889,
+              "ore": 7463867,
+              "gold": 7472163
+            }
+          },
+          {
+            "level": 10,
+            "value": "28%",
+            "might": 1083341,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Monster Hunter II",
+                "l": 10
+              }
+            ],
+            "time": "125d 15:29:00",
+            "seconds": 10855740,
+            "resources": {
+              "food": 12439778,
+              "stone": 9951822,
+              "timber": 12439778,
+              "ore": 14927733,
+              "gold": 16812365
+            }
+          }
+        ]
+      },
+      {
+        "title": "Monster Hunt IV",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Hunt Level 4 monsters",
+            "might": 236653,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Hunter Recovery II",
+                "l": 8
+              },
+              {
+                "r": "Survival Tactics II",
+                "l": 8
+              }
+            ],
+            "time": "26d 07:17:00",
+            "seconds": 2272620,
+            "resources": {
+              "food": 2809553,
+              "stone": 4370415,
+              "timber": 4994760,
+              "ore": 3433898,
+              "gold": 3787736
+            }
+          }
+        ]
+      },
+      {
+        "title": "MP Advantage",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "20",
+            "might": 238,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Monster Hunt IV",
+                "l": 1
+              }
+            ],
+            "time": "00:34:00",
+            "seconds": 2040,
+            "resources": {
+              "food": 2240,
+              "stone": 1792,
+              "timber": 2240,
+              "ore": 2687,
+              "gold": 673
+            }
+          },
+          {
+            "level": 2,
+            "value": "50",
+            "might": 397,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "00:56:00",
+            "seconds": 3360,
+            "resources": {
+              "food": 7464,
+              "stone": 5972,
+              "timber": 7464,
+              "ore": 8957,
+              "gold": 4484
+            }
+          },
+          {
+            "level": 3,
+            "value": "90",
+            "might": 713,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "01:40:00",
+            "seconds": 6000,
+            "resources": {
+              "food": 22392,
+              "stone": 17914,
+              "timber": 22392,
+              "ore": 26870,
+              "gold": 13450
+            }
+          },
+          {
+            "level": 4,
+            "value": "140",
+            "might": 2140,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "04:58:00",
+            "seconds": 17880,
+            "resources": {
+              "food": 74639,
+              "stone": 59711,
+              "timber": 74639,
+              "ore": 89567,
+              "gold": 89666
+            }
+          },
+          {
+            "level": 5,
+            "value": "200",
+            "might": 6420,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "14:54:00",
+            "seconds": 53640,
+            "resources": {
+              "food": 186597,
+              "stone": 149278,
+              "timber": 186597,
+              "ore": 223916,
+              "gold": 224165
+            }
+          },
+          {
+            "level": 6,
+            "value": "270",
+            "might": 19259,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "1d 20:41:00",
+            "seconds": 160860,
+            "resources": {
+              "food": 373194,
+              "stone": 298555,
+              "timber": 373194,
+              "ore": 447832,
+              "gold": 448330
+            }
+          },
+          {
+            "level": 7,
+            "value": "350",
+            "might": 57778,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "5d 14:02:00",
+            "seconds": 482520,
+            "resources": {
+              "food": 1865967,
+              "stone": 1492774,
+              "timber": 1865967,
+              "ore": 2239160,
+              "gold": 1120825
+            }
+          },
+          {
+            "level": 8,
+            "value": "440",
+            "might": 173335,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "16d 18:04:00",
+            "seconds": 1447440,
+            "resources": {
+              "food": 3731934,
+              "stone": 2985547,
+              "timber": 3731934,
+              "ore": 4478320,
+              "gold": 2241649
+            }
+          },
+          {
+            "level": 9,
+            "value": "540",
+            "might": 520003,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Survival Tactics II",
+                "l": 9
+              }
+            ],
+            "time": "50d 06:12:00",
+            "seconds": 4342320,
+            "resources": {
+              "food": 7463867,
+              "stone": 5971094,
+              "timber": 7463867,
+              "ore": 8956640,
+              "gold": 8966595
+            }
+          },
+          {
+            "level": 10,
+            "value": "650",
+            "might": 1300009,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Survival Tactics II",
+                "l": 10
+              }
+            ],
+            "time": "125d 15:29:00",
+            "seconds": 10855740,
+            "resources": {
+              "food": 14927733,
+              "stone": 11942187,
+              "timber": 14927733,
+              "ore": 17913280,
+              "gold": 20174838
+            }
+          }
+        ]
+      },
+      {
+        "title": "Monster Hunter III",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 238,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Monster Hunt IV",
+                "l": 1
+              }
+            ],
+            "time": "00:42:00",
+            "seconds": 2520,
+            "resources": {
+              "food": 2240,
+              "stone": 2687,
+              "timber": 2240,
+              "ore": 1792,
+              "gold": 673
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.5%",
+            "might": 397,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "01:09:00",
+            "seconds": 4140,
+            "resources": {
+              "food": 7464,
+              "stone": 8957,
+              "timber": 7464,
+              "ore": 5972,
+              "gold": 4484
+            }
+          },
+          {
+            "level": 3,
+            "value": "4.5%",
+            "might": 713,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "02:05:00",
+            "seconds": 7500,
+            "resources": {
+              "food": 22392,
+              "stone": 26870,
+              "timber": 22392,
+              "ore": 17914,
+              "gold": 13450
+            }
+          },
+          {
+            "level": 4,
+            "value": "7%",
+            "might": 2140,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "06:13:00",
+            "seconds": 22380,
+            "resources": {
+              "food": 74639,
+              "stone": 89567,
+              "timber": 74639,
+              "ore": 59711,
+              "gold": 89666
+            }
+          },
+          {
+            "level": 5,
+            "value": "10%",
+            "might": 6420,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "18:37:00",
+            "seconds": 67020,
+            "resources": {
+              "food": 186597,
+              "stone": 223916,
+              "timber": 186597,
+              "ore": 149597,
+              "gold": 224165
+            }
+          },
+          {
+            "level": 6,
+            "value": "13.5%",
+            "might": 19259,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "2d 07:51:00",
+            "seconds": 201060,
+            "resources": {
+              "food": 373194,
+              "stone": 447832,
+              "timber": 373194,
+              "ore": 298555,
+              "gold": 448330
+            }
+          },
+          {
+            "level": 7,
+            "value": "17.5%",
+            "might": 57778,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "6d 23:32:00",
+            "seconds": 603120,
+            "resources": {
+              "food": 1865967,
+              "stone": 2239160,
+              "timber": 1865967,
+              "ore": 1492774,
+              "gold": 1120825
+            }
+          },
+          {
+            "level": 8,
+            "value": "22%",
+            "might": 173335,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "20d 22:35:00",
+            "seconds": 1809300,
+            "resources": {
+              "food": 3731934,
+              "stone": 4478320,
+              "timber": 3731934,
+              "ore": 2985547,
+              "gold": 2241649
+            }
+          },
+          {
+            "level": 9,
+            "value": "27%",
+            "might": 520003,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Hunter Recovery II",
+                "l": 9
+              }
+            ],
+            "time": "62d 19:45:00",
+            "seconds": 5427900,
+            "resources": {
+              "food": 7463867,
+              "stone": 8956640,
+              "timber": 7463867,
+              "ore": 5971094,
+              "gold": 8966595
+            }
+          },
+          {
+            "level": 10,
+            "value": "32.5%",
+            "might": 1300009,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Hunter Recovery II",
+                "l": 10
+              }
+            ],
+            "time": "157d 01:21:00",
+            "seconds": 13569660,
+            "resources": {
+              "food": 14927733,
+              "stone": 17913280,
+              "timber": 14927733,
+              "ore": 11942187,
+              "gold": 20174838
+            }
+          }
+        ]
+      },
+      {
+        "title": "Energy Recovery II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "1%",
+            "might": 278,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "MP Advantage",
+                "l": 1
+              }
+            ],
+            "time": "00:42:00",
+            "seconds": 2520,
+            "resources": {
+              "food": 1881,
+              "stone": 2926,
+              "timber": 3344,
+              "ore": 2299,
+              "gold": 785
+            }
+          },
+          {
+            "level": 2,
+            "value": "2.4%",
+            "might": 462,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "01:09:00",
+            "seconds": 4140,
+            "resources": {
+              "food": 6270,
+              "stone": 9753,
+              "timber": 11147,
+              "ore": 7663,
+              "gold": 5231
+            }
+          },
+          {
+            "level": 3,
+            "value": "4.2%",
+            "might": 832,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "02:05:00",
+            "seconds": 7500,
+            "resources": {
+              "food": 18809,
+              "stone": 29259,
+              "timber": 33439,
+              "ore": 22989,
+              "gold": 15692
+            }
+          },
+          {
+            "level": 4,
+            "value": "6.4%",
+            "might": 2497,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "06:13:00",
+            "seconds": 22380,
+            "resources": {
+              "food": 62697,
+              "stone": 97528,
+              "timber": 111461,
+              "ore": 76630,
+              "gold": 104611
+            }
+          },
+          {
+            "level": 5,
+            "value": "9%",
+            "might": 7490,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "18:37:00",
+            "seconds": 67020,
+            "resources": {
+              "food": 156742,
+              "stone": 243820,
+              "timber": 278652,
+              "ore": 191573,
+              "gold": 261256
+            }
+          },
+          {
+            "level": 6,
+            "value": "12%",
+            "might": 22469,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "2d 07:51:00",
+            "seconds": 201060,
+            "resources": {
+              "food": 313483,
+              "stone": 487640,
+              "timber": 557303,
+              "ore": 383146,
+              "gold": 523052
+            }
+          },
+          {
+            "level": 7,
+            "value": "15.4%",
+            "might": 67408,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "6d 23:32:00",
+            "seconds": 603120,
+            "resources": {
+              "food": 1567412,
+              "stone": 2438197,
+              "timber": 2786511,
+              "ore": 1915726,
+              "gold": 1307629
+            }
+          },
+          {
+            "level": 8,
+            "value": "19.2%",
+            "might": 202224,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "MP Advantage",
+                "l": 8
+              }
+            ],
+            "time": "20d 22:35:00",
+            "seconds": 1809300,
+            "resources": {
+              "food": 3134824,
+              "stone": 4876393,
+              "timber": 5573021,
+              "ore": 3831452,
+              "gold": 2615257
+            }
+          },
+          {
+            "level": 9,
+            "value": "23.4%",
+            "might": 606671,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "MP Advantage",
+                "l": 9
+              }
+            ],
+            "time": "62d 19:45:00",
+            "seconds": 5427900,
+            "resources": {
+              "food": 6269648,
+              "stone": 9752786,
+              "timber": 11146041,
+              "ore": 7662903,
+              "gold": 10461027
+            }
+          },
+          {
+            "level": 10,
+            "value": "28%",
+            "might": 1516667,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "MP Advantage",
+                "l": 10
+              }
+            ],
+            "time": "157d 1:21:00",
+            "seconds": 13569660,
+            "resources": {
+              "food": 12539296,
+              "stone": 19505571,
+              "timber": 22292081,
+              "ore": 15325806,
+              "gold": 23537311
+            }
+          }
+        ]
+      },
+      {
+        "title": "Energy Saver II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.5%",
+            "might": 298,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              },
+              {
+                "r": "Monster Hunter III",
+                "l": 1
+              }
+            ],
+            "time": "00:42:00",
+            "seconds": 2520,
+            "resources": {
+              "food": 2799,
+              "stone": 3359,
+              "timber": 2799,
+              "ore": 2240,
+              "gold": 841
+            }
+          },
+          {
+            "level": 2,
+            "value": "1.4%",
+            "might": 495,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "01:09:00",
+            "seconds": 4140,
+            "resources": {
+              "food": 9330,
+              "stone": 11196,
+              "timber": 9330,
+              "ore": 7464,
+              "gold": 5605
+            }
+          },
+          {
+            "level": 3,
+            "value": "2.7%",
+            "might": 892,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "02:05:00",
+            "seconds": 7500,
+            "resources": {
+              "food": 27990,
+              "stone": 33588,
+              "timber": 27990,
+              "ore": 22392,
+              "gold": 16813
+            }
+          },
+          {
+            "level": 4,
+            "value": "4.4%",
+            "might": 2675,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "06:13:00",
+            "seconds": 22380,
+            "resources": {
+              "food": 93299,
+              "stone": 111958,
+              "timber": 93299,
+              "ore": 74639,
+              "gold": 112083
+            }
+          },
+          {
+            "level": 5,
+            "value": "6.5%",
+            "might": 8024,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 19
+              }
+            ],
+            "time": "18:37:00",
+            "seconds": 67020,
+            "resources": {
+              "food": 233246,
+              "stone": 279895,
+              "timber": 233246,
+              "ore": 186597,
+              "gold": 280207
+            }
+          },
+          {
+            "level": 6,
+            "value": "9%",
+            "might": 24075,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "2d 07:51:00",
+            "seconds": 201060,
+            "resources": {
+              "food": 466492,
+              "stone": 559790,
+              "timber": 466492,
+              "ore": 373194,
+              "gold": 560413
+            }
+          },
+          {
+            "level": 7,
+            "value": "11.9%",
+            "might": 72222,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "6d 23:32:00",
+            "seconds": 603120,
+            "resources": {
+              "food": 2332459,
+              "stone": 2798950,
+              "timber": 2332459,
+              "ore": 1865967,
+              "gold": 1401031
+            }
+          },
+          {
+            "level": 8,
+            "value": "15.2%",
+            "might": 216669,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              },
+              {
+                "r": "Monster Hunter III",
+                "l": 8
+              }
+            ],
+            "time": "20d 22:35:00",
+            "seconds": 1809300,
+            "resources": {
+              "food": 4664917,
+              "stone": 5597900,
+              "timber": 4664917,
+              "ore": 3731934,
+              "gold": 2802061
+            }
+          },
+          {
+            "level": 9,
+            "value": "18.9%",
+            "might": 650004,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Monster Hunter III",
+                "l": 9
+              }
+            ],
+            "time": "62d 19:45:00",
+            "seconds": 5427900,
+            "resources": {
+              "food": 9329833,
+              "stone": 11195800,
+              "timber": 9329833,
+              "ore": 7463867,
+              "gold": 11208244
+            }
+          },
+          {
+            "level": 10,
+            "value": "23%",
+            "might": 1625011,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Monster Hunter III",
+                "l": 10
+              }
+            ],
+            "time": "157d 01:21:00",
+            "seconds": 13569660,
+            "resources": {
+              "food": 18659666,
+              "stone": 22391599,
+              "timber": 18659666,
+              "ore": 14927733,
+              "gold": 25218548
+            }
+          }
+        ]
+      },
+      {
+        "title": "Energy Limit II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "400",
+            "might": 337,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              },
+              {
+                "r": "Energy Recovery II",
+                "l": 6
+              },
+              {
+                "r": "Energy Saver II",
+                "l": 6
+              }
+            ],
+            "time": "00:42:00",
+            "seconds": 2520,
+            "resources": {
+              "food": 2284,
+              "stone": 3553,
+              "timber": 4061,
+              "ore": 2792,
+              "gold": 953
+            }
+          },
+          {
+            "level": 2,
+            "value": "1000",
+            "might": 562,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "01:09:00",
+            "seconds": 4140,
+            "resources": {
+              "food": 7614,
+              "stone": 11843,
+              "timber": 13535,
+              "ore": 9305,
+              "gold": 6352
+            }
+          },
+          {
+            "level": 3,
+            "value": "1800",
+            "might": 1010,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "02:05:00",
+            "seconds": 7500,
+            "resources": {
+              "food": 22840,
+              "stone": 35529,
+              "timber": 40604,
+              "ore": 27915,
+              "gold": 19055
+            }
+          },
+          {
+            "level": 4,
+            "value": "2800",
+            "might": 3032,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "06:13:00",
+            "seconds": 22380,
+            "resources": {
+              "food": 76132,
+              "stone": 118427,
+              "timber": 135345,
+              "ore": 93050,
+              "gold": 127027
+            }
+          },
+          {
+            "level": 5,
+            "value": "4000",
+            "might": 9095,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 20
+              }
+            ],
+            "time": "18:37:00",
+            "seconds": 67020,
+            "resources": {
+              "food": 190329,
+              "stone": 296067,
+              "timber": 338362,
+              "ore": 232624,
+              "gold": 317567
+            }
+          },
+          {
+            "level": 6,
+            "value": "5400",
+            "might": 27284,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 21
+              }
+            ],
+            "time": "2d 07:51:00",
+            "seconds": 201060,
+            "resources": {
+              "food": 380658,
+              "stone": 592134,
+              "timber": 676724,
+              "ore": 465248,
+              "gold": 635134
+            }
+          },
+          {
+            "level": 7,
+            "value": "7000",
+            "might": 81852,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 22
+              }
+            ],
+            "time": "6d 23:32:00",
+            "seconds": 603120,
+            "resources": {
+              "food": 1903286,
+              "stone": 2960667,
+              "timber": 3383620,
+              "ore": 2326239,
+              "gold": 1587835
+            }
+          },
+          {
+            "level": 8,
+            "value": "8800",
+            "might": 245557,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 23
+              },
+              {
+                "r": "Energy Recovery II",
+                "l": 8
+              },
+              {
+                "r": "Energy Saver II",
+                "l": 8
+              }
+            ],
+            "time": "20d 22:35:00",
+            "seconds": 1809300,
+            "resources": {
+              "food": 3806572,
+              "stone": 5921334,
+              "timber": 6767239,
+              "ore": 4652477,
+              "gold": 3175669
+            }
+          },
+          {
+            "level": 9,
+            "value": "10800",
+            "might": 736672,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 24
+              },
+              {
+                "r": "Energy Recovery II",
+                "l": 9
+              },
+              {
+                "r": "Energy Saver II",
+                "l": 9
+              }
+            ],
+            "time": "62d 19:45:00",
+            "seconds": 5427900,
+            "resources": {
+              "food": 7613144,
+              "stone": 11842668,
+              "timber": 13534478,
+              "ore": 9304954,
+              "gold": 12702676
+            }
+          },
+          {
+            "level": 10,
+            "value": "13000",
+            "might": 1841680,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Energy Recovery II",
+                "l": 10
+              },
+              {
+                "r": "Energy Saver II",
+                "l": 10
+              }
+            ],
+            "time": "157d 01:21:00",
+            "seconds": 13569660,
+            "resources": {
+              "food": 15226288,
+              "stone": 23685336,
+              "timber": 27068956,
+              "ore": 18609907,
+              "gold": 28581021
+            }
+          }
+        ]
+      },
+      {
+        "title": "Monster Hunt V",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "Hunt Level 5 monsters",
+            "might": 946612,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Energy Limit II",
+                "l": 10
+              }
+            ],
+            "time": "105d 05:08:00",
+            "seconds": 9090480,
+            "resources": {
+              "food": 8779851,
+              "stone": 13657546,
+              "timber": 15608623,
+              "ore": 10730929,
+              "gold": 15150942
+            }
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Upgrade Defenses",
