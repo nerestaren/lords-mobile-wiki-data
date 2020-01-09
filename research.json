@@ -32644,6 +32644,10 @@
             "might": 154167,
             "requires": [
               {
+                "r": "Academy",
+                "l": 25
+              },
+              {
                 "r": "Stone Harvesting II",
                 "l": 10
               }
