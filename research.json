@@ -30156,8 +30156,8 @@
             "value": "0.6%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "30d 18:22:00",
+            "seconds": 2658120,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -30171,8 +30171,8 @@
             "value": "0.8%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "43d 01:43:00",
+            "seconds": 3721380,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -30206,8 +30206,8 @@
             "value": "1.5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "92d 07:05:00",
+            "seconds": 7974300,
             "resources": {
               "food": 0,
               "stone": 0,
