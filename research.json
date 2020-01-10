@@ -38620,8 +38620,8 @@
             "value": "0.6%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "3d 04:29:00",
+            "seconds": 275340,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -40345,8 +40345,8 @@
             "value": "1.3%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "9d 09:55:00",
+            "seconds": 813300,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -40361,8 +40361,8 @@
             "value": "1.8%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "11d 07:06:00",
+            "seconds": 975960,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -40377,8 +40377,8 @@
             "value": "2.5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "15d 01:28:00",
+            "seconds": 1301280,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -40393,8 +40393,8 @@
             "value": "35%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "19d 18:25:00",
+            "seconds": 1707900,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -40459,8 +40459,8 @@
                 "l": 10
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "51d 18:30:00",
+            "seconds": 4473000,
             "resources": {
               "food": 5865253,
               "stone": 2932627,
@@ -40526,8 +40526,8 @@
             "value": "0.9%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "8d 00:02:00",
+            "seconds": 691320,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -40563,8 +40563,8 @@
             "value": "1.8%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "11d 07:06:00",
+            "seconds": 975960,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -40579,8 +40579,8 @@
             "value": "2.5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "15d 01:28:00",
+            "seconds": 1301280,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -40595,8 +40595,8 @@
             "value": "35%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "19d 18:25:00",
+            "seconds": 1707900,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -40892,8 +40892,8 @@
                 "l": 10
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "51d 18:30:00",
+            "seconds": 4473000,
             "resources": {
               "food": 5865253,
               "stone": 2932627,
@@ -41105,8 +41105,8 @@
             "value": "15%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "51d 18:30:00",
+            "seconds": 4473000,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -41135,8 +41135,8 @@
                 "l": 1
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "2d 07:10:00",
+            "seconds": 198600,
             "resources": {
               "food": 416593,
               "stone": 208297,
@@ -41172,8 +41172,8 @@
             "value": "0.9%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "9d 18:26:00",
+            "seconds": 843960,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -41204,8 +41204,8 @@
             "value": "1.8%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "13d 18:57:00",
+            "seconds": 1191420,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -41220,8 +41220,8 @@
             "value": "2.5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "18d 09:16:00",
+            "seconds": 1588560,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -41241,8 +41241,8 @@
                 "l": 24
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "24d 03:09:00",
+            "seconds": 2084940,
             "resources": {
               "food": 4374219,
               "stone": 2187110,
@@ -41291,8 +41291,8 @@
                 "l": 9
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "48d 06:18:00",
+            "seconds": 4169880,
             "resources": {
               "food": 8748437,
               "stone": 4374219,
@@ -41316,8 +41316,8 @@
                 "l": 10
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "63d 04:49:00",
+            "seconds": 5460540,
             "resources": {
               "food": 11456286,
               "stone": 5728143,
@@ -41346,8 +41346,8 @@
                 "l": 1
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "2d 07:10:00",
+            "seconds": 198600,
             "resources": {
               "food": 416593,
               "stone": 208297,
@@ -41383,8 +41383,8 @@
             "value": "0.9%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "9d 18:26:00",
+            "seconds": 843960,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -41399,8 +41399,8 @@
             "value": "1.3%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "11d 11:48:00",
+            "seconds": 992880,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -41415,8 +41415,8 @@
             "value": "1.8%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "13d 18:57:00",
+            "seconds": 1191420,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -41431,8 +41431,8 @@
             "value": "2.5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "18d 09:16:00",
+            "seconds": 1588560,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -41447,8 +41447,8 @@
             "value": "35%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "24d 03:09:00",
+            "seconds": 2084940,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -41522,8 +41522,8 @@
                 "l": 10
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "63d 04:49:00",
+            "seconds": 5460540,
             "resources": {
               "food": 11456286,
               "stone": 5728143,
@@ -41783,8 +41783,8 @@
                 "l": 1
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "2d 07:10:00",
+            "seconds": 198600,
             "resources": {
               "food": 416593,
               "stone": 208297,
@@ -41975,8 +41975,8 @@
             "value": "15%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "63d 04:49:00",
+            "seconds": 5460540,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42093,8 +42093,8 @@
                 "l": 25
               }
             ],
-            "time": "24d 15:29:00",
-            "seconds": 2129340,
+            "time": "14d 1:59:00",
+            "seconds": 1216740,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42109,8 +42109,8 @@
             "value": "1.5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "18d 18:39:00",
+            "seconds": 1622340,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42125,8 +42125,8 @@
             "value": "2%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "24d 15:29:00",
+            "seconds": 2129340,
             "resources": {
               "food": 4467287,
               "stone": 2233644,
@@ -42141,8 +42141,8 @@
             "value": "3%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "35d 04:58:00",
+            "seconds": 3041880,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42157,8 +42157,8 @@
             "value": "5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "49d 6:57:00",
+            "seconds": 4258620,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42173,8 +42173,8 @@
             "value": "10%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "64d 13:06:00",
+            "seconds": 5576760,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42240,8 +42240,8 @@
             "value": "0.6%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "9d 23:25:00",
+            "seconds": 861900,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42256,8 +42256,8 @@
             "value": "08%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "11d 17:40:00",
+            "seconds": 1014000,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42272,8 +42272,8 @@
             "value": "1.1%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "14d 1:59:00",
+            "seconds": 1216740,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42288,8 +42288,8 @@
             "value": "1.5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "18d 18:39:00",
+            "seconds": 1622340,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42304,8 +42304,8 @@
             "value": "2%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "24d 15:29:00",
+            "seconds": 2129340,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42336,8 +42336,8 @@
             "value": "5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "49d 6:57:00",
+            "seconds": 4258620,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42352,8 +42352,8 @@
             "value": "10%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "64d 13:06:00",
+            "seconds": 5576760,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42872,8 +42872,8 @@
             "value": "0.4%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "16d 01:25:00",
+            "seconds": 1387500,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -42888,8 +42888,8 @@
             "value": "0.6%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "19d 12:01:00",
+            "seconds": 1684860,
             "resources": {
               "food": 2209223,
               "stone": 1104612,
@@ -42904,8 +42904,8 @@
             "value": "08%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "22d 22:36:00",
+            "seconds": 1982160,
             "resources": {
               "food": 2599085,
               "stone": 1299543,
@@ -43066,8 +43066,8 @@
             "value": "0.4%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "16d 01:25:00",
+            "seconds": 1387500,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43082,8 +43082,8 @@
             "value": "0.6%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "19d 12:01:00",
+            "seconds": 1684860,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43098,8 +43098,8 @@
             "value": "08%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "22d 22:36:00",
+            "seconds": 1982160,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43130,8 +43130,8 @@
             "value": "1.5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "36d 15:57:00",
+            "seconds": 3167820,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43146,8 +43146,8 @@
             "value": "2%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "47d 04:15:00",
+            "seconds": 4076100,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43178,8 +43178,8 @@
             "value": "5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "96d 08:29:00",
+            "seconds": 8324940,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43194,8 +43194,8 @@
             "value": "10%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "126d 04:16:00",
+            "seconds": 10901760,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43282,8 +43282,8 @@
             "value": "08%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "22d 22:36:00",
+            "seconds": 1982160,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43314,8 +43314,8 @@
             "value": "1.5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "36d 15:57:00",
+            "seconds": 3167820,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43330,8 +43330,8 @@
             "value": "2%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "47d 04:15:00",
+            "seconds": 4076100,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43362,8 +43362,8 @@
             "value": "5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "96d 08:29:00",
+            "seconds": 8324940,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43378,8 +43378,8 @@
             "value": "10%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "126d 04:16:00",
+            "seconds": 10901760,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43445,8 +43445,8 @@
             "value": "0.6%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "19d 12:01:00",
+            "seconds": 1684860,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43498,8 +43498,8 @@
             "value": "1.5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "36d 15:57:00",
+            "seconds": 3167820,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43514,8 +43514,8 @@
             "value": "2%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "47d 04:15:00",
+            "seconds": 4076100,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43546,8 +43546,8 @@
             "value": "5%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "96d 08:29:00",
+            "seconds": 8324940,
             "resources": {
               "food": 0,
               "stone": 0,
@@ -43562,8 +43562,8 @@
             "value": "10%",
             "might": 0,
             "requires": [],
-            "time": "",
-            "seconds": 0,
+            "time": "126d 04:16:00",
+            "seconds": 10901760,
             "resources": {
               "food": 0,
               "stone": 0,
