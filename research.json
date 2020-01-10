@@ -25016,7 +25016,7 @@
                 "l": 1
               }
             ],
-            "time": "",
+            "time": "60d 8h 42m",
             "seconds": 0,
             "resources": {
               "food": 20526535,
@@ -25237,7 +25237,7 @@
                 "l": 1
               }
             ],
-            "time": "",
+            "time": "45d",
             "seconds": 0,
             "resources": {
               "food": 8552723,
