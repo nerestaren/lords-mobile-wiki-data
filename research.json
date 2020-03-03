@@ -46342,11 +46342,11 @@
             "time": "19d 03:17:00",
             "seconds": 1653420,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
+              "food": 1315725,
+              "stone": 438575,
+              "timber": 657863,
+              "ore": 438575,
+              "gold": 770823,
               "tomes": 57
             }
           },
@@ -46527,11 +46527,11 @@
             "time": "19d 03:17:00",
             "seconds": 1653420,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
+              "food": 1315725,
+              "stone": 657863,
+              "timber": 438575,
+              "ore": 1315725,
+              "gold": 770823,
               "tomes": 57
             }
           },
@@ -46543,11 +46543,11 @@
             "time": "27d 08:08:00",
             "seconds": 2362080,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
+              "food": 1253072,
+              "stone": 783170,
+              "timber": 469902,
+              "ore": 1253072,
+              "gold": 1101175,
               "tomes": 73
             }
           },
@@ -46731,12 +46731,12 @@
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 1315725,
+              "stone": 657863,
+              "timber": 438575,
+              "ore": 438575,
+              "gold": 770823,
+              "tomes": 57
             }
           },
           {
@@ -46752,12 +46752,12 @@
             "time": "",
             "seconds": 0,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
+              "food": 2506143,
+              "stone": 1253072,
+              "timber": 313268,
+              "ore": 313268,
+              "gold": 1101175,
+              "tomes": 73
             }
           },
           {
