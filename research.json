@@ -46829,10 +46829,10 @@
                 "l": 1
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "2d 15:48:00",
+            "seconds": 229680,
             "resources": {
-              "food": 250615,
+              "food": 156634,
               "stone": 78317,
               "timber": 78317,
               "ore": 78317,
@@ -47056,8 +47056,8 @@
                 "l": 1
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "2d 15:48:00",
+            "seconds": 229680,
             "resources": {
               "food": 250615,
               "stone": 46991,
@@ -47283,8 +47283,8 @@
                 "l": 1
               }
             ],
-            "time": "",
-            "seconds": 0,
+            "time": "2d 15:48:00",
+            "seconds": 229680,
             "resources": {
               "food": 250615,
               "stone": 78317,
