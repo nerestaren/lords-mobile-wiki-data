@@ -46420,7 +46420,11 @@
             "might": 16428,
             "requires": [
               {
-                "r": "Lv25\nLunar Foundry",
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Lunar Foundry",
                 "l": 1
               }
             ],
@@ -46439,7 +46443,12 @@
             "level": 2,
             "value": "1%",
             "might": 55030,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
             "time": "6d 09:06:00",
             "seconds": 551160,
             "resources": {
@@ -46455,7 +46464,12 @@
             "level": 3,
             "value": "1.5%",
             "might": 68994,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
             "time": "7d 17:54:00",
             "seconds": 669240,
             "resources": {
@@ -46471,7 +46485,12 @@
             "level": 4,
             "value": "2.5%",
             "might": 82956,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
             "time": "9d 02:43:00",
             "seconds": 787380,
             "resources": {
@@ -46487,7 +46506,12 @@
             "level": 5,
             "value": "3.5%",
             "might": 101027,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
             "time": "10d 22:27:00",
             "seconds": 944820,
             "resources": {
@@ -46503,7 +46527,12 @@
             "level": 6,
             "value": "4.5%",
             "might": 135523,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
             "time": "14d 13:56:00",
             "seconds": 1259760,
             "resources": {
@@ -46519,7 +46548,12 @@
             "level": 7,
             "value": "6%",
             "might": 179055,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
             "time": "19d 03:17:00",
             "seconds": 1653420,
             "resources": {
@@ -46535,7 +46569,12 @@
             "level": 8,
             "value": "8%",
             "might": 252155,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
             "time": "27d 08:08:00",
             "seconds": 2362080,
             "resources": {
@@ -46551,7 +46590,12 @@
             "level": 9,
             "value": "11%",
             "might": 346611,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
             "time": "38d 06:34:00",
             "seconds": 3306840,
             "resources": {
@@ -46567,7 +46611,12 @@
             "level": 10,
             "value": "20%",
             "might": 451743,
-            "requires": [],
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
             "time": "50d 02:53:00",
             "seconds": 4330380,
             "resources": {
@@ -46780,6 +46829,233 @@
           {
             "level": 10,
             "value": "20%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          }
+        ]
+      },
+      {
+        "title": "Infantry Defense II",
+        "requirements": [
+          {
+            "level": 1,
+            "value": "0.2%",
+            "might": 23957,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              },
+              {
+                "r": "Crafting Speed I",
+                "l": 1
+              },
+              {
+                "r": "Lunite Harvesting",
+                "l": 1
+              },
+              {
+                "r": "Lunite Storage",
+                "l": 1
+              }
+            ],
+            "time": "2d 15:48:00",
+            "seconds": 229680,
+            "resources": {
+              "food": 250615,
+              "stone": 46991,
+              "timber": 78317,
+              "ore": 62654,
+              "gold": 110118,
+              "tomes": 7
+            }
+          },
+          {
+            "level": 2,
+            "value": "0.4%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 877150,
+              "stone": 164466,
+              "timber": 274110,
+              "ore": 219288,
+              "gold": 385412,
+              "tomes": 14
+            }
+          },
+          {
+            "level": 3,
+            "value": "0.6%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 100
+            }
+          },
+          {
+            "level": 4,
+            "value": "0.8%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 5,
+            "value": "1.1%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 6,
+            "value": "1.5%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 7,
+            "value": "2%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 8,
+            "value": "3%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 9,
+            "value": "5%",
+            "might": 0,
+            "requires": [
+              {
+                "r": "Academy",
+                "l": 25
+              }
+            ],
+            "time": "",
+            "seconds": 0,
+            "resources": {
+              "food": 0,
+              "stone": 0,
+              "timber": 0,
+              "ore": 0,
+              "gold": 0,
+              "tomes": 0
+            }
+          },
+          {
+            "level": 10,
+            "value": "10%",
             "might": 0,
             "requires": [
               {
@@ -48164,225 +48440,6 @@
               "ore": 87019,
               "gold": 152941,
               "tomes": 9
-            }
-          },
-          {
-            "level": 2,
-            "value": "0.4%",
-            "might": 0,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
-            }
-          },
-          {
-            "level": 3,
-            "value": "0.6%",
-            "might": 0,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
-            }
-          },
-          {
-            "level": 4,
-            "value": "0.8%",
-            "might": 0,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
-            }
-          },
-          {
-            "level": 5,
-            "value": "1.1%",
-            "might": 0,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
-            }
-          },
-          {
-            "level": 6,
-            "value": "1.5%",
-            "might": 0,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
-            }
-          },
-          {
-            "level": 7,
-            "value": "2%",
-            "might": 0,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
-            }
-          },
-          {
-            "level": 8,
-            "value": "3%",
-            "might": 0,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
-            }
-          },
-          {
-            "level": 9,
-            "value": "5%",
-            "might": 0,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
-            }
-          },
-          {
-            "level": 10,
-            "value": "10%",
-            "might": 0,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
-              "tomes": 0
-            }
-          }
-        ]
-      },
-      {
-        "title": "Infantry Offense II",
-        "requirements": [
-          {
-            "level": 1,
-            "value": "0.2%",
-            "might": 47913,
-            "requires": [
-              {
-                "r": "Academy",
-                "l": 25
-              },
-              {
-                "r": "Infantry Health II",
-                "l": 1
-              }
-            ],
-            "time": "",
-            "seconds": 0,
-            "resources": {
-              "food": 313268,
-              "stone": 156634,
-              "timber": 156634,
-              "ore": 156634,
-              "gold": 220235,
-              "tomes": 13
             }
           },
           {
