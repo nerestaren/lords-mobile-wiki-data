@@ -46452,11 +46452,11 @@
             "time": "6d 09:06:00",
             "seconds": 551160,
             "resources": {
-              "food": 0,
-              "stone": 0,
-              "timber": 0,
-              "ore": 0,
-              "gold": 0,
+              "food": 292384,
+              "stone": 182740,
+              "timber": 109644,
+              "ore": 292384,
+              "gold": 256941,
               "tomes": 10
             }
           },
